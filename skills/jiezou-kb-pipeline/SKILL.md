@@ -1,6 +1,6 @@
 ---
 name: jiezou-kb-pipeline
-description: 维护 JIEZOU 客户开发知识库（/Users/eric/Documents/jiezou/jiezou-kb）并跑海关数据线索挖掘。当用户说「导入新的培训/产品资料」「跑一下线索挖掘」「找变压器买家」「更新知识库」「海关数据」「打分排序线索」「加一家竞对/客户」「知识库结构要复用到别的项目」时使用。覆盖：新增实体类型、通用资料导入、可插拔海关数据适配器、24 项规则打分、leads 报告生成，以及这套库的几个硬约束（frontmatter 只能外科手术式编辑、付费平台不抓取、禁入名单）。
+description: 维护 JIEZOU 客户开发知识库（~/jzp-americas-git/knowledge/jiezou-kb）并跑海关数据线索挖掘。当用户说「导入新的培训/产品资料」「跑一下线索挖掘」「找变压器买家」「更新知识库」「海关数据」「打分排序线索」「加一家竞对/客户」「知识库结构要复用到别的项目」时使用。覆盖：新增实体类型、通用资料导入、可插拔海关数据适配器、24 项规则打分、leads 报告生成，以及这套库的几个硬约束（frontmatter 只能外科手术式编辑、付费平台不抓取、禁入名单）。
 agent_created: true
 ---
 
@@ -13,7 +13,7 @@ agent_created: true
 - 用户要新增实体类型（展会、报价记录、内容素材……）
 - 用户提到把这套库复用到别的项目
 
-**知识库位置**：`/Users/eric/Documents/jiezou/jiezou-kb`（独立 git 仓库）
+**知识库位置**：`~/jzp-americas-git/knowledge/jiezou-kb`（独立 git 仓库）
 先 `cd` 过去，所有命令都在仓库根目录执行。
 
 ## 硬约束（踩过坑，别绕开）
@@ -42,7 +42,7 @@ agent_created: true
 ## 常用命令
 
 ```bash
-cd /Users/eric/Documents/jiezou/jiezou-kb
+cd ~/jzp-americas-git/knowledge/jiezou-kb
 
 # 新增一个条目（交互式）
 python3 scripts/new_entry.py 竞争对手 "XX电气"
@@ -144,7 +144,7 @@ CSV / TSV / XLSX 都支持，流式读取。
 
 ```bash
 # 1) 所有条目仍是合法 YAML
-/Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/python -c "
+python3 -c "
 import re,pathlib,yaml
 bad=0
 for p in sorted(pathlib.Path('entries').rglob('*.md')):

@@ -7,7 +7,7 @@ from collections import defaultdict, Counter
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path(Path(__file__).resolve().parents[1])
 OUT = ROOT / "跟进表与邮箱核对-数据分析-20261003.md"
 
 INTERNAL = {'ian@jiezougroup.com', 'ianjiezougroup@gmail.com', 'gracezhouhaoran@gmail.com',

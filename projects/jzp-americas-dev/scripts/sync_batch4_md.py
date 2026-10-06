@@ -11,7 +11,7 @@
 import json, re, sys
 from pathlib import Path
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path(Path(__file__).resolve().parents[1])
 MD = ROOT / "开发信项目/工作区/开发信跟进表.md"
 OFFSET = 31
 SPLIT = "## 新 sheet 索引（batch5+6"

@@ -41,7 +41,7 @@ brew info --cask <x> 2>&1 | head -20     # 确认存在 + 系统版本要求
 ### 第 2 步：取官方 URL 与哈希
 
 ```bash
-brew info --cask --json=v2 <x> 2>/dev/null | /Users/eric/.workbuddy-ai/binaries/python/versions/3.13.12/bin/python3 -c "
+brew info --cask --json=v2 <x> 2>/dev/null | python3 -c "
 import json,sys
 c=json.load(sys.stdin)['casks'][0]
 print('version:',c['version']); print('url:',c['url']); print('sha256:',c.get('sha256'))

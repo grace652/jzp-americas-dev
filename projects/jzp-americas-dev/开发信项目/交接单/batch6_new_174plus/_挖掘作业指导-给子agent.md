@@ -10,12 +10,12 @@
 
 | # | 文件 | 为什么 |
 |---|---|---|
-| 1 | `/Users/eric/.workbuddy-ai/skills/jzp-buyer-handover/SKILL.md` | 🔴 **主操作手册**（六层判定 / 必产字段 / 合格线闸门 / 铁律）|
-| 2 | `/Users/eric/.workbuddy-ai/skills/jzp-buyer-handover/references/渠道状态清单.md` | 🔴 **哪些渠道能用/不能用**（省时间，避免重复踩坑）|
-| 3 | `/Users/eric/.workbuddy-ai/skills/jzp-buyer-handover/references/硬规则与事故.md` | 🔴 **H1–H7 硬规则** |
+| 1 | `~/jzp-americas-git/skills/jzp-buyer-handover/SKILL.md` | 🔴 **主操作手册**（六层判定 / 必产字段 / 合格线闸门 / 铁律）|
+| 2 | `~/jzp-americas-git/skills/jzp-buyer-handover/references/渠道状态清单.md` | 🔴 **哪些渠道能用/不能用**（省时间，避免重复踩坑）|
+| 3 | `~/jzp-americas-git/skills/jzp-buyer-handover/references/硬规则与事故.md` | 🔴 **H1–H7 硬规则** |
 
 **格式范本**（照它的结构写）：
-`/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/开发信项目/交接单/batch4_73plus/买家128_SESCO_Electrozad_开发信交接单.md`
+`~/jzp-americas-git/projects/jzp-americas-dev/开发信项目/交接单/batch4_73plus/买家128_SESCO_Electrozad_开发信交接单.md`
 
 ---
 
@@ -132,7 +132,7 @@
 ## 四、输出格式（强制）
 
 **每家一个文件**，命名：`买家{N}_{公司简称}_开发信交接单.md`
-**路径**：`/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/开发信项目/交接单/batch6_new_174plus/`
+**路径**：`~/jzp-americas-git/projects/jzp-americas-dev/开发信项目/交接单/batch6_new_174plus/`
 
 ### 骨架（照 买家128 的结构）
 

@@ -13,7 +13,7 @@
 import json, re, sys
 from pathlib import Path
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path(Path(__file__).resolve().parents[1])
 MD = ROOT / "开发信项目/工作区/开发信跟进表.md"
 COLS = ["#", "发送日期", "公司名称", "国家/地区", "联系人", "职位", "买家类型", "需求产品",
         "触达来源", "骨架", "建议发送时间(北京)", "邮箱", "状态", "跟进次数", "下次跟进日",

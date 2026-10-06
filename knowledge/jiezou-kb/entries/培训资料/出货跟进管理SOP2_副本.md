@@ -437,4 +437,4 @@ E T A 这个属性转换成数字， 因为 E T A 这个属性是其实， 我�
 
 - 源文件：`/Users/eric/Documents/毅冰课蒸馏/P1方法论库-上传包未完成/出货跟进管理SOP2_副本.pdf`
 - 内容指纹：`sha256:b2ef001487bd`（源文件内容变化时会自动更新本条目）
-- 提取方式：pypdf（/Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/python）
+- 提取方式：pypdf（python3）

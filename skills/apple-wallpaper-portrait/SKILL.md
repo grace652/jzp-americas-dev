@@ -32,7 +32,7 @@ delivered set of correctly composed portrait images.
 ## Environment
 
 ```bash
-PY=/Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/python
+PY=python3
 SKILL_DIR=~/.workbuddy-ai/skills/apple-wallpaper-portrait
 ```
 
@@ -40,7 +40,7 @@ Dependencies: **Pillow** + **numpy**. Both already installed in the venv above.
 If the venv is missing:
 
 ```bash
-/Users/eric/.workbuddy-ai/binaries/python/versions/3.13.12/bin/python3 \
+python3 \
   -m venv /Users/eric/.workbuddy-ai/binaries/python/envs/default
 /Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/pip install Pillow numpy
 ```

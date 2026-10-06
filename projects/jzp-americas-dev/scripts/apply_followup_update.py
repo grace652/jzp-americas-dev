@@ -20,7 +20,7 @@ from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.worksheet.datavalidation import DataValidation
 from openpyxl.formatting.rule import CellIsRule
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path(Path(__file__).resolve().parents[1])
 XLSX = ROOT / "开发信项目/工作区/开发信跟进表.xlsx"
 NEW_SHEET = "开发信跟进表-batch5+6"
 COLS = ["#", "发送日期", "公司名称", "国家/地区", "联系人", "职位", "买家类型", "需求产品",

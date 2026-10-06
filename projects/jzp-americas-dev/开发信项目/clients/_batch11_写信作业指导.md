@@ -9,12 +9,12 @@
 
 | # | 文件 | 为什么 |
 |---|---|---|
-| 1 | `/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/开发信项目/正文格式规范.md` | 🔴 **正文格式的唯一权威定义**（六段结构 / 逐段写法 / 字数 / spam 词表）|
-| 2 | `/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/开发信项目/04_do_not_say.md` | 🔴 **禁用表述** |
-| 3 | `/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/开发信项目/02_product_positioning.md` | 产品定位与认证边界 |
+| 1 | `~/jzp-americas-git/projects/jzp-americas-dev/开发信项目/正文格式规范.md` | 🔴 **正文格式的唯一权威定义**（六段结构 / 逐段写法 / 字数 / spam 词表）|
+| 2 | `~/jzp-americas-git/projects/jzp-americas-dev/开发信项目/04_do_not_say.md` | 🔴 **禁用表述** |
+| 3 | `~/jzp-americas-git/projects/jzp-americas-dev/开发信项目/02_product_positioning.md` | 产品定位与认证边界 |
 
 **格式范本**（照它的结构写）：
-`/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/开发信项目/clients/开发信-APG-HV-Engineering.md`
+`~/jzp-americas-git/projects/jzp-americas-dev/开发信项目/clients/开发信-APG-HV-Engineering.md`
 
 **你的输入**：`开发信项目/交接单/batch11_new_424plus/买家{N}_{简称}_开发信交接单.md`
 

@@ -241,7 +241,7 @@ python3 scripts/import_training.py --source "<目录>" --apply --report
 
 ```bash
 # 让 PDF 能被提取（可选，装到隔离环境，不污染系统）
-/Users/eric/.workbuddy-ai/binaries/python/versions/3.13.12/bin/python3 \
+python3 \
   -m venv /Users/eric/.workbuddy-ai/binaries/python/envs/default
 /Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/pip install pypdf
 ```

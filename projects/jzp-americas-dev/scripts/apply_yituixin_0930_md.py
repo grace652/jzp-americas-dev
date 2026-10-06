@@ -10,7 +10,7 @@ import re
 import sys
 from pathlib import Path
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path(Path(__file__).resolve().parents[1])
 MD = ROOT / "开发信项目/工作区/开发信跟进表.md"
 DOC = ROOT / "开发信项目/00_custom_instructions.md"
 

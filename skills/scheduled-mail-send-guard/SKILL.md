@@ -67,7 +67,7 @@ agent_created: true
 ## 一、动手前的强制自检（每次都要做）
 
 ```bash
-cd "/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev"
+cd "~/jzp-americas-git/projects/jzp-americas-dev"
 pgrep -fl "定时发送"          # 是否已有守候进程
 cat .daemon.lock 2>/dev/null  # 锁里的 PID 是否还活着
 ls -la 发信队列*.json          # 有几个队列文件、mtime 是否刚被改过
@@ -129,7 +129,7 @@ python3 -c "import os; os.kill(<PID>,0)" # 佐证：ProcessLookupError=已死；
 
 ```
 # Bash 工具参数：run_in_background = true
-cd "<ROOT>" && /Users/eric/.workbuddy-ai/binaries/python/versions/3.13.12/bin/python3 \
+cd "<ROOT>" && python3 \
   -u 定时发送.py --daemon --send --yes 2>&1 | tee daemon-batch6.log
 ```
 
@@ -704,7 +704,7 @@ ok, err = mailer.smtp_send(cfg, msg, to)
    结果字符串全变成 `\x01`（看起来像数据坏了，其实是脚本坏了）。
    → **凡是涉及正则的校验脚本，一律写成文件执行，不要用 `-c`**。
 - **xlsx 操作环境**：`openpyxl` **不在默认 python** 里，在受管 venv：
-  `/Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/python`（openpyxl 3.1.5）
+  `python3`（openpyxl 3.1.5）
 
 ### 🔴 解析跟进表 `.md` 的正则必须容忍**对齐补空格**（踩过 3 次）
 
@@ -1023,7 +1023,7 @@ print(f"{t} off={mod.tz_offset(t,now)} 当地 {w['local_start']:%H:%M}–{w['loc
 ```bash
 #!/bin/bash
 cd "<ROOT>" || exit 1
-PY=/Users/eric/.workbuddy-ai/binaries/python/versions/3.13.12/bin/python3
+PY=python3
 while true; do
   PEND=$("$PY" -c "import json;print(sum(1 for i in json.load(open('发信队列.json')) if i['status']=='pending'))" 2>/dev/null)
   [ -z "$PEND" ] && { sleep 60; continue; }        # 读盘失败 → 重试

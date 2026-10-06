@@ -4,7 +4,7 @@
 import csv
 from pathlib import Path
 
-BASE = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/线索资产")
+BASE = Path(Path(__file__).resolve().parents[1] / "线索资产")
 
 HDR = ["序号", "类型", "公司全称", "简称", "国家", "州省", "城市", "官网",
        "业务描述原句", "高价值档", "来源", "核实状态"]

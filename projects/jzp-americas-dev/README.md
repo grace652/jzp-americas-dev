@@ -156,8 +156,8 @@ jzp-americas-dev/
 cd ~/Documents/jiezou/jiezou-kb
 
 # 方式一：用 patch 文件
-patch -p1 < "/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/流水线补丁/补丁A+B-customs_normalize.patch"
-patch -p1 < "/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/流水线补丁/补丁B-lead_scoring.patch"
+patch -p1 < "~/jzp-americas-git/projects/jzp-americas-dev/流水线补丁/补丁A+B-customs_normalize.patch"
+patch -p1 < "~/jzp-americas-git/projects/jzp-americas-dev/流水线补丁/补丁B-lead_scoring.patch"
 
 # 方式二：照 补丁说明.md 手动改（共 4 处，两处文件）
 
@@ -176,7 +176,7 @@ git checkout -- scripts/customs_normalize.py scripts/lead_scoring.py
 ```bash
 cd ~/Documents/jiezou/jiezou-kb
 python3 scripts/customs_data_fetch.py --adapter local_csv \
-    --file "/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/线索资产/南美首批目标客户.csv" \
+    --file "~/jzp-americas-git/projects/jzp-americas-dev/线索资产/南美首批目标客户.csv" \
     --profile manual
 python3 scripts/lead_scoring.py --latest --dry-run --top 30
 ```

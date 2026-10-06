@@ -29,7 +29,7 @@ you want `channels/` and `out/` to be created (or set
 `THUMBNAIL_DISTILLER_HOME`).
 
 ```bash
-PY=/Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/python
+PY=python3
 SKILL_DIR=~/.workbuddy-ai/skills/yt-thumbnail-distill
 ```
 
@@ -38,7 +38,7 @@ Dependency: **Pillow** (images) plus **jieba** and **opencc-python-reimplemented
 Python). All three are already installed in the venv above. If the venv is missing:
 
 ```bash
-/Users/eric/.workbuddy-ai/binaries/python/versions/3.13.12/bin/python3 \
+python3 \
   -m venv /Users/eric/.workbuddy-ai/binaries/python/envs/default
 /Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/pip install Pillow jieba opencc-python-reimplemented
 ```

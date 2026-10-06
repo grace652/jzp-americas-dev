@@ -17,7 +17,7 @@ import re
 import sys
 from pathlib import Path
 
-BASE = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/线索资产")
+BASE = Path(Path(__file__).resolve().parents[1] / "线索资产")
 
 # 成交客户 16 家 + 我方代理（权威来源：成交客户类型总结.md §一）
 DEALS = [

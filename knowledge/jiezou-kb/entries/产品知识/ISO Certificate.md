@@ -36,5 +36,5 @@ source: /Users/eric/Downloads/资料/证书/ISO Certificate.pdf（sha256:131a3c6
 
 - 源文件：`/Users/eric/Downloads/资料/证书/ISO Certificate.pdf`
 - 内容指纹：`sha256:131a3c607e57`（源文件内容变化时会自动更新本条目）
-- 提取方式：pypdf（/Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/python）
+- 提取方式：pypdf（python3）
 - 备注：提取到 0 个字符（可能是纯图片/扫描件）

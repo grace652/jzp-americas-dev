@@ -148,4 +148,4 @@ JIEZOU ELECTRIC
 
 - 源文件：`/Users/eric/Downloads/资料/培训资料/JIEZOU transformer catalog-型号.pdf`
 - 内容指纹：`sha256:101682abc02e`（源文件内容变化时会自动更新本条目）
-- 提取方式：pypdf（/Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/python）
+- 提取方式：pypdf（python3）

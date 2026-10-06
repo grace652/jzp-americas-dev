@@ -18,7 +18,7 @@ from datetime import date, timedelta
 from pathlib import Path
 from collections import Counter
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path(Path(__file__).resolve().parents[1])
 HANDOFF_DIRS = [ROOT / "开发信项目/交接单/batch5_new_129plus",
                 ROOT / "开发信项目/交接单/batch6_new_174plus"]
 CLIENTS = ROOT / "开发信项目/clients"

@@ -7,7 +7,7 @@ from pathlib import Path
 
 import openpyxl
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path(Path(__file__).resolve().parents[1])
 MD = ROOT / "开发信项目/工作区/开发信跟进表.md"
 XLSX = ROOT / "开发信项目/工作区/开发信跟进表.xlsx"
 # 本轮（9/30 跟进信）改过的行 + 新增「已退信」改标的行

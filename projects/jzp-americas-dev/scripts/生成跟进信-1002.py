@@ -14,7 +14,7 @@ import json
 import re
 from pathlib import Path
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path(Path(__file__).resolve().parents[1])
 TODAY = "2026-10-02"
 OUT = ROOT / f".workbuddy-ai/今日工作单-{TODAY}.json"
 

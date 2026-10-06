@@ -22,7 +22,7 @@ from openpyxl.formatting.rule import Rule
 from openpyxl.styles import PatternFill
 from openpyxl.styles.differential import DifferentialStyle
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path(Path(__file__).resolve().parents[1])
 XLSX = ROOT / "开发信项目/工作区/开发信跟进表.xlsx"
 BAK = ROOT / ".workbuddy-ai/开发信跟进表.bak-20261001-加个人处理前.xlsx"
 

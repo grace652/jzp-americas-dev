@@ -16,7 +16,7 @@ import re
 import sys
 from pathlib import Path
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path(Path(__file__).resolve().parents[1])
 CL = ROOT / "开发信项目/clients"
 
 # 16 家第 2 轮客户的【第 1 轮】文件原名（= 将被还原的名字）

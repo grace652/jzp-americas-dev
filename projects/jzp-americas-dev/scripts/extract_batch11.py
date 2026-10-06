@@ -4,7 +4,7 @@
 import re
 from pathlib import Path
 
-BASE = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/线索资产")
+BASE = Path(Path(__file__).resolve().parents[1] / "线索资产")
 FILES = [
     "_batch11_A_加拿大_候选.md",
     "_batch11_A_美国_候选.md",

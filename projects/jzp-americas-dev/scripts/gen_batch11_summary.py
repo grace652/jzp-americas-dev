@@ -4,7 +4,7 @@
 import re
 from pathlib import Path
 
-BASE = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/开发信项目/交接单/batch11_new_424plus")
+BASE = Path(Path(__file__).resolve().parents[1] / "开发信项目/交接单/batch11_new_424plus")
 
 RECIP = {
     424: ("Shawn Crucil · President", "fmi@fminstallations.ca", "B"),

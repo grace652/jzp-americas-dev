@@ -33,14 +33,16 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 LIST_CSV = ROOT / "发信草稿" / "发送清单.csv"
 LOG_CSV = ROOT / "发信草稿" / "发送日志.csv"
-BIN_DIR = "/Users/eric/.workbuddy-ai/binaries/node/versions/22.22.2-3/bin"
+# node 可执行文件目录（wecom-cli 用）。未设置则不改 PATH，走系统默认查找。
+BIN_DIR = os.environ.get("JZP_NODE_BIN", "")
 PLACEHOLDER = "【待填"
 
 
 def run_cli(args: list, dry_run: bool) -> tuple:
     """调用 wecom-cli，返回 (成功?, 输出文本)。"""
     env = dict(os.environ)
-    env["PATH"] = f"{BIN_DIR}:{env.get('PATH', '')}"
+    if BIN_DIR:
+        env["PATH"] = f"{BIN_DIR}:{env.get('PATH', '')}"
     cmd = ["wecom-cli", "mail", "send"]
     if dry_run:
         cmd.append("--dry-run")

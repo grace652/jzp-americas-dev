@@ -4,7 +4,7 @@
 import sys
 from pathlib import Path
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path(Path(__file__).resolve().parents[1])
 sys.path.insert(0, str(ROOT))
 
 import importlib.util

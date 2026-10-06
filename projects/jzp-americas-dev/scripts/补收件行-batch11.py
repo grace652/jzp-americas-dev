@@ -7,7 +7,7 @@
 import re
 from pathlib import Path
 
-CLI = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/开发信项目/clients")
+CLI = Path(Path(__file__).resolve().parents[1] / "开发信项目/clients")
 
 # 文件名 -> (姓名, 职务, 邮箱, 来源说明)
 R = {

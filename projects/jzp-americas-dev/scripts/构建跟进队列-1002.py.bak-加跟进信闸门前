@@ -18,7 +18,7 @@ from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path("~/jzp-americas-git/projects/jzp-americas-dev")
 TODAY = "2026-10-02"
 WORK = ROOT / f".workbuddy-ai/今日工作单-{TODAY}.json"
 QUEUE = ROOT / f"发信队列-跟进1002.json"

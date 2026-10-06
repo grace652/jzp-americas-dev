@@ -4,7 +4,7 @@
 import re
 from pathlib import Path
 
-BASE = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/开发信项目/交接单/batch11_new_424plus")
+BASE = Path(Path(__file__).resolve().parents[1] / "开发信项目/交接单/batch11_new_424plus")
 
 rows = []
 for f in sorted(BASE.glob("买家*.md"), key=lambda p: int(re.match(r"买家(\d+)", p.name).group(1))):

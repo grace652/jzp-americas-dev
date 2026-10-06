@@ -1135,4 +1135,4 @@ A3 - 并柜出货：
 
 - 源文件：`/Users/eric/Documents/毅冰课蒸馏/P1方法论库-上传包未完成/出货SOP_副本.pdf`
 - 内容指纹：`sha256:a7faf0396c9c`（源文件内容变化时会自动更新本条目）
-- 提取方式：pypdf（/Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/python）
+- 提取方式：pypdf（python3）

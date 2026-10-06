@@ -4,10 +4,7 @@
 
 cd "$(dirname "$0")" || exit 1
 
-PY="/Users/eric/.workbuddy-ai/binaries/python/versions/3.13.12/bin/python3"
-if [ ! -x "$PY" ]; then
-  PY="$(command -v python3)"
-fi
+PY="$(command -v python3)"
 
 echo "════════════════════════════════════════════════════════════"
 echo "  JIEZOU 企业邮箱 · 凭据配置"

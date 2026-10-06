@@ -45,7 +45,7 @@ agent_created: true
 ### 0. 环境
 
 ```bash
-PY=/Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/python
+PY=python3
 # 该 env 已装 pymupdf + pillow；缺则：
 # $PY -m pip install pymupdf pillow
 ```

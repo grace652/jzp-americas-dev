@@ -233,4 +233,4 @@ any authorized licensee of UL Solutions.
 
 - 源文件：`/Users/eric/Downloads/资料/证书/JZPE-SUBSTATION TRANSFORMER-UL- ECD Letter-2024-11-11-4791347598.pdf`
 - 内容指纹：`sha256:9d8f9607045f`（源文件内容变化时会自动更新本条目）
-- 提取方式：pypdf（/Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/python）
+- 提取方式：pypdf（python3）

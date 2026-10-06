@@ -18,7 +18,7 @@ from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path(Path(__file__).resolve().parents[1])
 QUEUE = ROOT / "发信队列-跟进1001.json"
 BJ = timezone(timedelta(hours=8))
 TZ_OFF = {"AT": -3, "ET": -4, "CT": -5, "MT": -6, "PT": -7, "AK": -8}

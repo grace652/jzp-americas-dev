@@ -292,4 +292,4 @@ Transformers
 
 - 源文件：`/Users/eric/Downloads/资料/证书/E541626-20240829-Certificate of Compliance.pdf`
 - 内容指纹：`sha256:f62bf16b251a`（源文件内容变化时会自动更新本条目）
-- 提取方式：pypdf（/Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/python）
+- 提取方式：pypdf（python3）

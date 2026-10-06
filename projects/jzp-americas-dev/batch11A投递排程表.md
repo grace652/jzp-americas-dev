@@ -84,7 +84,7 @@
 
 **撤下方法**（不影响其它队列）：
 ```bash
-cd "/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev"
+cd "~/jzp-americas-git/projects/jzp-americas-dev"
 python3 - <<'PY'
 import json
 q='发信队列-batch11A.json'

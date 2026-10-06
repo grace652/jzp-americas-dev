@@ -10,7 +10,7 @@ agent_created: true
 **先读**：该项目根的 `README.md`（字段设计、限制、FAQ 都在里面，不要重复推导）
 
 ```bash
-PY=/Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/python
+PY=python3
 R="/Users/eric/WorkBuddy AI/2026-09-18-23-16-21/elderly-content-research"
 cd "$R"
 ```

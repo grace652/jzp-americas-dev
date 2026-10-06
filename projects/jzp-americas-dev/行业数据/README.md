@@ -54,8 +54,8 @@
 
 解释器：
 ```bash
-PY=/Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/python
-cd "/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/行业数据"
+PY=python3
+cd "~/jzp-americas-git/projects/jzp-americas-dev/行业数据"
 ```
 
 | 命令 | 作用 |

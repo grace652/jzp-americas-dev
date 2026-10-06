@@ -19,7 +19,7 @@ from build_followup_rows import (clean, sec, rows_of, parse_core, pick_type, pic
                                  norm_country, norm_src, workday_add, NEXT_AFTER,
                                  NOT_FOUND, NO_LETTER, CLIENTS)
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path(Path(__file__).resolve().parents[1])
 HANDOFF = ROOT / "开发信项目/交接单/batch4_73plus"
 START_N = 117          # 老 sheet 到 #116，本次接 117
 

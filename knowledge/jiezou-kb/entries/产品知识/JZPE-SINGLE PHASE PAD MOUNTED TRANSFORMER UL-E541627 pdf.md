@@ -208,4 +208,4 @@ any authorized licensee of UL Solutions.
 
 - 源文件：`/Users/eric/Downloads/资料/证书/JZPE-SINGLE PHASE PAD MOUNTED TRANSFORMER UL-E541627 pdf.pdf`
 - 内容指纹：`sha256:9f6325bf136a`（源文件内容变化时会自动更新本条目）
-- 提取方式：pypdf（/Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/python）
+- 提取方式：pypdf（python3）

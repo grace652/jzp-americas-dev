@@ -16,7 +16,7 @@ from pathlib import Path
 
 import openpyxl
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path(Path(__file__).resolve().parents[1])
 import os
 TODAY = os.environ.get("JZP_TODAY", "2026-10-02")   # 可用 JZP_TODAY 覆盖
 TERMINAL = {"已成交", "已退订（对方拒联）", "已放弃", "已退信", "个人处理", "无回应"}

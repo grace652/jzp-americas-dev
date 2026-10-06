@@ -17,7 +17,7 @@ from collections import Counter
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path(Path(__file__).resolve().parents[1])
 BJ = timezone(timedelta(hours=8))
 TZ_CN = {"ET": "美东", "CT": "美中", "MT": "美山", "PT": "美西", "AK": "阿拉斯加",
          "UAE": "阿联酋", "AT": "大西洋", "AZ": "亚利桑那"}

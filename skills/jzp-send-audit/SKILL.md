@@ -19,8 +19,8 @@ agent_created: true
 
 ### 1. 导出全量（两个脚本在项目 `scripts/`）
 ```bash
-cd "/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev"
-PY=/Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/python   # 该 venv 已装 openpyxl
+cd "~/jzp-americas-git/projects/jzp-americas-dev"
+PY=python3   # 该 venv 已装 openpyxl
 $PY scripts/导出已发送全量.py     # → .workbuddy-ai/已发送全量.json
 $PY scripts/导出收件箱全量.py     # → .workbuddy-ai/收件箱全量.json
 ```

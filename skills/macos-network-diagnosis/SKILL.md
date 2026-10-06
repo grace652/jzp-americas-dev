@@ -209,7 +209,7 @@ join -j 2 -o 0,1.1,2.1 <(sort -k2 /tmp/s1.txt) <(sort -k2 /tmp/s2.txt) | head
 拿到 IP 后测链路质量（纯 TCP 层，避开 HTTP 层干扰）：
 
 ```bash
-/Users/eric/.workbuddy-ai/binaries/python/versions/3.13.12/bin/python3 - <<'PY'
+python3 - <<'PY'
 import socket, time, statistics
 for host, port in [("14.137.237.32", 32203), ("223.5.5.5", 443)]:
     ts = []

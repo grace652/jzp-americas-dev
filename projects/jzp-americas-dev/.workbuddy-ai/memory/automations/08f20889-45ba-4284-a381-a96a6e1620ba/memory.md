@@ -1,8 +1,8 @@
 # 自动化执行记忆 — 环节⑤ 回复识别（回溯扫描）
 
 ## 任务定义
-- 命令：`/Users/eric/.workbuddy-ai/binaries/python/versions/3.13.12/bin/python3 扫描回复.py --days 14`
-- 工作目录：`/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev`
+- 命令：`python3 扫描回复.py --days 14`
+- 工作目录：`~/jzp-americas-git/projects/jzp-americas-dev`
 - 脚本只读邮箱 + 写本地登记表，**不发信**。
 - 必须回溯 14 天（2026-09-30 曾发生 Zeus Electric 询盘漏登记 41 小时事故）。
 

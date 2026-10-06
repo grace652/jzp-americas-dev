@@ -58,6 +58,6 @@
 ## 发送后如何查看
 
 ```bash
-cd "/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev"
+cd "~/jzp-americas-git/projects/jzp-americas-dev"
 python3 定时发送.py --status      # 看还剩几封 pending
 ```

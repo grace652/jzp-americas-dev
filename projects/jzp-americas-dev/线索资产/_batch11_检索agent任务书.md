@@ -105,7 +105,7 @@
 
 ## 七、交付
 
-写到 `/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/线索资产/` 下：
+写到 `~/jzp-americas-git/projects/jzp-americas-dev/线索资产/` 下：
 - `_batch11_A_加拿大_候选.md`（20 家）
 - `_batch11_A_美国_候选.md`（20 家）
 - `_batch11_B_加拿大_候选.md`（20 家）

@@ -77,7 +77,7 @@ agent_created: true
 有匹配的行业数据时跑一次（详见 `references/09-行业信息融入.md` §四）：
 
 ```
-PY=/Users/eric/.workbuddy-ai/binaries/python/envs/default/bin/python
+PY=python3
 cd "<项目根>/行业数据"
 $PY 抓取/抓取行业数据.py --pick --geo <US|CA> --buyer <EPC|utility|distributor> --product <distribution|power> --limit 3
 ```

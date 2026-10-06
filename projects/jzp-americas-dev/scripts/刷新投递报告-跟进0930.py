@@ -16,7 +16,7 @@ import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path(Path(__file__).resolve().parents[1])
 QUEUE = ROOT / "发信队列-跟进0930.json"
 OUT = "跟进0930投递结果-20261001.md"
 BJ = timezone(timedelta(hours=8))

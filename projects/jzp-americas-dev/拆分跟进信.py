@@ -25,8 +25,14 @@ import re
 import sys
 from pathlib import Path
 
-SRC = Path("/Users/eric/Downloads/开发客户流程agent/项目：开发信2026-09-15-14-09-34"
-           "/project3/clients/跟进信-20260928")
+# 优先取仓库内副本；若项目被单独拷出（不在仓库里），回退到原始位置
+_SRC_CANDIDATES = [
+    Path(__file__).resolve().parents[2] / "archive-projects"
+    / "项目：开发信2026-09-15-14-09-34" / "project3" / "clients" / "跟进信-20260928",
+    Path.home() / "Downloads" / "开发客户流程agent" / "项目：开发信2026-09-15-14-09-34"
+    / "project3" / "clients" / "跟进信-20260928",
+]
+SRC = next((p for p in _SRC_CANDIDATES if p.exists()), _SRC_CANDIDATES[0])
 DST = Path(__file__).resolve().parent / "开发信项目" / "clients"
 
 FILES = [

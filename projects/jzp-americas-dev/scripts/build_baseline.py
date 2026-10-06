@@ -18,7 +18,7 @@ import sys
 from collections import Counter
 from pathlib import Path
 
-BASE = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev/线索资产")
+BASE = Path(Path(__file__).resolve().parents[1] / "线索资产")
 
 DEALS = [
     "Black & McDonald Limited", "Wilson High Voltage Inc.", "AC Tesla",

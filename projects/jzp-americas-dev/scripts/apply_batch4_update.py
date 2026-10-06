@@ -15,7 +15,7 @@ from pathlib import Path
 import openpyxl
 from openpyxl.styles import PatternFill, Alignment
 
-ROOT = Path("/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev")
+ROOT = Path(Path(__file__).resolve().parents[1])
 XLSX = ROOT / "开发信项目/工作区/开发信跟进表.xlsx"
 OLD = "开发信跟进表"
 NEW = "开发信跟进表-batch5+6"
