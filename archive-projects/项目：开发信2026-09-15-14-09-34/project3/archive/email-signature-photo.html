@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JZPE Email Signature — Ian Chou (with photo)</title>
+<style>
+  :root{
+    --ink:#1f2937; --muted:#6b7280; --line:#dfe3e8;
+    --navy:#0f3d63; --accent:#c8102e; --bg:#f4f6f8;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; padding:40px 24px 80px; background:var(--bg); color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:780px;margin:0 auto}
+  h1{font-size:22px;font-weight:700;margin:0 0 6px;letter-spacing:-.01em}
+  .sub{font-size:13.5px;color:var(--muted);margin:0 0 8px;line-height:1.6}
+  .note{
+    background:#fff;border:1px solid var(--line);border-left:3px solid var(--navy);
+    border-radius:6px;padding:14px 18px;font-size:13px;color:#374151;
+    line-height:1.7;margin:18px 0 34px;
+  }
+  .note b{color:var(--navy)}
+  .note.warn{border-left-color:var(--accent)}
+  .note.warn b{color:var(--accent)}
+  .card{
+    background:#fff;border:1px solid var(--line);border-radius:10px;
+    padding:30px 34px;margin-bottom:26px;box-shadow:0 1px 2px rgba(16,24,40,.04);
+  }
+  .label{
+    display:inline-block;font-size:11px;font-weight:700;letter-spacing:.09em;
+    text-transform:uppercase;color:#fff;background:var(--navy);
+    padding:3px 10px;border-radius:4px;margin-bottom:6px;
+  }
+  .label.alt{background:var(--accent)}
+  .label.mute{background:#64748b}
+  .desc{font-size:12.5px;color:var(--muted);margin:8px 0 24px;line-height:1.65}
+  .stage{border:1px dashed #cbd5e1;border-radius:6px;padding:24px 20px;background:#fcfdfe;overflow-x:auto}
+  code{background:#f1f5f9;border:1px solid #e2e8f0;border-radius:4px;padding:1px 5px;font-size:12px;
+       font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+
+  /* ---- avatar design helpers (page chrome only, NOT part of signature) ---- */
+  .photobg{background:#0f1319;padding:28px 24px;border-radius:6px}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <h1>Email Signature — Ian Chou, with photo</h1>
+  <p class="sub">JZPE POWER TRANSFORMER CO., LTD. · ian@jiezougroup.com · WhatsApp +86 187 5612 7603</p>
+
+  <div class="note warn">
+    <b>Before you install — two things must happen first:</b><br>
+    <b>1. Your photo and the product banner must be uploaded to a public URL.</b>
+    An email signature cannot point at <code>C:\Users\win\Desktop\pic.jpg</code> — the recipient's
+    mail server will never see it, and the image shows as a broken box. Upload both files
+    (your headshot + <code>z邮件.png</code>) to your website's media folder or any image host,
+    then replace the two <code>src="..."</code> paths in the code below with the live URLs.<br>
+    <b>2. Use a square crop.</b> Your photo is 447×447 and already square. Circular crops work
+    because of that. If you re-upload a different photo, crop it square first.<br>
+    <b>Design note:</b> your photo has a near-black background (I measured it — brightness 3/255).
+    I therefore built all three designs on a dark panel so the photo blends in seamlessly instead
+    of showing a visible rectangle. That is a deliberate design choice, not an accident.
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- OPTION A — CIRCULAR PHOTO + NAME + BANNER                     -->
+  <!-- ============================================================ -->
+  <div class="card">
+    <span class="label">Option A · Recommended</span>
+    <p class="desc">
+      <b>Circular headshot + firm contact block + product banner.</b> A round photo reads as
+      professional and human rather than corporate-ID — the circle is what does that, because
+      it hides the black background edge. Name and title sit beside the face so the buyer
+      connects the person to the company in one glance.
+    </p>
+
+    <div class="stage">
+      <!-- ================= COPY FROM HERE ================= -->
+      <table cellpadding="0" cellspacing="0" border="0" style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#1f2937;line-height:1.5;border-collapse:collapse;max-width:540px;">
+        <tr>
+          <td width="92" valign="top" style="padding:0 14px 0 0;">
+            <img src="assets/pic.jpg" alt="Ian Chou" width="78" height="78"
+                 style="display:block;width:78px;height:78px;border-radius:50%;border:0;object-fit:cover;">
+          </td>
+          <td valign="middle" style="padding:0;">
+            <div style="font-size:16px;font-weight:bold;color:#0f3d63;letter-spacing:.2px;line-height:1.25;">Ian Chou</div>
+            <div style="font-size:12px;color:#6b7280;padding-top:3px;line-height:1.45;">
+              Sales Manager &nbsp;|&nbsp; JZPE POWER TRANSFORMER CO., LTD.
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" style="padding:12px 0 0 0;border-bottom:2px solid #0f3d63;font-size:0;line-height:0;">&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan="2" style="padding:12px 0 0 0;">
+            <table cellpadding="0" cellspacing="0" border="0" style="font-family:Arial,Helvetica,sans-serif;font-size:12.5px;color:#374151;line-height:1.8;border-collapse:collapse;">
+              <tr>
+                <td style="padding:0 10px 0 0;color:#9aa4b2;">E</td>
+                <td style="padding:0;"><a href="mailto:ian@jiezougroup.com" style="color:#0f3d63;text-decoration:none;">ian@jiezougroup.com</a></td>
+              </tr>
+              <tr>
+                <td style="padding:0 10px 0 0;color:#9aa4b2;">M</td>
+                <td style="padding:0;">WhatsApp / WeChat: <a href="https://wa.me/8618756127603" style="color:#0f3d63;text-decoration:none;">+86 187 5612 7603</a></td>
+              </tr>
+              <tr>
+                <td style="padding:0 10px 0 0;color:#9aa4b2;">W</td>
+                <td style="padding:0;"><a href="https://www.jiezougroup.com" style="color:#0f3d63;text-decoration:none;font-weight:bold;">www.jiezougroup.com</a></td>
+              </tr>
+              <tr>
+                <td style="padding:0 10px 0 0;color:#9aa4b2;">A</td>
+                <td style="padding:0;color:#4b5563;">Building D, Suzhou Bay Center Plaza, Wuzhong District, Suzhou City, China</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" style="padding:14px 0 0 0;">
+            <img src="assets/banner.png" alt="JZPE product range" width="428" style="display:block;width:428px;max-width:100%;height:auto;border:0;">
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" style="padding:8px 0 0 0;font-family:Arial,Helvetica,sans-serif;font-size:10.5px;color:#9aa4b2;line-height:1.55;">
+            Single &amp; Three-Phase Pad-Mount &nbsp;·&nbsp; Pole-Mount &nbsp;·&nbsp; Oil-Immersed Distribution &nbsp;·&nbsp; Substation Transformers<br>
+            ISO 9001 / 14001 / 45001 &nbsp;·&nbsp; UL Certified &nbsp;·&nbsp; CE &nbsp;·&nbsp; Built to IEEE / CSA / IEC Standards
+          </td>
+        </tr>
+      </table>
+      <!-- ================= TO HERE ================= -->
+    </div>
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- OPTION B — DARK PANEL (because photo bg is black)             -->
+  <!-- ============================================================ -->
+  <div class="card">
+    <span class="label alt">Option B · Best match for this photo</span>
+    <p class="desc">
+      <b>Dark card.</b> Because your photo's background is essentially black, placing the whole
+      signature on a dark panel makes the portrait look intentional and seamlessly embedded —
+      no visible photo rectangle at all. Looks the most "designed" of the three.
+      Trade-off: some corporate email clients render dark backgrounds inconsistently, and a
+      dark block can look heavy in a plain-text reply thread. Test before rolling out.
+    </p>
+
+    <div class="stage">
+      <div class="photobg">
+      <!-- ================= COPY FROM HERE ================= -->
+      <table cellpadding="0" cellspacing="0" border="0" style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#e5e9ef;line-height:1.5;border-collapse:collapse;max-width:540px;background:#0f1319;padding:0;">
+        <tr>
+          <td width="104" valign="top" style="padding:18px 16px 18px 20px;">
+            <img src="assets/pic.jpg" alt="Ian Chou" width="72" height="72"
+                 style="display:block;width:72px;height:72px;border-radius:50%;border:2px solid #2f4a66;object-fit:cover;">
+          </td>
+          <td valign="middle" style="padding:18px 22px 18px 0;">
+            <div style="font-size:16.5px;font-weight:bold;color:#ffffff;letter-spacing:.3px;line-height:1.25;">Ian Chou</div>
+            <div style="font-size:11.5px;color:#8fa6bd;padding-top:3px;letter-spacing:.2px;">SALES MANAGER</div>
+            <div style="font-size:11.5px;color:#c8102e;padding-top:2px;font-weight:bold;letter-spacing:.3px;">JZPE POWER TRANSFORMER CO., LTD.</div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" style="padding:0 22px 0 20px;border-bottom:1px solid #2a3646;font-size:0;line-height:0;">&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan="2" style="padding:14px 22px 0 20px;">
+            <table cellpadding="0" cellspacing="0" border="0" style="font-family:Arial,Helvetica,sans-serif;font-size:12.5px;color:#c3cedb;line-height:1.8;border-collapse:collapse;">
+              <tr>
+                <td style="padding:0 10px 0 0;color:#5f7a94;">E</td>
+                <td style="padding:0;"><a href="mailto:ian@jiezougroup.com" style="color:#7fb3e0;text-decoration:none;">ian@jiezougroup.com</a></td>
+              </tr>
+              <tr>
+                <td style="padding:0 10px 0 0;color:#5f7a94;">M</td>
+                <td style="padding:0;">WhatsApp / WeChat: <a href="https://wa.me/8618756127603" style="color:#7fb3e0;text-decoration:none;">+86 187 5612 7603</a></td>
+              </tr>
+              <tr>
+                <td style="padding:0 10px 0 0;color:#5f7a94;">W</td>
+                <td style="padding:0;"><a href="https://www.jiezougroup.com" style="color:#7fb3e0;text-decoration:none;font-weight:bold;">www.jiezougroup.com</a></td>
+              </tr>
+              <tr>
+                <td style="padding:0 10px 0 0;color:#5f7a94;">A</td>
+                <td style="padding:0;">Building D, Suzhou Bay Center Plaza, Wuzhong District, Suzhou City, China</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" style="padding:14px 20px 0 20px;">
+            <!-- if the banner disappears on dark, delete the white CSS class below -->
+            <img src="assets/banner.png" alt="JZPE product range" width="428" style="display:block;width:428px;max-width:100%;height:auto;border:0;background:#ffffff;border-radius:4px;padding:6px;">
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" style="padding:11px 22px 18px 20px;font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#7d8fa3;line-height:1.55;letter-spacing:.2px;">
+            PAD-MOUNT &nbsp;·&nbsp; POLE-MOUNT &nbsp;·&nbsp; OIL-IMMERSED &nbsp;·&nbsp; SUBSTATION &nbsp;&nbsp;|&nbsp;&nbsp; ISO 9001/14001/45001 · UL · CE
+          </td>
+        </tr>
+      </table>
+      <!-- ================= TO HERE ================= -->
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- OPTION C — SQUARE PHOTO, LEFT RULE (conservative)              -->
+  <!-- ============================================================ -->
+  <div class="card">
+    <span class="label mute">Option C · Most conservative</span>
+    <p class="desc">
+      <b>Square photo with thin red rule.</b> No banner image at all, so nothing can break.
+      The square crop with a subtle border looks like a corporate directory entry — very common
+      in European and utility-sector correspondence. Use this when writing to a power utility or
+      a large EPC, where a big colorful product banner can read as too salesy.
+    </p>
+
+    <div class="stage">
+      <!-- ================= COPY FROM HERE ================= -->
+      <table cellpadding="0" cellspacing="0" border="0" style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#1f2937;line-height:1.5;border-collapse:collapse;max-width:500px;">
+        <tr>
+          <td width="80" valign="top" style="padding:0 16px 0 0;">
+            <img src="assets/pic.jpg" alt="Ian Chou" width="64" height="64"
+                 style="display:block;width:64px;height:64px;border-radius:3px;border:1px solid #dfe3e8;object-fit:cover;">
+          </td>
+          <td valign="top" style="padding:0 0 0 16px;border-left:3px solid #c8102e;">
+            <div style="font-size:15px;font-weight:bold;color:#0f3d63;line-height:1.25;">Ian Chou</div>
+            <div style="font-size:11.5px;color:#6b7280;padding-top:2px;line-height:1.5;">
+              Sales Manager &nbsp;|&nbsp; JZPE POWER TRANSFORMER CO., LTD.
+            </div>
+            <div style="font-size:12.5px;color:#374151;padding-top:8px;line-height:1.8;">
+              <a href="mailto:ian@jiezougroup.com" style="color:#0f3d63;text-decoration:none;">ian@jiezougroup.com</a><br>
+              WhatsApp <a href="https://wa.me/8618756127603" style="color:#0f3d63;text-decoration:none;">+86 187 5612 7603</a><br>
+              <a href="https://www.jiezougroup.com" style="color:#0f3d63;text-decoration:none;font-weight:bold;">www.jiezougroup.com</a><br>
+              <span style="color:#6b7280;font-size:11.5px;">Building D, Suzhou Bay Center Plaza, Wuzhong District, Suzhou City, China</span>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" style="padding:9px 0 0 0;font-family:Arial,Helvetica,sans-serif;font-size:10.5px;color:#9aa4b2;line-height:1.55;">
+            Pad-Mount · Pole-Mount · Oil-Immersed · Substation Transformers<br>
+            ISO 9001/14001/45001 &nbsp;|&nbsp; UL Certified &nbsp;|&nbsp; CE &nbsp;|&nbsp; Built to IEEE / CSA / IEC Standards
+          </td>
+        </tr>
+      </table>
+      <!-- ================= TO HERE ================= -->
+    </div>
+  </div>
+
+  <div class="note warn">
+    <b>Consistency rule — decide once, use everywhere.</b> Whichever option you pick, use the
+    <i>same one</i> in every email. If your photo appears in one message and is missing in the next,
+    buyers notice, and it reads as sloppy. Install it in Gmail <i>and</i> Outlook if you use both.
+    <br><br>
+    <b>Still outstanding from last round:</b> your <b>website domain</b> — it's the highest-value
+    missing line in all of these. A signature with a portrait but no URL is half a signature.
+    Send me the domain and it goes in immediately.
+  </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,606 @@
+[
+ {
+  "n": "1",
+  "date": "Mon, 14 Sep 2026 11:23:34 +0800",
+  "frm": "\"邮件助手\" <10000@exmail.weixin.qq.com>",
+  "from_email": "10000@exmail.weixin.qq.com",
+  "to": [],
+  "subject": "【通知】企业邮箱正式启用通知"
+ },
+ {
+  "n": "2",
+  "date": "Tue, 15 Sep 2026 22:00:25 +0800",
+  "frm": "\"PostMaster\" <PostMaster@jiezougroup.com>",
+  "from_email": "postmaster@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "来自jiezougroup.com的退信"
+ },
+ {
+  "n": "3",
+  "date": "Wed, 16 Sep 2026 15:41:59 +0800",
+  "frm": "ian <ianjiezougroup@gmail.com>",
+  "from_email": "ianjiezougroup@gmail.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Re: impotant info please check"
+ },
+ {
+  "n": "4",
+  "date": "Wed, 16 Sep 2026 09:03:21 +0000",
+  "frm": "Thomas Notifications <notifications@thomasnet.com>",
+  "from_email": "notifications@thomasnet.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "[Thomas] Your Thomas verification code"
+ },
+ {
+  "n": "5",
+  "date": "Wed, 16 Sep 2026 09:04:21 +0000",
+  "frm": "Thomas Notifications <notifications@thomasnet.com>",
+  "from_email": "notifications@thomasnet.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Welcome to Thomas! Your Partner for Industrial Sourcing & Advertising"
+ },
+ {
+  "n": "6",
+  "date": "Thu, 17 Sep 2026 01:10:03 +0000",
+  "frm": "\"Thomasnet\" <thomas@bounces.thomasnet.com>",
+  "from_email": "thomas@bounces.thomasnet.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Your Thomas Activity Report"
+ },
+ {
+  "n": "7",
+  "date": "Thu, 17 Sep 2026 01:47:54 +0000 (UTC)",
+  "frm": "LinkedIn <security-noreply@linkedin.com>",
+  "from_email": "security-noreply@linkedin.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "ian, your pin is 384113. Please confirm your email address."
+ },
+ {
+  "n": "8",
+  "date": "Thu, 17 Sep 2026 14:03:34 +0800",
+  "frm": "ian <ianjiezougroup@gmail.com>",
+  "from_email": "ianjiezougroup@gmail.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Re: Liquid-filled transformers, 750 to 110,000 kVA"
+ },
+ {
+  "n": "9",
+  "date": "Thu, 17 Sep 2026 22:00:18 +0800",
+  "frm": "\"PostMaster\" <PostMaster@jiezougroup.com>",
+  "from_email": "postmaster@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "来自jiezougroup.com的退信"
+ },
+ {
+  "n": "10",
+  "date": "Thu, 17 Sep 2026 07:00:16 -0700 (PDT)",
+  "frm": "Mail Delivery Subsystem <mailer-daemon@googlemail.com>",
+  "from_email": "mailer-daemon@googlemail.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Delivery Status Notification (Failure)"
+ },
+ {
+  "n": "11",
+  "date": "Fri, 18 Sep 2026 01:00:15 +0800",
+  "frm": "\"PostMaster\" <PostMaster@jiezougroup.com>",
+  "from_email": "postmaster@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "来自jiezougroup.com的退信"
+ },
+ {
+  "n": "12",
+  "date": "Fri, 18 Sep 2026 10:50:05 +0800",
+  "frm": "ian <ianjiezougroup@gmail.com>",
+  "from_email": "ianjiezougroup@gmail.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Re: please check my email signture"
+ },
+ {
+  "n": "13",
+  "date": "Fri, 18 Sep 2026 11:05:49 +0800",
+  "frm": "\"邮件助手\" <10000@exmail.weixin.qq.com>",
+  "from_email": "10000@exmail.weixin.qq.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "[邮件已撤回] P1--周报模板"
+ },
+ {
+  "n": "14",
+  "date": "Fri, 18 Sep 2026 11:06:44 +0800",
+  "frm": "\"邮件助手\" <10000@exmail.weixin.qq.com>",
+  "from_email": "10000@exmail.weixin.qq.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "[邮件已撤回] USA市场-ian-周报-9.18"
+ },
+ {
+  "n": "15",
+  "date": "Fri, 18 Sep 2026 11:31:39 +0800",
+  "frm": "\"邮件助手\" <10000@exmail.weixin.qq.com>",
+  "from_email": "10000@exmail.weixin.qq.com",
+  "to": [],
+  "subject": "企业微信邮箱登录提醒"
+ },
+ {
+  "n": "16",
+  "date": "Thu, 17 Sep 2026 20:41:00 -0700 (PDT)",
+  "frm": "\"member@notice.alibaba.com\" <member@notice.alibaba.com>",
+  "from_email": "member@notice.alibaba.com",
+  "to": [
+   "ian@jiezougroup.com",
+   "ian@jiezougroup.com"
+  ],
+  "subject": "account password"
+ },
+ {
+  "n": "17",
+  "date": "Thu, 17 Sep 2026 20:41:01 -0700 (PDT)",
+  "frm": "\"Alibaba.com\" <member@notice.alibaba.com>",
+  "from_email": "member@notice.alibaba.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "尊敬的Ian Chou，请完成您在Alibaba.com上的邮箱验证"
+ },
+ {
+  "n": "18",
+  "date": "Fri, 18 Sep 2026 23:00:20 +0800",
+  "frm": "\"PostMaster\" <PostMaster@jiezougroup.com>",
+  "from_email": "postmaster@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "来自jiezougroup.com的退信"
+ },
+ {
+  "n": "19",
+  "date": "Sun, 20 Sep 2026 09:52:07 +0800",
+  "frm": "\"Amber\" <harper@jiezougroup.com>",
+  "from_email": "harper@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Re：USA市场-ian-周报-9.18"
+ },
+ {
+  "n": "20",
+  "date": "Mon, 21 Sep 2026 10:15:02 +0800",
+  "frm": "\"邮件助手\" <10000@exmail.weixin.qq.com>",
+  "from_email": "10000@exmail.weixin.qq.com",
+  "to": [],
+  "subject": "企业微信邮箱登录提醒"
+ },
+ {
+  "n": "21",
+  "date": "Tue, 22 Sep 2026 01:00:35 +0800",
+  "frm": "\"PostMaster\" <PostMaster@jiezougroup.com>",
+  "from_email": "postmaster@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "来自jiezougroup.com的退信"
+ },
+ {
+  "n": "22",
+  "date": "Tue, 22 Sep 2026 13:38:26 +0800",
+  "frm": "\"Amber\" <harper@jiezougroup.com>",
+  "from_email": "harper@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Leads---CA."
+ },
+ {
+  "n": "23",
+  "date": "Tue, 22 Sep 2026 10:28:52 +0000 (UTC)",
+  "frm": "Indika Kumara Weerakkody <iweera@yahoo.com>",
+  "from_email": "iweera@yahoo.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Re: Partnership enquiry — renewable project equipment, Sri Lanka"
+ },
+ {
+  "n": "24",
+  "date": "Tue, 22 Sep 2026 13:30:36 +0000",
+  "frm": "Jeremy Thompson <jthompson@iconicpowersystems.com>",
+  "from_email": "jthompson@iconicpowersystems.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Automatic reply: ⚠ External Email - Substation transformers — 500kV platform supply"
+ },
+ {
+  "n": "25",
+  "date": "Wed, 23 Sep 2026 00:35:38 +0800",
+  "frm": "\"PostMaster\" <PostMaster@jiezougroup.com>",
+  "from_email": "postmaster@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "来自jiezougroup.com的退信"
+ },
+ {
+  "n": "26",
+  "date": "Tue, 22 Sep 2026 14:44:09 -0400",
+  "frm": "Joe Holler <joe.holler@epsonline.com>",
+  "from_email": "joe.holler@epsonline.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Re: New transformers for installation and field warranty work"
+ },
+ {
+  "n": "27",
+  "date": "Wed, 23 Sep 2026 10:13:42 +0800",
+  "frm": "ian@jiezougroup.com",
+  "from_email": "ian@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "发件人已撤回邮件：Re: Small padmount and pole-mount transformers, UL certified"
+ },
+ {
+  "n": "28",
+  "date": "Wed, 23 Sep 2026 10:14:29 +0800",
+  "frm": "\"邮件助手\" <10000@exmail.weixin.qq.com>",
+  "from_email": "10000@exmail.weixin.qq.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "[邮件已撤回] Re: Small padmount and pole-mount transformers, UL certified"
+ },
+ {
+  "n": "29",
+  "date": "Wed, 23 Sep 2026 13:27:37 +0800",
+  "frm": "腾讯企业邮箱<10000@exmail.weixin.qq.com>",
+  "from_email": "10000@exmail.weixin.qq.com",
+  "to": [],
+  "subject": "定时邮件退信通知"
+ },
+ {
+  "n": "30",
+  "date": "Wed, 23 Sep 2026 21:50:41 +0800",
+  "frm": "\"PostMaster\" <PostMaster@jiezougroup.com>",
+  "from_email": "postmaster@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "来自jiezougroup.com的退信"
+ },
+ {
+  "n": "31",
+  "date": "Wed, 23 Sep 2026 07:05:34 -0700 (PDT)",
+  "frm": "Mail Delivery Subsystem <mailer-daemon@googlemail.com>",
+  "from_email": "mailer-daemon@googlemail.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Delivery Status Notification (Failure)"
+ },
+ {
+  "n": "32",
+  "date": "Wed, 23 Sep 2026 22:15:22 +0800",
+  "frm": "\"PostMaster\" <PostMaster@jiezougroup.com>",
+  "from_email": "postmaster@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "来自jiezougroup.com的退信"
+ },
+ {
+  "n": "33",
+  "date": "Wed, 23 Sep 2026 14:22:12 +0000",
+  "frm": "Support <jira@westernunited.atlassian.net>",
+  "from_email": "jira@westernunited.atlassian.net",
+  "to": [
+   "ian@jiezougroup.com",
+   "ian@jiezougroup.com"
+  ],
+  "subject": "SUP-362 Customer Service :[EXTERNAL] Substation transformers — W.E.S.T. packaging supply"
+ },
+ {
+  "n": "34",
+  "date": "Wed, 23 Sep 2026 14:37:51 +0000",
+  "frm": "Will Myers <wmyers@iconicpowersystems.com>",
+  "from_email": "wmyers@iconicpowersystems.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "RE: ⚠ External Email - Substation transformers — Jeremy Thompson pointed me to you"
+ },
+ {
+  "n": "35",
+  "date": "Wed, 23 Sep 2026 14:48:52 +0000",
+  "frm": "Will Myers <wmyers@iconicpowersystems.com>",
+  "from_email": "wmyers@iconicpowersystems.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "RE: RE: ⚠ External Email - Substation transformers — Jeremy Thompson pointed me to you"
+ },
+ {
+  "n": "36",
+  "date": "Wed, 23 Sep 2026 14:52:16 +0000",
+  "frm": "Support <jira@westernunited.atlassian.net>",
+  "from_email": "jira@westernunited.atlassian.net",
+  "to": [
+   "ian@jiezougroup.com",
+   "ian@jiezougroup.com"
+  ],
+  "subject": "SUP-363 Re: SUP-362 Customer Service :[EXTERNAL] Substation transformers — W.E.S.T. packaging supply"
+ },
+ {
+  "n": "37",
+  "date": "Thu, 24 Sep 2026 10:01:50 +0800 (CST)",
+  "frm": "\"feedback@service.alibaba.com\" <feedback@email.alibaba.com>",
+  "from_email": "feedback@service.alibaba.com",
+  "to": [
+   "ian@jiezougroup.com",
+   "loishuang@jiezougroup.com"
+  ],
+  "subject": "【Alibaba Notification】Your manager has assigned you an inquiry from Rofi Tanzil"
+ },
+ {
+  "n": "38",
+  "date": "Thu, 24 Sep 2026 16:41:39 +0200",
+  "frm": "\"Domain postMaster address\" <postmaster@advanceelectrical.net>",
+  "from_email": "postmaster@advanceelectrical.net",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Your message couldn't be delivered - \"Transformer-and-gear packages for Atlanta projects\""
+ },
+ {
+  "n": "39",
+  "date": "Thu, 24 Sep 2026 15:55:38 +0000",
+  "frm": "VLD - Corporate Communications <corpcomm@valard.com>",
+  "from_email": "corpcomm@valard.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Automatic reply: Transformer packages for EPC substations"
+ },
+ {
+  "n": "40",
+  "date": "Thu, 24 Sep 2026 15:55:39 +0000",
+  "frm": "\"Sones, Keith\" <ksones@valard.com>",
+  "from_email": "ksones@valard.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Automatic reply: Transformer packages for EPC substations"
+ },
+ {
+  "n": "41",
+  "date": "Fri, 25 Sep 2026 00:15:22 +0800",
+  "frm": "\"PostMaster\" <PostMaster@jiezougroup.com>",
+  "from_email": "postmaster@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "来自jiezougroup.com的退信"
+ },
+ {
+  "n": "42",
+  "date": "Fri, 25 Sep 2026 00:25:15 +0800",
+  "frm": "\"PostMaster\" <PostMaster@jiezougroup.com>",
+  "from_email": "postmaster@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "来自jiezougroup.com的退信"
+ },
+ {
+  "n": "43",
+  "date": "Fri, 25 Sep 2026 00:40:41 +0800",
+  "frm": "\"PostMaster\" <PostMaster@jiezougroup.com>",
+  "from_email": "postmaster@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "来自jiezougroup.com的退信"
+ },
+ {
+  "n": "44",
+  "date": "Thu, 24 Sep 2026 17:13:00 +0000",
+  "frm": "REG Inquiries <info@risingedgegroup.com>",
+  "from_email": "info@risingedgegroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "RE: Substation transformers — up to 735kV EPC supply"
+ },
+ {
+  "n": "45",
+  "date": "Sun, 27 Sep 2026 02:02:00 +0800",
+  "frm": "\"邮件助手\" <10000@exmail.weixin.qq.com>",
+  "from_email": "10000@exmail.weixin.qq.com",
+  "to": [],
+  "subject": "企业微信邮箱登录提醒"
+ },
+ {
+  "n": "46",
+  "date": "Sun, 27 Sep 2026 02:15:13 +0800",
+  "frm": "腾讯企业邮箱<10000@exmail.weixin.qq.com>",
+  "from_email": "10000@exmail.weixin.qq.com",
+  "to": [],
+  "subject": "你在江苏省修改了邮箱密码"
+ },
+ {
+  "n": "47",
+  "date": "Mon, 28 Sep 2026 15:58:26 +0000",
+  "frm": "Support <jira@westernunited.atlassian.net>",
+  "from_email": "jira@westernunited.atlassian.net",
+  "to": [
+   "ian@jiezougroup.com",
+   "ian@jiezougroup.com"
+  ],
+  "subject": "SUP-386 Customer Service :[EXTERNAL] Re: Substation transformers — W.E.S.T. packaging supply"
+ },
+ {
+  "n": "48",
+  "date": "Tue, 29 Sep 2026 00:54:09 +0800",
+  "frm": "\"PostMaster\" <PostMaster@jiezougroup.com>",
+  "from_email": "postmaster@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "来自jiezougroup.com的退信"
+ },
+ {
+  "n": "49",
+  "date": "Tue, 29 Sep 2026 01:11:59 +0800",
+  "frm": "\"PostMaster\" <PostMaster@jiezougroup.com>",
+  "from_email": "postmaster@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "来自jiezougroup.com的退信"
+ },
+ {
+  "n": "50",
+  "date": "Mon, 28 Sep 2026 18:57:26 +0000",
+  "frm": "\"Mulherin, Carl\" <carl.mulherin@rexel.ca>",
+  "from_email": "carl.mulherin@rexel.ca",
+  "to": [
+   "ian@jiezougroup.com",
+   "matt.jackson@rexel.ca"
+  ],
+  "subject": "RE: Supplier partnership — transformers for Utility T&D"
+ },
+ {
+  "n": "51",
+  "date": "Mon, 28 Sep 2026 19:01:29 +0000",
+  "frm": "Taylor Wild <taylor@ontariohighvoltage.com>",
+  "from_email": "taylor@ontariohighvoltage.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Re: Transformers for your 4.8–115 kV projects"
+ },
+ {
+  "n": "52",
+  "date": "Wed, 30 Sep 2026 00:10:07 +0800",
+  "frm": "\"PostMaster\" <PostMaster@jiezougroup.com>",
+  "from_email": "postmaster@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "来自jiezougroup.com的退信"
+ },
+ {
+  "n": "53",
+  "date": "Tue, 29 Sep 2026 10:43:25 -0700",
+  "frm": "ZACHARY KADYSCHUK <zac.kady@zeuselectric.ca>",
+  "from_email": "zac.kady@zeuselectric.ca",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Re: Transformers for HV installation and commissioning"
+ },
+ {
+  "n": "54",
+  "date": "Wed, 30 Sep 2026 17:42:12 +0200",
+  "frm": "\"Domain postMaster address\" <postmaster@codale.com>",
+  "from_email": "postmaster@codale.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Your message couldn't be delivered - \"Transformer supply, Salt Lake City\""
+ },
+ {
+  "n": "55",
+  "date": "Thu, 1 Oct 2026 16:16:55 +0000",
+  "frm": "Les Peterson <les@purceepower.com>",
+  "from_email": "les@purceepower.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Re: Second transformer source for your Canada stock"
+ },
+ {
+  "n": "56",
+  "date": "Thu, 1 Oct 2026 17:41:50 +0000",
+  "frm": "<postmaster@purceepower.com>",
+  "from_email": "postmaster@purceepower.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Undeliverable: Re: Re: Second transformer source for your Canada stock"
+ },
+ {
+  "n": "57",
+  "date": "Thu, 1 Oct 2026 13:43:02 -0400",
+  "frm": "Mail Delivery Subsystem <MAILER-DAEMON@atl4mhob01.registeredsite.com>",
+  "from_email": "mailer-daemon@atl4mhob01.registeredsite.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Returned mail: see transcript for details"
+ },
+ {
+  "n": "58",
+  "date": "Thu, 1 Oct 2026 17:56:09 +0000",
+  "frm": "<postmaster@purceepower.com>",
+  "from_email": "postmaster@purceepower.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Undeliverable: Re: Re: Second transformer source for your Canada stock"
+ },
+ {
+  "n": "59",
+  "date": "Fri, 2 Oct 2026 15:30:20 +0000",
+  "frm": "Scott Wearmouth <scott@civicrecycling.com>",
+  "from_email": "scott@civicrecycling.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Automatic reply: A transformer supply line for Calgary"
+ },
+ {
+  "n": "60",
+  "date": "Fri, 2 Oct 2026 18:10:19 +0000",
+  "frm": "Bradley Fite <Bradley@southeasterntd.com>",
+  "from_email": "bradley@southeasterntd.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "Automatic reply: Transformer supply for turnkey substations"
+ },
+ {
+  "n": "61",
+  "date": "Sat, 03 Oct 2026 02:21:23 +0800",
+  "frm": "\"PostMaster\" <PostMaster@jiezougroup.com>",
+  "from_email": "postmaster@jiezougroup.com",
+  "to": [
+   "ian@jiezougroup.com"
+  ],
+  "subject": "来自jiezougroup.com的退信"
+ }
+]

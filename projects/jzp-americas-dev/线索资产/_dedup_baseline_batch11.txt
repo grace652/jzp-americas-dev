@@ -1,0 +1,1502 @@
+# batch11 排重基线（自动生成，勿手改）
+# 来源：v2 + batch6~10 名单 + 成交客户 16 家 + 我方代理
+# 生成：scripts/build_baseline.py
+3e distribution inc	batch7
+3edistribution ca	batch7
+3l2r inc	永久排除
+abcosupply	v2
+abcosupplyandservice	v2
+abcosupplyandserviceltd	v2
+ac nelson	batch8
+ac nelson electrical ltd	batch8
+ac tesla	成交客户
+accesselectricalsupply	v2
+accesselectricalsupplyltd	v2
+acnelson com	batch8
+advanced powerlines	batch8
+advanced powerlines ltd	batch8
+advancedpowerlines ca	batch8
+advanceelectrical	v2
+aeci	v2
+aecon	v2
+aecon com	batch6
+aecon power	batch6
+aecon power services	batch6
+aeconpowerservices	v2
+aequitaspower	v2
+aescoelectricalsales	v2
+aescoelectricalsalesltd	v2
+aeselectric	v2
+agent	v2
+agilix	v2
+ainsworth	v2
+ainsworth com	batch6
+ainsworth inc	batch6
+ainsworthinc	v2
+al s electric	batch10
+al s electric services ltd	batch10
+alamo	batch7
+alamo transformer	batch7
+alamotransformer com	batch7
+alaskalinebuilders	v2
+alberta breaker	batch6
+alberta breaker and supply	batch6
+alberta mobile power	batch10
+alberta mobile power systems ltd	batch10
+albertabreaker	v2
+albertabreaker net	batch6
+albertabreakerandsupply	v2
+albertamobilepower com	batch10
+alcanelectric	v2
+alcoelectric	v2
+aldan	batch7
+aldan electric supply inc	batch7
+aldanelectric com	batch7
+aldridge	batch8
+aldridge electric	batch8
+aldridge electric aldridge group	batch8
+aldridgegroup com	batch8
+alliance energy	batch10
+alliance energy com	batch10
+allianceengineering	v2
+allianceengineeringandconstruction	v2
+allianceengineeringconstruction	v2
+allianceme	v2
+allied projects	batch6
+allied projects ltd	batch6
+alliedprojects	v2
+alliedprojects ca	batch6
+alliedprojectsltd	v2
+allison smith	永久排除
+allteck	batch8
+allteck com	batch8
+allteck line contractors ltd	batch8
+alselectric ca	batch10
+altair electric	batch10
+altair electric inc	batch10
+altairelectricalsupply ca	batch10
+ameleco	v2
+ameleco com	batch6
+american electric components	永久排除
+american line	batch6
+american line construction	batch6
+american power	batch10
+american power llc	batch10
+american west	batch8
+american west surplus llc	batch8
+americanlineconstruction	v2
+americanlineconstruction com	batch6
+americanwestsurplus com	batch8
+amex electrical	batch6
+amex electrical ltd	batch6
+amexelectrical	v2
+amexelectrical ca	batch6
+amexelectricalltd	v2
+amisk line	batch9
+amisk line contractors ltd	batch9
+ampedelectric	v2
+ampko electric	batch6
+ampko electric 2006 inc	batch6
+ampko electric inc	batch6
+ampkoelectric	v2
+ampkoelectric ca	batch6
+ampkoelectric2006inc	v2
+ampspowerline	v2
+amrpwr com	batch10
+amtek	v2
+anguilla electricity company limited	成交客户
+apg hv engineering	batch10
+apg hv engineering ltd	batch10
+apghvengineering ca	batch10
+ardoch	v2
+ardochelectric	v2
+ardochelectricinc	v2
+arm camco	永久排除
+atd power solutions	成交客户
+atek	batch7
+atek distribution	batch7
+atekdistribution com	batch7
+atlas electric	batch8
+atlas electric inc	batch8
+atlaselectricinc com	batch8
+aurumelectric	v2
+avh supply	永久排除
+awhighvoltage	v2
+b a robinson co ltd	batch8
+b and m	batch7
+b langer electric	batch9
+balthazar	batch9
+balthazar electriks	batch9
+balthazarinc com	batch9
+barobinson com	batch8
+bartlegibson	v2
+bay power	batch8
+baypower com	batch8
+bcs switchgear	永久排除
+bd electrical	batch9
+bdelectrical com	batch9
+beamslighting	v2
+beaverelectricalmachinery	v2
+bedford	batch10
+bedford industrial automation	batch10
+bel air electric	batch10
+bel air electric construction inc	batch10
+belairelectric com	batch10
+belangerelectric com	batch9
+belyea	batch8
+belyea company	batch8
+belyeapower com	batch8
+bernie s	batch8
+bernie s electric supplies ltd	batch8
+bernieselectric ca	batch8
+besco	batch7
+besco qc ca	batch7
+betron electric	永久排除
+betronelectric	v2
+bghighvoltage	v2
+biai ca	batch10
+bibico electric inc	成交客户
+bigstateelectric	v2
+birminghamelectric	v2
+black and mcdonald limited	batch7
+blackandmcdonald com	batch7
+bodec	batch10
+bodec inc	batch10
+bodecinc com	batch10
+borderstates	v2
+bossieelectric	v2
+boundary electric	成交客户
+bowe and gant	batch10
+bowe and gant electrical services llc	batch10
+bowegant com	batch10
+boz electric	batch10
+boz electric supply ltd	batch10
+bozelectricsupply com	batch10
+bradmoore	v2
+bradmooreelectric	v2
+bradmooreelectriccompanyltd	v2
+breaker hunters	batch9
+breaker hunters inc	batch9
+breakerhunters com	batch9
+broadhead construction	batch6
+broadheadconstruction	v2
+broadheadconstruction ca	batch6
+brownstownelectric	v2
+burrard power	batch9
+burrardpower com	batch9
+butler supply	batch6
+butler supply inc	batch6
+butlersupply	v2
+butlersupply com	batch6
+butlersupplyinc	v2
+bvelectric	v2
+c phase	batch10
+c phase com	batch10
+c phase services	batch10
+cache valley electric	batch9
+cache valley electric cve	batch9
+cachevalley	v2
+cachevalleyelectric	v2
+cal electro	batch10
+cal electro inc	batch10
+calelectroinc com	batch10
+canadian industrial electrical supply	batch7
+canadianindustrial net	batch7
+canem	v2
+canpower global	永久排除
+canyon state	batch8
+canyon state electric inc	batch8
+canyonstateelectric com	batch8
+cape nova	batch8
+cape nova electrical supplies ltd	batch8
+capenova ca	batch8
+capital electric	batch10
+capital electric line builders	batch10
+capitalelectriclinebuilders com	batch10
+carolina power	batch10
+carolina power and signalization	batch10
+carolinapowerandsignalization com	batch10
+carter electric	batch9
+carter electric supply llc	batch9
+carterelectricsupply com	batch9
+causeway	batch8
+causeway electrical supplies ltd	batch8
+causewayelectrical ca	batch8
+cava electric	batch6
+cavaelectric	v2
+cavaelectric com	batch6
+cayer	batch7
+cayer transformateurs lectriques	batch7
+cayertransformateurs com	batch7
+ceeus	v2
+central island powerline ltd	batch7
+central moloney	永久排除
+centralmoloney	v2
+centralutility ca	batch7
+cescityelectricsupply	v2
+cesco electrical	batch10
+cesco electrical supply ltd	batch10
+cescoelectrical com	batch10
+chancellor	batch7
+chancellor inc	batch7
+chancellorinc com	batch7
+chathamelectric	v2
+choice electrical supply co	batch8
+choice supply	batch8
+choicesupply ca	batch8
+cies	batch7
+cima	batch8
+cima ca	batch8
+cima cima plus soci t d ing nierie	batch8
+cip	batch7
+circuit breaker sales ne	永久排除
+city electric supply	连锁已触达
+cityelectricsupply	v2
+cityelectricsupplycanada	v2
+civic recycling	batch9
+civic recycling and equipment 1995 ltd	batch9
+civicrecycling com	batch9
+codale	v2
+codaleelectricsupply	v2
+colonial electric	batch6
+colonialelectric	v2
+colonialelectric com	batch6
+colorado powerline	batch10
+colorado powerline inc	batch10
+coloradopowerline com	batch10
+compass electric	batch6
+compass electric ltd	batch6
+compasselectric	v2
+compasselectric net	batch6
+compasselectricltd	v2
+continentalpower	v2
+cooperelectric	v2
+core transformers	永久排除
+cqs electric	永久排除
+cqselectric	v2
+crown mountain solutions	永久排除
+crownmountain	v2
+crownmountainsolutions	v2
+crownmtns	v2
+csl	永久排除
+ct sales	batch9
+ct sales ltd	batch9
+ctsales ca	batch9
+cudmore r	batch10
+cudmore r electric ltd	batch10
+current electrical	batch8
+current electrical supply	batch8
+currentga com	batch8
+curtis powerworks	batch10
+curtis powerworks 2018 inc	batch10
+curtis powerworks inc	batch10
+curtispowerworks ca	batch10
+cve	v2
+cve com	batch9
+cwgalle	v2
+d e jackson	永久排除
+d1 substations	batch8
+d1substations com	batch8
+daltco	batch9
+daltco com	batch9
+daltco electric	batch9
+danapower	v2
+danapowerandpoles	v2
+dashiell	batch8
+dashiell com	batch8
+dashiell corporation	batch8
+ddgrid	batch9
+ddgrid com	batch9
+ddgrid llc	batch9
+dechhighvoltage	v2
+deep electrical	batch8
+deep electrical supply ltd	batch8
+deepelectricalsupply com	batch8
+dei lectrique	batch8
+dei lectrique inc	batch8
+deienergie ca	batch8
+dejackson	v2
+denver breaker	batch9
+denver breaker and supply inc	batch9
+denverbreaker com	batch9
+desch nes and fils	batch6
+deschenes	v2
+deschenes ca	batch6
+deschenesandfils	v2
+desomex ca	batch9
+devries power	batch9
+devries power and utility solutions	batch9
+devriespower ca	batch9
+dfw breakers	batch9
+dfw breakers llc	batch9
+dfwbreakers com	batch9
+distributeck	v2
+distributions lectriques somex inc	batch9
+diversified sci	batch8
+diversified substation construction llc	batch8
+diversifiedsci com	batch8
+dixonelectric	v2
+domino highvoltage	成交客户
+drunken moose enterprises inc	成交客户
+drycore	v2
+drycore2002	v2
+drycoreelectric	v2
+drycoreelectric2002inc	v2
+drycoreinc	v2
+dubo	batch8
+dubo ca	batch8
+dubo lectrique lt e	batch8
+duke electric	永久排除
+dulles electric	batch6
+dulles electric supply corp	batch6
+dulleselectric	v2
+dulleselectric com	batch6
+dulleselectricsupplycorp	v2
+dundas power line	batch9
+dundaspowerline com	batch9
+duplexelectrical	v2
+duplexenterprises	v2
+duplexenterpriseslimited	v2
+dykman	batch8
+dykman com	batch8
+dykman electrical inc	batch8
+dynagrid	v2
+dynagrid com	batch6
+e p breaux	batch10
+e p breaux electrical llc	batch10
+ea supply	batch9
+ea supply inc	batch9
+earlcarrelectric	v2
+earlcarrelectriccanadaltd	v2
+easupply ca	batch9
+ebhorsman	v2
+ececl	v2
+ecelectric	v2
+ecf	batch9
+ecf engineering consultants	batch9
+ecfconsultants com	batch9
+echoelectric	v2
+ecs cable	batch10
+ecs electrical cable supply ltd	batch10
+ecswire com	batch10
+edison electrical surplus	batch8
+edison surplus	batch8
+edisonelectricalsurplus com	batch8
+eecol	batch10
+eecol com	batch10
+eecol electric	batch10
+egan	v2
+egancompany	v2
+egl construction	batch9
+egl construction inc	batch9
+eglconstruction ca	batch9
+ehv construction	batch10
+ehv construction llc	batch10
+ehv power	batch8
+ehv power corporation	batch8
+ehvconstruction com	batch10
+ehvpower com	batch8
+elecan	batch7
+elecan ca	batch7
+electric gear rental	batch10
+electric gear rental egr power	batch10
+electric motor supply company	batch7
+electric south	成交客户
+electrical now	batch9
+electrical wholesale supply co inc	batch7
+electrical wholesalers calgary ltd	batch8
+electrical wholesalers ltd	batch8
+electricalnow com	batch9
+electricalwholesale com	batch7
+electricalwholesalers	v2
+electricalwholesalers com	batch8
+electricalwholesalersincnewengland	v2
+electricalwholesalersne	v2
+electricgearrental com	batch10
+electrimat com	batch10
+electronic centre	batch10
+electronic centre limited	batch10
+electroniccentre ca	batch10
+electrozadsupply	v2
+elliottelectric	v2
+eme utility	batch10
+eme utility com	batch10
+eme utility engineering lp	batch10
+emsco	batch7
+emscomn com	batch7
+encore electric	batch8
+encore electric inc	batch8
+encoreelectric com	batch8
+entogo	v2
+entreprise lectrique mjl inc	batch9
+epbreaux com	batch10
+epe transformers	永久排除
+epetransformers	v2
+erth	batch10
+erth corporation	永久排除
+erth infrastructure services group	batch10
+erthcorp com	batch10
+escom	batch10
+escom electrical distributors	batch10
+escomelectrical com	batch10
+estrielec	batch10
+estrielec com	batch10
+estrielec inc	batch10
+etac	v2
+etac service and supply	永久排除
+etacserviceandsupply	v2
+etacserviceandsupplyinc	v2
+etc	batch6
+etcinc	v2
+etcinc net	batch6
+eti sales	batch9
+eti sales enviro tekno inc	batch9
+etisales ca	batch9
+everlastelectric	v2
+every thing construction	batch6
+every thing construction etc	batch6
+everythingconstructionetc	v2
+evolt	batch7
+evolt ca	batch7
+ewc	batch8
+ewelelectricalwholesale	v2
+ewelelectricalwholesalers	v2
+ewinc	v2
+ews	batch7
+excess distributors	batch9
+excess distributors inc	batch9
+excess distributors inc edi	batch9
+excessdist com	batch9
+expanse electrical	batch6
+expanseelectrical	v2
+expanseelectrical com	batch6
+fargo electric	永久排除
+fcsupply ca	batch8
+federal pacific	永久排除
+federalpacific	v2
+fel	batch9
+feldistribution com	batch9
+firefly power	batch6
+firefly power and energy	batch6
+fireflypowerandenergy	v2
+fireflypowerenergy	v2
+fireflypowerenergy com	batch6
+first choice	batch8
+first choice electrical supply ltd	batch8
+fisk electric	batch10
+fisk electric company	batch10
+fiskcorp com	batch10
+fletcherreinhardt	v2
+fourniture lectrique laurentienne	batch9
+fourniture lectrique laurentienne fel	batch9
+franklinempire	v2
+friesen	永久排除
+fullfordelectric	v2
+fusion ind com	batch7
+fusion power	batch7
+futech	v2
+futech ca	batch6
+gagnon line	batch8
+gagnon line construction	batch8
+gagnonline com	batch8
+gdiainsworth	v2
+gec	v2
+generalpacific	v2
+genpac	v2
+gerrie	v2
+gerrie com	batch6
+gerrie electric	batch6
+gerrie electric wholesale	batch6
+gerrieelectricwholesale	v2
+gescan	连锁已触达
+gescansonepar	v2
+gimpel electric	batch6
+gimpel electric supply	batch6
+gimpelelectric	v2
+gimpelelectric com	batch6
+gimpelelectricsupply	v2
+globe	batch7
+globe electric supply co inc	batch7
+globeelec com	batch7
+glr	batch10
+glr inc	batch10
+glrinc ca	batch10
+glselectric	v2
+gnstechnologies	v2
+gowatts com	batch9
+grae	batch7
+grae power products	batch7
+graeltd ca	batch7
+gray	batch7
+gray construction ltd	batch7
+gray lectrique	batch7
+graybar	连锁已触达
+graybarcanadaoshawa	v2
+grayelectrique com	batch7
+graypowerline ca	batch7
+green mountain	batch6
+green mountain electric supply	batch6
+greenmountainelectric	v2
+greenmountainelectric com	batch6
+greenmountainelectricsupply	v2
+greenville transformer	batch8
+greenville transformer company inc	batch8
+greenvilletransformer com	batch8
+gresco	v2
+grescoutilitysupply	v2
+gridco	batch8
+gridco inc	batch8
+gridcompany com	batch8
+gridlink	v2
+gross electric	batch7
+gross electric supply	batch7
+grosselectric com	batch7
+grounded contracting	batch9
+groundedcontracting ca	batch9
+groupe pse	batch9
+groupe pse distribution lectrique	batch9
+groupedeschenes	v2
+groupepse ca	batch9
+groupesge ca	batch9
+guerryelectrical	v2
+guillevin	v2
+gunson power	batch8
+gunson power corporation	batch8
+gunsonpower com	batch8
+h c transformer and switchgear	永久排除
+h j bartlett	batch9
+h j bartlett electric inc	batch9
+hampton power	永久排除
+hardline	batch8
+hardline engineering	batch8
+hardlineeng com	batch8
+heiutilitycontractors	v2
+helberg	batch7
+helberg power supply	batch7
+helbergpowersupply com	batch7
+hernandez power	batch10
+hernandez power sales	batch10
+hernandezpowersales com	batch10
+hertzengineering	v2
+hertzengineeringinc	v2
+high country line	batch9
+high country line construction inc	batch9
+high side electric	batch7
+high side electric llc	batch7
+high voltage specialists	batch7
+highcountryline com	batch9
+highline construction	batch8
+highline construction inc	batch8
+highlineconstructionmn com	batch8
+highsideelectric com	batch7
+hightolowvoltage	v2
+highvoltagespecialists com	batch7
+hillfort	v2
+hivolt electric	batch10
+hivolt electric llc	batch10
+hivoltelectric com	batch10
+hjbartlettelectric ca	batch9
+holder electric	batch8
+holder electric supply inc	batch8
+holderelectric com	batch8
+hollandindustrial	v2
+hoopercorp	v2
+hoopercorporation	v2
+hot line construction	batch6
+hotlineconstruction	v2
+hotlineconstructioninc	v2
+hotlineconstructioninc com	batch6
+houleelectric	v2
+house of electrical	batch8
+house of electrical supplies ltd	batch8
+houseofelectrical com	batch8
+hsenergysystem	v2
+hudco	batch7
+hudco ca	batch7
+hudco electric supply ltd	batch7
+hundseth ca	batch10
+hundseth line	batch10
+hundseth line construction corp	batch10
+hvs	batch7
+hypower	batch9
+hypower inc	batch9
+hypowerinc com	batch9
+i b abel	batch9
+i b abel inc	batch9
+ib abel com	batch9
+iconic	v2
+iconicpower	v2
+ideal supply	batch8
+ideal supply inc	batch8
+idealsupply com	batch8
+ies	batch9
+iesbuy	v2
+iesupply ca	batch9
+ig power	永久排除
+iii phase	永久排除
+incom electric	batch6
+incom electric corp	batch6
+incomelectric	v2
+incomelectric com	batch6
+incomelectriccorp	v2
+independent electric supply	batch9
+independent electric supply ies	batch9
+independentelectricsupply	v2
+index	v2
+industrialtests	v2
+inline electric	batch6
+inline electric supply co	batch6
+inlineelectric	v2
+inlineelectric com	batch6
+inlineelectricsupplyco	v2
+instel power	batch9
+instel power products	batch9
+instelpower com	batch9
+intelelectric	v2
+intellogic engineering inc	成交客户
+interstate electrical	batch9
+interstate electrical contractors inc	batch9
+interstateelectrical net	batch9
+ips co	batch10
+ips denver	batch10
+ips denver kingston power management	batch10
+irbyutilities	v2
+ironclad trades	batch8
+ironclad trades co	batch8
+ironcladtrades ca	batch8
+ironcore	batch8
+ironcore global resources inc	batch8
+ironcoregr com	batch8
+iscoca	v2
+isginc	v2
+ispice foods	成交客户
+j and j transformers	batch8
+j and j transformers llc	batch8
+j w didado	batch9
+j w didado electric	batch9
+jackson electric	batch9
+jackson electric supply	batch9
+jacksonelectricsupply com	batch9
+jcl energy	永久排除
+jdd	batch6
+jdd electrical supply	永久排除
+jdd electrical wholesale	batch6
+jddelectricalsupply	v2
+jddelectricalwholesale	v2
+jddelectricalwholesale com	batch6
+jebcoagencies	v2
+jebcoagenciesinc	v2
+jesco	batch8
+jesco electrical contractors ltd	batch8
+jescoelectrical ca	batch8
+jhlarson	v2
+jjtransformers co	batch8
+jmtj construction	batch9
+jmtj construction llc	batch9
+jmtjconstruction com	batch9
+jomar	batch8
+jomar electrical contractors	batch8
+jomarinc com	batch8
+jranck	v2
+jranckelectric	v2
+jrsindustrialandpowersolutions	v2
+js energy ltd	成交客户
+jsm electrical	batch8
+jsm electrical ltd	batch8
+jsmelectrical ca	batch8
+jungbunzlauer canada inc	成交客户
+jwdidado com	batch9
+k line	batch7
+k line ca	batch7
+k line maintenance and construction ltd	batch7
+k2electric	v2
+k2k power systems	永久排除
+k2kpowersystems	v2
+kbselectrical	v2
+keentel	batch10
+keentel engineering	batch10
+keentelengineering com	batch10
+kendall electric	连锁已触达
+kendallelectric	v2
+kent power	batch9
+kent power inc	batch9
+kentpower com	batch9
+killmerelectric	v2
+kirbyelectric	v2
+kodionenergy	v2
+kpcpower	v2
+kpcpowerelectrical	v2
+kpcpowerelectricalltd	v2
+kraunelectric	v2
+kvaelectric	v2
+lakewood electric	batch10
+lakewood electric ltd	batch10
+lakewoodelectric ca	batch10
+lappelectric	v2
+laurin laurin	batch9
+laurin laurin 1991 inc	batch9
+laurin laurin inc	batch9
+laurinlaurin ca	batch9
+leadingedge	v2
+lectrimat	batch10
+lectrimat lt e	batch10
+lee electrical	batch9
+lee electrical com	batch9
+lee electrical construction llc	batch9
+legacy power line	batch10
+legacy power line inc	batch10
+legacypowerline com	batch10
+lembergelectric	v2
+lenmark	batch8
+lenmark com	batch8
+lenmark industries	batch8
+ligne ste	batch8
+ligneste com	batch8
+limotrique	batch9
+limotrique com	batch9
+linestarutilitysupply	v2
+linestarutilitysupplyinc	v2
+lizco	batch7
+lizco sales and rentals	batch7
+lizcosales com	batch7
+location power	batch8
+locationpower ca	batch8
+loeb electric	batch6
+loebelectric	v2
+loebelectric com	batch6
+lonestar electric	batch9
+lonestar electric supply	batch9
+lonestarelectricsupply com	batch9
+lord electrical	batch9
+lord electrical industrial distributors ltd	batch9
+lordelec com	batch9
+lowe electric	batch10
+lowe electric supply company	batch10
+loweelectric com	batch10
+lumen	v2
+m j electric	batch8
+m j electric llc	batch8
+m v supply	batch10
+m v supply llc	batch10
+maddox	v2
+maddox transformer	永久排除
+maddoxtransformer	v2
+magnaiv	v2
+main electric	batch6
+main electric supply	batch6
+mainelectric	v2
+mainelectric com	batch6
+mainelectricsupply	v2
+maple electric	batch10
+maple electric supply	batch10
+mapleelectricsupply ca	batch10
+marchand	batch6
+marchand electric	batch6
+marchandelectric	v2
+marchandelectric com	batch6
+marchandelectricalcompany	v2
+mars	batch7
+mars electric	batch6
+mars transformers llc	batch7
+marselectric	v2
+marselectric com	batch6
+marstransformers com	batch7
+martech	v2
+martechelectrical	v2
+martechelectricalsystemsltd	v2
+martin	v2
+mastec	batch8
+mastec com	batch8
+mastec inc	batch8
+maximapowergroup	v2
+mc mc com	batch10
+mccaine	v2
+mccaineelectric	v2
+mccaineelectricltd	v2
+mcloughlan	batch6
+mcloughlan supplies	batch6
+mcloughlans	v2
+mcloughlansupplies	v2
+mcloughlansupplies com	batch6
+mcnaughton mckay	batch10
+mcnaughton mckay electric company	batch10
+mcnaughtonmckay	v2
+mds power	batch10
+mds power inc	batch10
+mdspower com	batch10
+megagrid	batch7
+megagrid supply llc	batch7
+megagridsupply com	batch7
+megawattelectric	v2
+metro systems	batch9
+metro systems ltd	batch9
+metro wire	batch7
+metro wire and cable corporation	batch7
+metrosystems ca	batch9
+metrowire net	batch7
+mgb	永久排除
+miami transformers	batch10
+miamitransformers com	batch10
+michels power	batch10
+michels power inc	batch10
+michels us	batch10
+midlite	batch7
+midlite ca	batch7
+midlite powerline construction	batch7
+midway	batch7
+midway power line services ltd	batch7
+midwaypower com	batch7
+midwest switchgear	batch8
+midwest switchgear division	batch8
+midwest switchgear division midwest electrical testing and maintenance co inc	batch8
+mississauga electrical	batch9
+mississauga electrical supply company	batch9
+mississaugaelectrical com	batch9
+mjelectric com	batch8
+mjl lectrique	batch9
+mjlelectrique com	batch9
+montgomeryindustrial	v2
+montgomeryindustrialservices	v2
+monvalleyintegration	v2
+moodyelectric	v2
+mottelectric	v2
+mountain west transformer	batch10
+multicast	永久排除
+mvapower	v2
+mvimonvalleyintegration	v2
+mvsupply com	batch10
+mwtransformer com	batch10
+nassau cable	batch9
+nassau national cable	batch9
+nassaunationalcable com	batch9
+naswgr com	batch9
+national high voltage services inc	batch10
+national power equipment	永久排除
+national switchgear	永久排除
+nationalconductor	v2
+nationalconductorinc	v2
+nawash utilities	batch10
+nawash utilities inc	batch10
+nawashutilities com	batch10
+nedco	连锁已触达
+needco	v2
+neinc ca	batch9
+nesco	batch7
+nesco electric	batch7
+nescoelectric com	batch7
+netwes	v2
+new river electrical	batch9
+new river electrical corporation	batch9
+newriverelectrical com	batch9
+nhvs	batch10
+nhvsinc com	batch10
+noble electric	batch8
+noble electric ca	batch8
+noble electric ltd	batch8
+noramco	v2
+noreaster	batch8
+noreaster power services	batch8
+noreasterpower com	batch8
+nortec	v2
+nortecgroup	v2
+nortecgroupltd	v2
+north american switchgear	batch9
+north american switchgear inc	batch9
+northcoast	v2
+northeast	v2
+northeastelectrical	v2
+northeastelectricalnedco	v2
+northernhighvoltage	v2
+northumberland electric	batch9
+northumberland electric inc	batch9
+northwest high voltage services inc	batch8
+nw high voltage	batch8
+nwhighvoltage com	batch8
+o connell electric	batch6
+o connor electric	batch10
+oakpark powerline	batch9
+oakpark powerline services ltd	batch9
+oakparkpowerline com	batch9
+oconnellelectric	v2
+oconnellelectric com	batch6
+oconnorelec com	batch10
+ondel	batch10
+ondel ca	batch10
+onesourcedistributors	v2
+ontario surplus	batch10
+ontario surplus electric	batch10
+ontarioelectricalsurplusequipment com	batch10
+ontariohighvoltage	v2
+oregon breakers	batch9
+oregon breakers inc	batch9
+oregon power	永久排除
+oregonbreakers com	batch9
+oregonelectricservice	v2
+oscan	batch8
+oscan ca	batch8
+oscan electrical supplies ltd	batch8
+p and f supply	batch9
+p and f supply company	batch9
+pacific powertech	batch9
+pacific powertech inc	batch9
+pacificpowertech ca	batch9
+packpower	v2
+packpowerco	v2
+pamensky	batch9
+pamensky com	batch9
+par west	batch9
+par western line contractors llc	batch9
+parwlc com	batch9
+paul wolf	batch8
+paul wolf lighting and electric supply ltd	batch8
+paulwolf com	batch8
+peak contracting	batch9
+peak contracting group	batch9
+peakcontractinggrp com	batch9
+peg	batch10
+pegfl com	batch10
+pelletier et picard	batch8
+pelletier et picard inc	batch8
+pelletierpicard com	batch8
+penco electrical	batch6
+penco electrical contractors	batch6
+pencoelectric	v2
+pencoelectric com	batch6
+pencoelectricalcontractors	v2
+pengcorp	batch7
+pengcorp ca	batch7
+pengcorp ltd	batch7
+pentec energy	batch10
+pentec energy ltd	batch10
+pentecenergy com	batch10
+pfmtechnical	v2
+pfmtechnicalsolutions	v2
+pfmts	v2
+pfsupply com	batch9
+phasorengineering	v2
+phoenix transformer	batch8
+phoenix transformer and supply	batch8
+phoenixtransformer com	batch8
+pieper electric	batch8
+pieper electric inc	batch8
+pieperpower com	batch8
+pittselectric	v2
+platt com	batch10
+platt electric	batch10
+platt electric supply	batch10
+pmp powerline	batch8
+pmp powerline construction ltd	batch8
+pmppowerline ca	batch8
+pnh	batch7
+pnh engineering	batch7
+pnhengineering com	batch7
+potelco	batch9
+potelco inc	batch9
+potelco net	batch9
+power circuit breakers	batch8
+power circuit breakers llc	batch8
+power electronics	成交客户
+power engineering group inc	batch10
+power engineering group inc peg	batch10
+power rentals	batch10
+power rentals location cvac 分部	batch10
+power system solutions	batch10
+power system solutions ltd	batch10
+power up	batch10
+power up electrical	batch10
+power up electrical solutions	batch10
+power up electrical solutions 主体待核	batch10
+power up 待核	batch10
+powercircuitbreakerss com	batch8
+powerelectronics	v2
+powerguardian	v2
+powerguardiansolutions	v2
+powerline plus	batch8
+powerline plus ltd	batch8
+powerlineplus com	batch8
+powerlinesupply	v2
+powerrentals ca	batch10
+powersafe ca	batch10
+powersafe energy	batch10
+powersafe energy services inc	batch10
+powersolutionsgroup	v2
+powerst	batch8
+powerst ca	batch8
+powerst power substations and transmission co	batch8
+powersubstationservices	v2
+powersystemsolutions ca	batch10
+powertecelectric	v2
+powertel	batch7
+powertel ca	batch7
+powertel utilities contractors limited	batch7
+powerupelectricalsol com	batch10
+powerwholesaleelectric com	batch10
+prairiecentrallinesupply	v2
+prairiecentrallinesupplyltd	v2
+premier transformer llc	永久排除
+premierelectric	v2
+priester	v2
+priestermellnicholson	v2
+primary engineering	batch9
+primary engineering and construction corporation	batch9
+primaryeng com	batch9
+prime power	batch6
+prime power services	batch6
+primeline power	batch10
+primeline power and electrical	batch10
+primelinepower ca	batch10
+primepower	v2
+primepower services	batch6
+primepowerservices	v2
+pritchardelectric	v2
+pritchardpowersystems	v2
+pro 1 electric inc	成交客户
+pro call electric	batch9
+pro call electric ltd	batch9
+procallelectric com	batch9
+proenergy	v2
+progressiveelectric	v2
+progressiveelectricwv	v2
+province electric	batch6
+province electric com	batch6
+province electric supply ltd	batch6
+provinceelectric	v2
+provinceelectricsupplyltd	v2
+ps technologies inc	batch7
+pss	v2
+psti	batch7
+psti ca	batch7
+pti transformers	永久排除
+ptitransformers	v2
+ptspowertransformerservices	v2
+purcee industrial power	永久排除
+purceeindustrialpower	v2
+pweco	batch10
+pweco inc	batch10
+pweco inc power wholesale electric	batch10
+qed technical	batch8
+qed technical services inc	batch8
+qedts com	batch8
+quality switchgear	batch9
+qualityswitchgear com	batch9
+queco	v2
+queco ca	batch6
+queco lectrique lt e	batch6
+quecoelectriqueltee	v2
+r e warner	batch6
+r e warner and associates	batch6
+raelectrical	v2
+raffin	永久排除
+rcudmoreelectric ca	batch10
+rec supply	batch6
+recsupply	v2
+recsupply com	batch6
+reeveelectric	v2
+relay electrical	batch10
+relay electrical supply	batch10
+relayelectrical ca	batch10
+renegade	batch7
+renegade electric supply	batch7
+renegadeelectricsupply com	batch7
+resapower	v2
+resapowercomponents	v2
+resco	v2
+rev amp	batch7
+rev amp electrical equipment ltd	batch7
+revampelectrical com	batch7
+rewarner	v2
+rewarner com	batch6
+rewarnerandassociates	v2
+rexel	v2
+rexel canada	连锁已触达
+rexelutility	v2
+rhododendronelectric	v2
+riesequipment	v2
+riesutilitysupply	v2
+riesutilitysupplyriesequipmentandutilitydistribution	v2
+rionex energy	永久排除
+rionexenergy	v2
+risingedge	v2
+rms energy	batch7
+rmsenergy com	batch7
+robertselectrical	v2
+robertselectricalmobile	v2
+robertson	v2
+robinson supply	batch8
+rockwill	永久排除
+rogerselectrical	v2
+romarelectrical	v2
+rossmorrison	v2
+row electrical	batch8
+row electrical equipment inc	batch8
+rowelectrical com	batch8
+rsbreakersandcontrols	v2
+rural electric supply cooperative	batch6
+ruralelectricsupplycooperative	v2
+s and h power	batch8
+s and h power services	batch8
+saa	batch7
+saa consulting ltd	batch7
+saaconsulting ca	batch7
+saber power	batch8
+saber power services llc	batch8
+saberpower com	batch8
+sakura	batch8
+sakura distributors inc	batch8
+sakuracanada com	batch8
+salinger	batch8
+salinger electric co inc	batch8
+salingerelectric com	batch8
+sandhpowerservices com	batch8
+sargentelectric	v2
+sasco contractors	batch6
+sasco contractors ltd	batch6
+sascocontractors	v2
+sascocontractors com	batch6
+sascocontractorsltd	v2
+savona	batch9
+savona equipment ltd	batch9
+savonaequipment com	batch9
+sce electric	batch10
+sceelectric com	batch10
+schaedleryesco	v2
+schmidt industrial	batch9
+schmidt industrial com	batch9
+schmidt industrial contracting services inc	batch9
+scientechnic	v2
+scott electric	batch6
+scottelectric	v2
+scottelectric com	batch6
+scs transmission	batch8
+scs transmission services llc	batch8
+scstsllc com	batch8
+seco	batch7
+select equipment	batch8
+select equipment co	batch8
+selectequipment net	batch8
+semc ca	batch9
+ser	batch9
+sercoga com	batch9
+service electric	batch9
+service electric company	batch9
+serviceelectricco com	batch9
+sescoe com	batch10
+sescoelectrozad	v2
+setd	batch9
+sge	batch9
+sheridan electric	batch9
+sheridanelectric ca	batch9
+shermco	v2
+shermcoindustries	v2
+shermcoindustriescanadainc	v2
+sib lectrique	batch8
+sib lectrique inc	batch8
+sibelectrique com	batch8
+site plus	batch8
+site plus electrical solutions inc	batch8
+sitepluselectrical ca	batch8
+soci t g n rale d lectrotechnique lignec	batch9
+soci t g n rale d lectrotechnique sge lignec	batch9
+solectric	v2
+solomoncorp	v2
+somex	batch9
+sonepar	v2
+source atlantic	batch6
+sourceatlantic	v2
+sourceatlantic ca	batch6
+sourcesupply	v2
+south east switchgear	永久排除
+southcharleston	v2
+southcharlestonelectric	v2
+southeast power	batch7
+southeast power corporation	batch7
+southeastern services	batch10
+southeastern transmission and distribution	batch9
+southeastern transmission and distribution setd	batch9
+southeasternservices com	batch10
+southeasterntd com	batch9
+southeastpower com	batch7
+southern electrical resources	batch9
+southern electrical resources ser	batch9
+southern electrical surplus	batch10
+southern transformer services	batch9
+southern transformer services sts	batch9
+spark power	batch6
+spark power corp	batch6
+sparkpowercorp	v2
+sparkpowercorp com	batch6
+stan canada	batch9
+stancanada com	batch9
+standardelectricsupply	v2
+stanion	v2
+stanion com	batch6
+stanion wholesale electric co	batch6
+stanionwholesaleelectricco	v2
+state electric	连锁已触达
+stateelectric	v2
+station power	batch6
+station power construction	batch6
+stationpowerconstruction	v2
+stationpowerconstruction com	batch6
+stationpwr	v2
+steinmetz	v2
+steinmetzcorp	v2
+steinmetzcorporation	v2
+stewartelectric	v2
+stockdales	batch9
+stockdales electric motor corp	batch9
+stone eagle	batch10
+stone eagle electrical supply	batch10
+stoneeaglesupply com	batch10
+stratus e and i	batch10
+stratus electrical and instrumentation ltd	batch10
+stratusei com	batch10
+strong electric	永久排除
+strum engineering	batch9
+strum engineering associates ltd	batch9
+strumengineering ca	batch9
+struthersengineering	v2
+sts	batch9
+sts energy com	batch9
+sturgeon electric	batch6
+sturgeonelectric	v2
+sturgeonelectric com	batch6
+subengco com	batch7
+substation engineering company	batch7
+summit	v2
+summit electric supply	连锁已触达
+summitelectric	v2
+sunbeltsolomon	v2
+sunbelttransformer	v2
+supra nergie	batch10
+supra nergie inc	batch10
+supraenergie ca	batch10
+surplec	batch7
+surplec com	batch7
+surplus ee	batch10
+surplus electrical equipment	batch10
+surplusee com	batch10
+sw electric supply	永久排除
+swelectricsupply	v2
+swgr com	batch8
+switchgear unlimited	永久排除
+switchgear us	batch7
+switchgearus	batch7
+switchgearus llc	batch7
+t and d services	batch10
+t and d services llc	batch10
+t and r electric	batch10
+t and r electric supply co inc	batch10
+t d services com	batch10
+t r com	batch10
+tandnelectricalcontractingltd	v2
+tea	batch7
+tec	v2
+tech energy america llc	batch7
+techenergyamerica com	batch7
+techline	v2
+technicalpowerservices	v2
+temporarypowerbc com	batch10
+tenergy	batch7
+tenergy nm	batch7
+tenergynm com	batch7
+texaselectriccooperatives	v2
+thermavue	batch10
+thermavue solutions inc	batch10
+thermavuesolutions com	batch10
+tidal electrical	batch6
+tidal electrical inc	batch6
+tidalelectrical	v2
+tidalelectrical ca	batch6
+tidalelectricalinc	v2
+titan electrical group	永久排除
+titanelectricalgroup	v2
+titanqualitypower	v2
+tm3	v2
+tm3 inc	batch9
+tm3 inc trade mark industrial	batch9
+tm3inc com	batch9
+tmlgroup	v2
+tnelectrical	v2
+torbram electric	batch6
+torbram electric supply	batch6
+torbramelectric	v2
+torbramelectric com	batch6
+torbramelectricsupply	v2
+trans power	batch7
+trans power construction 1999 ltd	batch7
+trans power construction ltd	batch7
+transcanada transformers and switchgear	永久排除
+transcon of michigan	batch8
+transconofmichigan com	batch8
+transformer exchange	batch7
+transformer exchange inc	batch7
+transformer network	batch7
+transformer network inc	batch7
+transformer technologies	永久排除
+transformer traders	batch10
+transformer traders llc	batch10
+transformerengineeringservices	v2
+transformerexchange com	batch7
+transformernet com	batch7
+transformers now	batch8
+transformersnow com	batch8
+transformertechnologies	v2
+transformertraders com	batch10
+transpowerconstruction com	batch7
+trinity power	永久排除
+trinitypower	v2
+trinitypowercorp	v2
+tristateutility	v2
+triton transformer	永久排除
+trotterandmorton	v2
+trotterandmortongroupofcompanies	v2
+truelinepower	v2
+trydor industries	永久排除
+tryggr	v2
+tryggrtechnicalservices	v2
+turtle and hughes	batch10
+turtle and hughes inc	batch10
+turtle com	batch10
+turtlehughes	v2
+united electric	batch6
+united electric supply co	batch6
+united power	batch10
+united power ltd	batch10
+unitedelectric	v2
+unitedelectric com	batch6
+unitedelectricsupplyco	v2
+unitedpowerltd com	batch10
+universal utility supply co	batch7
+universalelectricservices	v2
+usa inc	batch9
+usesi	v2
+utbtransformers	v2
+utility service and assistance inc	batch9
+utilityserviceinc com	batch9
+utilitytransformerbrokers	v2
+uus	v2
+uusco	batch7
+uusco com	batch7
+v j pamensky canada inc	batch9
+valard	batch10
+valard com	batch10
+valard construction lp	batch10
+valardconstruction	v2
+valleyelectrical	v2
+valleyelectricalsuppliers	v2
+valleytransformer	v2
+valvo	batch9
+valvo ca	batch9
+valvo electrical supply ltd	batch9
+van meter	batch10
+van meter inc	batch10
+vancouverindustrialelectric	v2
+vanert	v2
+vanmeter	v2
+vanmeterinc com	batch10
+vaughn industries	batch8
+vaughn industries inc	batch8
+vaughnindustries com	batch8
+vcm solutions	batch10
+vcm solutions inc	batch10
+vcmsolutions ca	batch10
+vic aucoin	batch10
+vic aucoin s electric	batch10
+vicaucoinselectric ca	batch10
+virginia transformer	永久排除
+virginiatransformer	v2
+volequip com	batch10
+voltcoreelectrical	v2
+voltique	永久排除
+volunteer equipment	batch10
+volunteer equipment and supply	batch10
+voyten electric	batch8
+voyten electric and electronics inc	batch8
+voytenelectric com	batch8
+walterswholesale	v2
+ward electric	batch7
+ward electric company	batch7
+wardelectriccompany com	batch7
+warshauer	batch10
+warshauer com	batch10
+warshauer electric supply	batch10
+wasatch electric	batch8
+wasatchelectric com	batch8
+washington state power llc	batch8
+washington state power llc wasp	batch8
+washingtonstatepower	v2
+wasp	batch8
+wastatepower com	batch8
+watts electric	batch9
+watts electric company	batch9
+webb electric	batch7
+webb electric company of florida inc	batch7
+webbelectric com	batch7
+wesco distribution	连锁已触达
+wescodistributioncanada	v2
+westburne	连锁已触达
+westcor contracting	batch9
+westcor contracting ltd	batch9
+westcorcontracting ca	batch9
+western equipment	batch8
+western equipment limited	batch8
+western line builders	batch7
+western pacific enterprises ltd	batch7
+western states cb	batch9
+western states circuit breakers inc	batch9
+westernequipment com	batch8
+westernlinebuilders com	batch7
+westernstatescircuitbreaker com	batch9
+westerntechnical	v2
+westerntechnicalinstallations	v2
+westerntechnicalinstallationsltd	v2
+westfield electric	batch10
+westfield electric inc	batch10
+westfieldgroups com	batch10
+westgrid power	batch9
+westgridpower ca	batch9
+westmoreland	v2
+westwood electric	batch9
+westwoodelectric com	batch9
+whitmore	batch7
+whitmore construction	batch7
+whitmoreconstruction net	batch7
+wholesale electric	batch6
+wholesale electric supply	batch6
+wholesaleelectric	v2
+wholesaleelectric com	batch6
+wholesaleelectricsupply	v2
+wil surge	batch7
+wil surge electric	batch7
+wild coast power	batch10
+wild coast power and hvac	batch10
+williamselectric	v2
+wilson high voltage inc	成交客户
+wilsurge com	batch7
+winasiapower	v2
+winasiapowercorporation	v2
+wismer and rawlings	永久排除
+wolfetraviselectric	v2
+womack electric	batch10
+womack electric supply company	batch10
+womackelectric com	batch10
+worldelectric	v2
+worldelectricsupply	v2
+worldwide power	batch10
+worldwide power distribution	batch10
+wpe	batch7
+wpe ca	batch7
+wpowerdistro com	batch10
+wright s electric	batch8
+wrightselectric net	batch8
+wue	v2
+wues	v2
+xentric	batch7
+xentric ca	batch7
+xentric engineering ltd	batch7
+yaleelectric	v2
+ze power engineering	batch9
+ze power engineering inc	batch9
+zepowerengineering com	batch9
+zeuselectric	v2

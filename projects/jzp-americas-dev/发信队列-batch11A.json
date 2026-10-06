@@ -1,0 +1,442 @@
+[
+  {
+    "letter": "开发信-Agostino-Utilities.md",
+    "to": [
+      "aaugustine@agostinoutilities.com"
+    ],
+    "subject": "Transformers for your substation change-outs",
+    "tz": "ET",
+    "window_start_bj": "2026-10-06 21:00",
+    "window_end_bj": "2026-10-06 22:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 21:00",
+    "scheduled_at_local": "2026-10-06 09:00"
+  },
+  {
+    "letter": "开发信-Albarell.md",
+    "to": [
+      "mikec@albarell.com"
+    ],
+    "subject": "Transformer specs for your replacement work",
+    "tz": "ET",
+    "window_start_bj": "2026-10-06 21:00",
+    "window_end_bj": "2026-10-06 22:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 21:03",
+    "scheduled_at_local": "2026-10-06 09:03"
+  },
+  {
+    "letter": "开发信-Battaglia.md",
+    "to": [
+      "jmeyer@battag.com"
+    ],
+    "subject": "Transformers for your power services work",
+    "tz": "ET",
+    "window_start_bj": "2026-10-06 21:00",
+    "window_end_bj": "2026-10-06 22:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 21:06",
+    "scheduled_at_local": "2026-10-06 09:06"
+  },
+  {
+    "letter": "开发信-C3M-Power.md",
+    "to": [
+      "chuck.hinton@c3mpowersystems.com"
+    ],
+    "subject": "Distribution transformers for transit projects",
+    "tz": "ET",
+    "window_start_bj": "2026-10-06 21:00",
+    "window_end_bj": "2026-10-06 22:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 21:12",
+    "scheduled_at_local": "2026-10-06 09:12"
+  },
+  {
+    "letter": "开发信-CTG-Power.md",
+    "to": [
+      "michael.weaver@ctgpowersystems.com"
+    ],
+    "subject": "A direct source for your distribution transformers",
+    "tz": "ET",
+    "window_start_bj": "2026-10-06 21:00",
+    "window_end_bj": "2026-10-06 22:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 21:15",
+    "scheduled_at_local": "2026-10-06 09:15"
+  },
+  {
+    "letter": "开发信-Chemco.md",
+    "to": [
+      "bhalina@chemco.com"
+    ],
+    "subject": "Transformers for your high and low voltage work",
+    "tz": "MT",
+    "window_start_bj": "2026-10-06 23:00",
+    "window_end_bj": "2026-10-07 00:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美山",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 23:15",
+    "scheduled_at_local": "2026-10-06 09:15"
+  },
+  {
+    "letter": "开发信-EMC-Electrical-Materials.md",
+    "to": [
+      "tygel@electricalmaterials.ca"
+    ],
+    "subject": "A second source for your transformer stock",
+    "tz": "ET",
+    "window_start_bj": "2026-10-06 21:00",
+    "window_end_bj": "2026-10-06 22:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 21:18",
+    "scheduled_at_local": "2026-10-06 09:18"
+  },
+  {
+    "letter": "开发信-EcoTech-NL.md",
+    "to": [
+      "gary.lovell@ecotechnl.ca"
+    ],
+    "subject": "Transformer supply for your equipment projects",
+    "tz": "AT",
+    "window_start_bj": "2026-10-06 20:00",
+    "window_end_bj": "2026-10-06 21:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "大西洋",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 20:30",
+    "scheduled_at_local": "2026-10-06 09:30"
+  },
+  {
+    "letter": "开发信-Enerfab.md",
+    "to": [
+      "jeff.sloan@enerfab.com"
+    ],
+    "subject": "Transformer supply for your electrical and modular work",
+    "tz": "ET",
+    "window_start_bj": "2026-10-06 21:00",
+    "window_end_bj": "2026-10-06 22:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 21:21",
+    "scheduled_at_local": "2026-10-06 09:21"
+  },
+  {
+    "letter": "开发信-HB-Frazer.md",
+    "to": [
+      "fholleran@hbfrazer.com"
+    ],
+    "subject": "Distribution transformers for your utility work",
+    "tz": "ET",
+    "window_start_bj": "2026-10-06 21:00",
+    "window_end_bj": "2026-10-06 22:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 21:24",
+    "scheduled_at_local": "2026-10-06 09:24"
+  },
+  {
+    "letter": "开发信-Hatzel-Buehler.md",
+    "to": [
+      "k.martin@hatzelandbuehler.com"
+    ],
+    "subject": "Distribution transformers for your industrial projects",
+    "tz": "ET",
+    "window_start_bj": "2026-10-06 21:00",
+    "window_end_bj": "2026-10-06 22:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 21:30",
+    "scheduled_at_local": "2026-10-06 09:30"
+  },
+  {
+    "letter": "开发信-Inglett-Stubbs.md",
+    "to": [
+      "dlytle@isiprime.com"
+    ],
+    "subject": "Transformer supply for your power and data center work",
+    "tz": "ET",
+    "window_start_bj": "2026-10-06 21:00",
+    "window_end_bj": "2026-10-06 22:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 21:33",
+    "scheduled_at_local": "2026-10-06 09:33"
+  },
+  {
+    "letter": "开发信-Lakeport-Power.md",
+    "to": [
+      "jball@lakeportpower.com"
+    ],
+    "subject": "New transformers built to your specifications",
+    "tz": "ET",
+    "window_start_bj": "2026-10-06 21:00",
+    "window_end_bj": "2026-10-06 22:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 21:36",
+    "scheduled_at_local": "2026-10-06 09:36"
+  },
+  {
+    "letter": "开发信-Megawatt-Equipment.md",
+    "to": [
+      "Isaac@megawattequipment.com"
+    ],
+    "subject": "Transformers for your substation buys",
+    "tz": "CT",
+    "window_start_bj": "2026-10-06 22:00",
+    "window_end_bj": "2026-10-06 23:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美中",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 22:15",
+    "scheduled_at_local": "2026-10-06 09:15"
+  },
+  {
+    "letter": "开发信-Midwest-Machinery-Mart.md",
+    "to": [
+      "Nate@Mid-Westmachinerymart.com"
+    ],
+    "subject": "Transformers for your new and used line",
+    "tz": "ET",
+    "window_start_bj": "2026-10-06 21:00",
+    "window_end_bj": "2026-10-06 22:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 21:39",
+    "scheduled_at_local": "2026-10-06 09:39"
+  },
+  {
+    "letter": "开发信-ONeil-Electric.md",
+    "to": [
+      "joshmatthews@oneilelectric.com"
+    ],
+    "subject": "Distribution transformer supply for your projects",
+    "tz": "ET",
+    "window_start_bj": "2026-10-06 21:00",
+    "window_end_bj": "2026-10-06 22:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 21:42",
+    "scheduled_at_local": "2026-10-06 09:42"
+  },
+  {
+    "letter": "开发信-Piela-Electric.md",
+    "to": [
+      "joe@pielaelectric.com"
+    ],
+    "subject": "A source for the transformers you stock",
+    "tz": "ET",
+    "window_start_bj": "2026-10-06 21:00",
+    "window_end_bj": "2026-10-06 22:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 21:45",
+    "scheduled_at_local": "2026-10-06 09:45"
+  },
+  {
+    "letter": "开发信-Powerhouse-Systems.md",
+    "to": [
+      "patrick@powerhouse-systems.com"
+    ],
+    "subject": "Transformers for your decommission resale",
+    "tz": "ET",
+    "window_start_bj": "2026-10-06 21:00",
+    "window_end_bj": "2026-10-06 22:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 21:51",
+    "scheduled_at_local": "2026-10-06 09:51"
+  },
+  {
+    "letter": "开发信-Sully-Enterprises.md",
+    "to": [
+      "gavin@sullyent.com"
+    ],
+    "subject": "When used units can't cover the spec",
+    "tz": "MT",
+    "window_start_bj": "2026-10-06 23:00",
+    "window_end_bj": "2026-10-07 00:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美山",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 23:45",
+    "scheduled_at_local": "2026-10-06 09:45"
+  },
+  {
+    "letter": "开发信-VEC.md",
+    "to": [
+      "r_remsey@vecohio.com"
+    ],
+    "subject": "Transformers for your substation work",
+    "tz": "ET",
+    "window_start_bj": "2026-10-06 21:00",
+    "window_end_bj": "2026-10-06 22:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 21:54",
+    "scheduled_at_local": "2026-10-06 09:54"
+  },
+  {
+    "letter": "开发信-Wescan.md",
+    "to": [
+      "shawn@wescan-services.com"
+    ],
+    "subject": "Transformers for your electrical division",
+    "tz": "CT",
+    "window_start_bj": "2026-10-06 22:00",
+    "window_end_bj": "2026-10-06 23:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美中",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 22:45",
+    "scheduled_at_local": "2026-10-06 09:45"
+  },
+  {
+    "letter": "开发信-White-Electrical.md",
+    "to": [
+      "mvarnado@white-electrical.com"
+    ],
+    "subject": "Transformer specs for preconstruction",
+    "tz": "ET",
+    "window_start_bj": "2026-10-06 21:00",
+    "window_end_bj": "2026-10-06 22:00",
+    "window_start_local": "2026-10-06 09:00",
+    "window_end_local": "2026-10-06 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-06 10:41",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-10-06 21:57",
+    "scheduled_at_local": "2026-10-06 09:57"
+  }
+]

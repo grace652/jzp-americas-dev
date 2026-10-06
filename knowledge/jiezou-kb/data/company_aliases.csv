@@ -1,0 +1,8 @@
+﻿alias_key,canonical_key,note,source,updated
+DOMINO HIGHVOLTAGE,DOMINO HIGHVOLTAGE SUPPLY,订单表写 Domino Highvoltage；KB hhb-001 全称含 Supply,公司成单客户 + jiezou-kb hhb-001,2026-09-18
+JIANGSU JIEZOU INTERNATIONAL TRADING,JIEZOU,KB source 字段里的写法,条目 source 字段,2026-09-18
+SUZHOU JIEZOU POWER,JIEZOU,Trademo 里的写法,Trademo,2026-09-18
+JIEZOU POWER TRANSFORMER,JIEZOU,公司名全称写法,官网,2026-09-18
+JIANGSU YAWEI TRANSFORMER,YAWEI TRANSFORMER,52wmb 与 ImportGenius 拼法不同,52wmb + ImportGenius,2026-09-18
+YAWEI,YAWEI TRANSFORMER,简称,公开检索,2026-09-18
+BOUNDARY ELECTRIC 1985,BOUNDARY ELECTRIC,加拿大官方 CID 用全称含 1985；自有成交记录用简称,加拿大 ISED CID vs 公司成单客户,2026-09-19

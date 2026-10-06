@@ -1,0 +1,72 @@
+# 开发信 — Womack Electric Supply Company（买家 419）
+
+> 名单来源：batch10（womackelectric.com，NC Burlington）· B 类（电气批发分销商 / 18+ 分店）
+> 交接单：`交接单/batch10_new_374plus/买家419_Womack_Electric_开发信交接单.md`
+> 骨架：**A（通用首触 —— 官网 History + CECA 协会名录）**
+> 收件人：**Al Stewart · President** ｜ `astewart@womackelectric.com`（A 档 · CECA 会员名录一手明文）
+> 发信资格：✅ 通过（附「集团成员」降级提示）｜ 邮箱档位：**A（主送）**
+> 拟发送时段：NC = **东部时区（ET）**｜当地工作日 09:00–10:00 = **北京 21:00–22:00（夏令时）**
+
+> 🔴 **本封特殊说明（必读）**：Womack 属 **Crescent Electric Supply 集团**（2017 收购），
+> 采购权可能上移 → 定位为**「长期培育 / 集团敲门型」**，钩子落在**产品线互补 / 供应商准入**。
+> ⚠️ **MX 走 Mimecast**（内部风险，**不进正文**）；正文**不引用任何规模数字 / 成立年份**。
+
+---
+
+## 一、主题行（3 选 1）
+
+1. `Transformer supply for your distribution line`
+2. `A direct source behind your stock`
+3. `Liquid-immersed transformers, UL listed`
+
+> 选型说明：三条均 **3–6 词**、无全大写、无感叹号、无 spam 词；**未出现**容量、电压、价格、交期数字。
+> 主题 1 落在「分销线 + 变压器品类」；主题 2 落在「第二货源 / 库存背后」；主题 3 落在技术点（UL）。
+
+---
+
+## 二、正文（120 词）
+
+```
+Hi Al,
+
+Womack Electric Supply has been a wholesale distributor across the Carolinas and Virginia, serving contractors and industrial accounts with controls, lighting, wire and more. A catalogue that broad usually puts transformers at the point where supply gets tightest.
+
+We're JZPE Power Transformer, a manufacturer in Suzhou, China. Our three-phase liquid-immersed line is UL listed — E541627 for distribution and pad-mount, 45–5,000 kVA; E541626 for power transformers, 750–110,000 kVA — and built to IEEE C57.12.
+
+Which transformer classes do you source most — distribution and pad-mount, or larger units? I'll send spec sheets, UL certificates and factory test reports for the ranges you stock.
+
+If this isn't useful, reply "stop" and I won't write again.
+
+Best regards,
+
+Ian Chou
+```
+
+---
+
+## 三、中文注解（8 项）
+
+- **收件人**：**Al Stewart · President**（`astewart@womackelectric.com`）
+1. **发信资格**：✅ **通过** —— 域名 `womackelectric.com` MX = Mimecast（非 NXDOMAIN、非双域）；收件人不在「不再联系名单」。⚠️ **集团成员提示**：属 Crescent Electric Supply 旗下 → 采购权或上移，按「长期培育型」处理。
+2. **邮箱档位**：**A（具名决策人邮箱）** —— `astewart@womackelectric.com`，出自 **CECA（Carolinas Electrical Contractors Association）会员名录**一手明文（同域 `astewart@` / `twoodlief@` / `cgardner@` 三例互为命名规则佐证）。⚠️ **未经第二方 SMTP 印证**（Mimecast 不可探测）→ 建议电话 **(336) 854-7111** 兜底核实在职。
+3. **骨架**：**A（通用首触）** —— 接触路径源自官网 History + CECA 会员名录。
+4. **钩子**：**「产品线互补 / 供应商准入」类** —— 落点事实（一手源）：① 其为**电气批发分销商**，品类含工业控制、自动化、照明、线路器材（官网）；② 官网设 **Central Distribution Center** 与 **Vendor Notices** 机制 → **有供应商准入沟通职能**。逻辑链：**分销组合广 + 有供应商准入机制 → 变压器可进其分销线** → 落点收在**资料**。⚠️ **未断言其缺货**；**未把"集团采购"写成贬低点**。
+5. **刻意未用的内容**：
+   - ⛔ **成立年份 1938 / "近 90 年"** —— 红线（正文不引用年份）。
+   - ⛔ **员工数 / 营收 / 18+ 分店数量** —— 红线，不引用任何规模数字。
+   - ⛔ **集团母公司 Crescent Electric 名称** —— 不主动点名集团；不作贬低点。
+   - ⛔ **具体街道地址（Greensboro / Burlington 口径不一）** —— 首封不碰地址。
+   - ⛔ **干变** —— 对美国客户不谈（无 UL）。
+   - ⛔ **单相柱上变（E544629）** —— 仅 ECD 计划函、**不可称 certified** → 首封不提。
+   - ⛔ **具体 kV / kVA 采购段 / 现有变压器供应商** —— 交接单「信息缺口清单」字段，**连模糊表述都不写**；正文只以**提问**落点。
+   - ⛔ **交期 / 价格 / 附件 / 链接** —— 红线。
+6. **待确认 / 存疑**：
+   - ⚠️ **`astewart@` 为协会名录单一来源**（第三方业务名录，可能时效滞后）→ 标「未经第二方 SMTP 印证」，**不谎称已验证到人**。
+   - ⚠️ **Al Stewart 任职时长 / 是否兼 Crescent 集团职务的生效时点** 未获取 → 正文不指称任职年限。
+   - ⚠️ **集团层变压器采购负责人 / Crescent 供应商准入流程** 未获取 → 本单最大不确定性。
+   - ⚠️ **CSV 记 Burlington，决策层/HQ 在 Greensboro** → 正文不写地址，避免用错。
+   - ⚠️ **MX = Mimecast**（项目有 PBL 拦截史）→ 首封密切盯退信；用正规 ESP 投递。
+7. **发送时段**：**北京 21:00–22:00**（= NC 东部时间当地 09:00–10:00，夏令时 EDT）。换算依据：ET 夏令 UTC−4，北京 UTC+8，9:00 → 13:00 UTC → 21:00 北京。🔴 **冬令时起（2026-11-01）改为 22:00–23:00**。
+8. **避开发送日**：**周六 / 周日**（美国周末）；建议**周二–周四**投递。
+
+> ⚠️ **发信前建议先做的动作**：`astewart@` 为协会名录单一来源、Mimecast 域有拦截史 → 首封发出后**密切监控退信**；并行电话 **(336) 854-7111**。

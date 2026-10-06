@@ -1,0 +1,390 @@
+[
+  {
+    "letter": "开发信-跟进-Everlast-Electric.md",
+    "to": [
+      "mike@everlastelectric.ca"
+    ],
+    "cc": [
+      "info@everlastelectric.ca"
+    ],
+    "subject": "Re: Small transformers for 600V service work?",
+    "tz": "AT",
+    "local_label": "大西洋",
+    "scheduled_at_bj": "2026-10-05 20:30",
+    "scheduled_at_local": "2026-10-05 09:30",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-05 20:30"
+  },
+  {
+    "letter": "开发信-跟进-UUS.md",
+    "to": [
+      "etalley@uus.coop"
+    ],
+    "cc": [],
+    "subject": "Re: Substation transformers — outside exclusive lines?",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-05 21:11",
+    "scheduled_at_local": "2026-10-05 09:11",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-05 21:11"
+  },
+  {
+    "letter": "开发信-跟进-CEEUS.md",
+    "to": [
+      "tkyzer@ceeus.com"
+    ],
+    "cc": [
+      "tbrown@ceeus.com"
+    ],
+    "subject": "Re: One more approved transformer option — UL + DOE 2024",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-05 21:21",
+    "scheduled_at_local": "2026-10-05 09:21",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-05 21:21"
+  },
+  {
+    "letter": "开发信-跟进-TM3.md",
+    "to": [
+      "tmcswain@tm3inc.com"
+    ],
+    "cc": [],
+    "subject": "Re: Substation transformers for 5-230kV work",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-05 21:31",
+    "scheduled_at_local": "2026-10-05 09:31",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-05 21:31"
+  },
+  {
+    "letter": "开发信-跟进-BG-High-Voltage.md",
+    "to": [
+      "bberneche@bg-high-voltage.ca"
+    ],
+    "cc": [
+      "mail@bg-high-voltage.ca"
+    ],
+    "subject": "Re: Dry-type and liquid transformers — CSA/UL supply for Ontario",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-05 21:41",
+    "scheduled_at_local": "2026-10-05 09:41",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-05 21:41"
+  },
+  {
+    "letter": "开发信-跟进-PSS.md",
+    "to": [
+      "joe.holler@epsonline.com"
+    ],
+    "cc": [],
+    "subject": "Re: Re: New transformers for installation and field warranty work",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-05 21:51",
+    "scheduled_at_local": "2026-10-05 09:51",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-05 21:51"
+  },
+  {
+    "letter": "开发信-跟进-Priester.md",
+    "to": [
+      "sales@pmn-inc.com"
+    ],
+    "cc": [],
+    "subject": "Re: Second transformer source for Austin Energy supply",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-05 22:07",
+    "scheduled_at_local": "2026-10-05 09:07",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-05 22:07"
+  },
+  {
+    "letter": "开发信-跟进-Amps-Powerline.md",
+    "to": [
+      "rnault@ampspowerline.ca"
+    ],
+    "cc": [
+      "knewman@ampspowerline.ca"
+    ],
+    "subject": "Re: Substation transformers — 6–14 hour outage supply",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-05 22:16",
+    "scheduled_at_local": "2026-10-05 09:16",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-05 22:16"
+  },
+  {
+    "letter": "开发信-跟进-AECI.md",
+    "to": [
+      "communications@aecc.com"
+    ],
+    "cc": [],
+    "subject": "Re: Power transformers for grid build-out — UL, spec-ready",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-05 22:22",
+    "scheduled_at_local": "2026-10-05 09:22",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-05 22:22"
+  },
+  {
+    "letter": "开发信-跟进-RESA-Power.md",
+    "to": [
+      "sales@resapower.com"
+    ],
+    "cc": [],
+    "subject": "Re: Padmount gap ratings for Components East-West",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-05 22:31",
+    "scheduled_at_local": "2026-10-05 09:31",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-05 22:31"
+  },
+  {
+    "letter": "开发信-跟进-Wolfe-and-Travis-Electric.md",
+    "to": [
+      "tpotts@wtei.us"
+    ],
+    "cc": [
+      "twoodard@wtei.us"
+    ],
+    "subject": "Re: Padmount transformers for your 5–15kV distribution work",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-05 22:37",
+    "scheduled_at_local": "2026-10-05 09:37",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-05 22:37"
+  },
+  {
+    "letter": "开发信-跟进-Guerry-Electric.md",
+    "to": [
+      "paul.guerryelectric@gmail.com"
+    ],
+    "cc": [],
+    "subject": "Re: Padmount distribution transformers for your service-entrance work",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-05 22:46",
+    "scheduled_at_local": "2026-10-05 09:46",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-05 22:46"
+  },
+  {
+    "letter": "开发信-跟进-Technical-Power-Services.md",
+    "to": [
+      "Dave@technicalpowerservices.com"
+    ],
+    "cc": [],
+    "subject": "Re: Liquid-filled transformers for your 1kV–69kV work",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-05 22:52",
+    "scheduled_at_local": "2026-10-05 09:52",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-05 22:52"
+  },
+  {
+    "letter": "开发信-跟进-Tryggr.md",
+    "to": [
+      "greg@tryggrtech.ca"
+    ],
+    "cc": [],
+    "subject": "Re: 69–500kV installation transformers — UL + oil support",
+    "tz": "MT",
+    "local_label": "美山",
+    "scheduled_at_bj": "2026-10-05 23:16",
+    "scheduled_at_local": "2026-10-05 09:16",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-05 23:16"
+  },
+  {
+    "letter": "开发信-跟进-WUE.md",
+    "to": [
+      "customerservice@wue.coop"
+    ],
+    "cc": [],
+    "subject": "Re: Substation transformers — W.E.S.T. packaging supply",
+    "tz": "MT",
+    "local_label": "美山",
+    "scheduled_at_bj": "2026-10-05 23:31",
+    "scheduled_at_local": "2026-10-05 09:31",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-05 23:31"
+  },
+  {
+    "letter": "开发信-跟进-Valard-Sousa-20261005.md",
+    "to": [
+      "ssousa@valard.com"
+    ],
+    "cc": [],
+    "subject": "Re: Transformer packages for EPC substations",
+    "tz": "MT",
+    "local_label": "美山",
+    "scheduled_at_bj": "2026-10-05 23:45",
+    "scheduled_at_local": "2026-10-05 09:45",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-05 23:45"
+  },
+  {
+    "letter": "开发信-跟进-General-Pacific.md",
+    "to": [
+      "contractorsales@generalpacific.com"
+    ],
+    "cc": [],
+    "subject": "Re: Transformer supply outside current brands?",
+    "tz": "PT",
+    "local_label": "美西",
+    "scheduled_at_bj": "2026-10-06 00:15",
+    "scheduled_at_local": "2026-10-05 09:15",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-06 00:15"
+  },
+  {
+    "letter": "开发信-跟进-GNS-Technologies.md",
+    "to": [
+      "robertg@gns-technologies.com"
+    ],
+    "cc": [],
+    "subject": "Re: UL padmount and substation transformers",
+    "tz": "PT",
+    "local_label": "美西",
+    "scheduled_at_bj": "2026-10-06 00:31",
+    "scheduled_at_local": "2026-10-05 09:31",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-06 00:31"
+  },
+  {
+    "letter": "开发信-跟进-ALCO-Electric.md",
+    "to": [
+      "brian@alco-electric.com"
+    ],
+    "cc": [
+      "jason@alco-electric.com",
+      "kylie@alco-electric.com"
+    ],
+    "subject": "Re: UL-certified pad-mount and pole-mount transformers",
+    "tz": "PT",
+    "local_label": "美西",
+    "scheduled_at_bj": "2026-10-06 00:45",
+    "scheduled_at_local": "2026-10-05 09:45",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-06 00:45"
+  },
+  {
+    "letter": "开发信-跟进-Fullford-Electric.md",
+    "to": [
+      "FEI@fullfordelectric.com"
+    ],
+    "cc": [
+      "lael@fullfordelectric.com"
+    ],
+    "subject": "Re: Substation transformers for LRDR-type remote sites",
+    "tz": "AK",
+    "local_label": "阿拉斯加",
+    "scheduled_at_bj": "2026-10-06 01:12",
+    "scheduled_at_local": "2026-10-05 09:12",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-06 01:12"
+  },
+  {
+    "letter": "开发信-跟进-Chatham-Electric.md",
+    "to": [
+      "jamesz@northernpowerline.com"
+    ],
+    "cc": [
+      "npcinc@northernpowerline.com"
+    ],
+    "subject": "Re: Substation and power transformers for your Alaska work",
+    "tz": "AK",
+    "local_label": "阿拉斯加",
+    "scheduled_at_bj": "2026-10-06 01:24",
+    "scheduled_at_local": "2026-10-05 09:24",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-06 01:24"
+  },
+  {
+    "letter": "开发信-跟进-Alaska-Line-Builders.md",
+    "to": [
+      "andyk@aklinebuilders.com"
+    ],
+    "cc": [
+      "amey@aklinebuilders.com",
+      "robby@aklinebuilders.com"
+    ],
+    "subject": "Re: Transformers for your substation and transmission work",
+    "tz": "AK",
+    "local_label": "阿拉斯加",
+    "scheduled_at_bj": "2026-10-06 01:36",
+    "scheduled_at_local": "2026-10-05 09:36",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-06 01:36"
+  },
+  {
+    "letter": "开发信-跟进-PowerTec-Electric.md",
+    "to": [
+      "info@ptellc.com"
+    ],
+    "cc": [],
+    "subject": "Re: Substation and 480V transformers — UL certified",
+    "tz": "AK",
+    "local_label": "阿拉斯加",
+    "scheduled_at_bj": "2026-10-06 01:48",
+    "scheduled_at_local": "2026-10-05 09:48",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:44",
+    "sent_at": "2026-10-06 01:48"
+  }
+]

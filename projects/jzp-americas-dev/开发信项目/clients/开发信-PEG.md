@@ -1,0 +1,67 @@
+# 开发信 — Power Engineering Group, Inc. (PEG)（买家 389）
+
+> 名单来源：batch10 名单（pegfl.com，美国 FL Orlando）· B 类电力承包商（高压电气 + 开关柜含变压器）
+> 交接单：`交接单/batch10_new_374plus/买家389_PEG_开发信交接单.md`
+> 骨架：**A（通用首触 —— 官网 About 页 "High Voltage Electrical Contractor" + Switchgear (Transformers)）**
+> 收件人：**Rais Javed Mirza · President** ｜ `Javed@pegfl.com`（A 档 · 官网 Compatibility Statement 页 "Key Contacts" mailto 一手明文 + 同页具名邮箱规则佐证 + LinkedIn 现职）
+> 发信资格：✅ 通过 ｜ 邮箱档位：**A（主送）**
+> 拟发送时段：FL = **东部时区（ET）**｜当地工作日 09:00–10:00 = **北京 21:00–22:00（夏令时）**
+
+---
+
+## 一、主题行（3 选 1）
+
+1. `Transformers for your switchgear work`
+2. `A supply line for HV contractors`
+3. `UL listed transformers for substation work`
+
+> 选型说明：三条均 3–6 词、无全大写、无感叹号、无 spam 词；未出现容量 / 电压 / 价格 / 交期数字。主题行 1 直接呼应其官网 "Switchgear (TVSS, Transformers)" 业务线。
+
+---
+
+## 二、正文（120 词）
+
+```
+Hi Javed,
+
+PEG describes itself as a high-voltage electrical contractor, with switchgear — transformers included — sitting inside the same scope as the HV work. On a crew like that, the transformer decision tends to sit close to the field, not in a separate procurement office.
+
+We're JZPE Power Transformer, a manufacturer in Suzhou, China. Our three-phase liquid-immersed line is UL listed — E541627 for distribution and pad-mount, 45–5,000 kVA; E541626 for power transformers, 750–110,000 kVA — and built to IEEE C57.12.
+
+For your switchgear and substation work, which kVA and kV do you specify most often? Reply "SPECS" and I'll send the matching spec sheets, UL certificates and factory test reports.
+
+If this isn't useful, reply "stop" and I won't write again.
+
+Best regards,
+
+Ian Chou
+```
+
+---
+
+## 三、中文注解（8 项）
+
+- **收件人**：**Rais Javed Mirza · President**（`Javed@pegfl.com`）
+1. **发信资格**：✅ **通过** —— 域名 `pegfl.com` 有 MX（自建 `mail.pegfl.com`，非 NXDOMAIN、非双域）；收件人不在「不再联系名单」；公司 1994 年 FL Profit Corp 注册、官网现行、LinkedIn 现职一致。
+2. **邮箱档位**：**A（具名决策人邮箱，官网一手明文，可主送）** —— `Javed@pegfl.com`（Rais Javed Mirza, President）。依据：官网 Compatibility Statement 页 "Key Contacts" 的 mailto 明文（一手源）+ 同页另列 `Mary.Doorhy@` / `Adeel.Mirza@`（规则级佐证）+ LinkedIn "president at power engineering group"。⚠️ 缺 SMTP 第二源 → **首封密切监控退信**；并行电话 **(407) 277-3150**。⚠️ 该域命名规则不统一（`Javed@` vs `First.Last@`）→ 严禁据规则推演他人邮箱。
+3. **骨架**：**A（通用首触）** —— 接触路径源自官网 About / Compatibility Statement 页 + FL Sunbiz 登记。
+4. **钩子**：**「官网业务线对口」类** —— 落点事实（官网一手源）：About 页明写 *"PEG is a **High Voltage Electrical Contractor**"*，业务含 **High Voltage（440V/11KV/32KV）+ Medium Voltage + Switchgear（TVSS, **Transformers**）**；客户为 water treatment / pump stations / airports / correctional 等 → 项目型、多批次。逻辑链：**高压电气承包 + 开关柜含变压器 + 政府/公用项目** → 制造商直供的配电变/电力变正对位 → 落点收在**资料**。⚠️ **未断言其采购量/现有供应商**。
+5. **刻意未用的内容**：
+   - ⛔ **员工数（官网 "30"）/ 营收** —— 红线，正文不引用任何数字。
+   - ⛔ **成立年份（1994）** —— 正文不提年份。
+   - ⛔ **其作业电压 440V / 11KV / 32KV** —— 属其**服务电压**，与我方 E541626 区间（72–121 kV）**不完全重合**（交接单已标矛盾）→ 正文不写数字，只以**提问**落点（CTA 问其 kV/kVA）。
+   - ⛔ **SBA 8(a) / FL DBE/MBE / EC0001849** —— 首封不堆资质，避免"罗列监视所得"。
+   - ⛔ **单相柱上变（E544629）** —— 仅 ECD 计划函、**不可称 certified**，且官网未突出 → 不提。
+   - ⛔ **干变** —— 对美国客户完全不谈（无 UL）。
+   - ⛔ **具体 kV / kVA / 现有供应商 / 是否进口** —— 交接单「信息缺口清单」字段，正文只以提问落点。
+   - ⛔ **交期 / 价格 / 附件 / 链接** —— 红线。
+6. **待确认 / 存疑**：
+   - ⚠️ **官网 Compatibility Statement 页为旧口径**（记 "24 years in business"，≈2018）→ 联系人与规模信息有时效性；但页面仍在线、President 姓名与 LinkedIn 现职一致 → 判**仍有效**。
+   - ⚠️ **`Javed@` 缺 SMTP 第二源印证**（本轮 SMTP 不可用）→ 已按「官网一手明文 + 规则级佐证」口径处理，**不谎称已验证到人**。
+   - ⚠️ **称呼推断**：其名 "Rais Javed Mirza"，邮箱与 LinkedIn slug 均取 **Javed** → 正文用 `Hi Javed,`（若对方以 Rais 为常用名，需人工改称呼）。
+   - ⚠️ **其变压器采购电压口径未获取** → CTA 直接问 kV/kVA，避免推错切片。
+   - ⚠️ **Rais Javed Mirza 任职时长未获取** → 正文不指称任职年限。
+7. **发送时段**：**北京 21:00–22:00**（= FL 东部时间当地 09:00–10:00，夏令时 EDT）。换算依据：ET 夏令 UTC−4，北京 UTC+8，9:00 → 13:00 UTC → 21:00 北京。🔴 **冬令时起（2026-11-01）改为 22:00–23:00**。
+8. **避开发送日**：**周六 / 周日**（美国周末）；建议**周二–周四**投递。⚠️ 送达：MX = **自建 `mail.pegfl.com`**（非大厂网关），可达性需实投验证 → 用正规 ESP 投递，**首封密切监控退信**。
+
+> ⚠️ **发信前建议先做的动作**：`Javed@` 为官网一手明文、缺 SMTP 第二源 → 首封发出后**密切监控退信**；并行电话 **(407) 277-3150** 复核 President 在职与采购口径。

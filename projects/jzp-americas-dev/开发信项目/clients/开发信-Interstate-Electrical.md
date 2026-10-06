@@ -1,0 +1,81 @@
+# 开发信 — Interstate Electrical Contractors, Inc. · 买家 339
+
+> 名单来源：batch9 名单（interstateelectrical.net，美国 CO Arvada）· B 类（电气 EPC / 变电站 + 中压配电 design-build 承包商）
+> 交接单：`交接单/batch9_new_324plus/买家339_Interstate_Electrical_开发信交接单.md`
+> 骨架：**A（通用首触 —— 官网 turnkey substations / design-build + 115kV 级项目）**
+> 收件人：**Joyce Cillessen · Vice President（联合创始人）** ｜ `joycec@interstateelectrical.net`（A 档 · NSPA NCAGE 政府登记 + CO 州注册 + 官网在职核验）
+> 发信资格：✅ 通过 ｜ 邮箱档位：**A（主送）**
+> 拟发送时段：CO = **MT（山地时区）**｜当地工作日 09:00–10:00 = **北京 23:00–24:00（夏令时）**
+
+> 🔴 **本封特殊说明（必读）**：官网明列 **"turnkey substations"** 与 **"design/build"** ——
+> 承包商**自行成套采购/集成站内主设备（含变压器）**；项目组合含 **115kV 级输电/变电站**
+> （Teton Village 115kV、Ft. Randall / Oahe Switchyard），与我方 **E541626（HV 72–121 kV）** 电压段高度吻合。
+> ⚠️ **design-build 有独立选型权** → 钩子走 **submittals 报审资料**（INDEX 该类型标准钩子）。
+> ⚠️ **美国客户：仅推液浸类，绝不在正文提干变。**
+
+---
+
+## 一、主题行（3 选 1）
+
+1. `Transformer supply for your substation packages`
+2. `Submittal-ready transformer spec sheets`
+3. `Power transformers for design-build substations`
+
+> 选型说明：
+> - 主题行 1 落在其**turnkey 变电站成套采购**场景；主题行 2 落在 **submittals 报审**钩子。
+> - 三条均 **3–6 词**、无全大写、无感叹号、无 spam 词。
+> - **未出现**容量、电压、价格、交期数字。
+
+---
+
+## 二、正文（117 词）
+
+```
+Hi Joyce,
+
+Your design/build and turnkey substation work — including 115 kV switchyard
+and transmission projects — means the transformer package gets specified
+in-house. That usually puts the submittals and the equipment source on the same
+desk.
+
+We're JZPE Power Transformer, a manufacturer in Suzhou, China. Our three-phase
+liquid-immersed line is UL listed — E541626 for power transformers,
+750–110,000 kVA, HV up to 121 kV; E541627 for distribution and pad-mount,
+45–5,000 kVA — and built to IEEE C57.12.
+
+Would submittal-ready spec sheets, UL certificates and factory test reports be
+useful for your next substation package? Reply "SUBMITTALS" and I'll send the set.
+
+If this isn't relevant, just say so and I won't follow up.
+
+Best regards,
+
+Ian Chou
+```
+
+---
+
+## 三、中文注解（8 项）
+
+- **收件人**：**Joyce Cillessen · Vice President（联合创始人）**（`joycec@interstateelectrical.net`）
+1. **发信资格**：✅ **通过** —— 域名 `interstateelectrical.net` MX = M365（非 NXDOMAIN、非双域）；官网现行 + 政府/州登记活跃；收件人不在「不再联系名单」。
+2. **邮箱档位**：**A（具名决策人邮箱，可主送）** —— 满足 H3/H5：**两个独立来源**（NSPA NCAGE 政府登记 published email + CO 州注册 Contact Person = JOYCE CILLESSEN）+ 官网 Leadership 页在职核验。⚠️ **该域为 catch-all → SMTP 探测作废，A 档判定不依赖 SMTP** → **只能靠退信判断可达性**，首封务必密切监控退信；若退信改走 `moreinfo@interstateelectrical.net` 点名转交。
+3. **骨架**：**A（通用首触）** —— 接触路径源自官网 home / about / markets / contact + cage.report + CO 州注册。
+4. **钩子**：**「design-build 报审 submittals」类** —— 落点事实（官网，一手源）：① **"turnkey substations"** + **"design/build experience in both substations and industrial applications"** → 承包商成套采购站内主设备；② 项目组合含 **115kV 级输电/变电站**（Teton Village 115kV、Ft. Randall / Oahe Switchyard）→ 与 **E541626（HV 72–121 kV）** 对口；③ 家族企业、联合创始人现任 → 决策集中。逻辑链：**自选型 + 115kV 电压段对口 → 需要可直接报审的规格资料** → 落点收在 **submittals**。⚠️ **未断言对方缺货**。
+5. **刻意未用的内容**：
+   - ⛔ **成立年份 1984** —— 硬红线 8，**不写年份**（官网/SAM/NCAGE 三处口径亦不一）。
+   - ⛔ **员工数（11–50）/ 营收** —— 红线，正文零数字。
+   - ⛔ **干变** —— 美国客户红线，**完全不谈**。
+   - ⛔ **单相柱上变（E544629）/ 变电站小主变 SF 系列** —— 仅 ECD 计划函、**不可称 certified** → 首封不提。
+   - ⛔ **具体 kV / kVA / 品牌 / 是否已固定中国供应商** —— 交接单「信息缺口清单」字段，**连模糊表述都不写**；正文只以**提问**落点。
+   - ⛔ **USACE / 油气 / 可再生客户名 / ABC 会员 / EMR 0.70 / STEP 奖** —— 对方资质细节，首封不堆（一封信只留最锋利的一条）。
+   - ⛔ **具体街道地址 / CAGE / DUNS / UEI** —— 首封不碰。
+   - ⛔ **交期 / 价格 / 附件 / 链接** —— 红线。
+6. **待确认 / 存疑**：
+   - ⚠️ **NCAGE 邮箱记录为 2019 年存档** → 时效偏旧；缓解因素：Joyce Cillessen 官网现任 VP → 正文按"现行"写，**不谎称 2026 年再证**。
+   - ⚠️ **President Jim Cillessen 级别更高但邮箱未获取** → 本次主送 VP Joyce，**正文不指称其为最高决策人**。
+   - ⚠️ **官网版权标注 2020** → 部分内容可能过时 → 正文**不引用其具体项目清单**作论据，仅以能力/电压段（115 kV）概括。
+   - ⚠️ **"the transformer package gets specified in-house"** 系**业务性质推断**（turnkey/design-build 承包商需自行选型），非交接单明写 → 措辞已降到"通常"级。
+   - ⚠️ **域名务必用 `.net`**（⛔ 勿混 `interstateelectrical.com` —— 另一家公司）。
+7. **发送时段**：**北京 23:00–24:00**（= CO 山地时间当地 09:00–10:00，夏令时 MDT）。换算依据：MT 夏令 UTC−6，北京 UTC+8，9:00 → 15:00 UTC → 23:00 北京。🔴 **冬令时起（2026-11-01）改为 00:00–01:00**。
+8. **避开发送日**：**周六 / 周日**（美国周末）；建议**周二–周四**投递。⚠️ 送达：MX = M365 + **域为 catch-all**，**用正规 ESP 投递**，首封注意退信监控。

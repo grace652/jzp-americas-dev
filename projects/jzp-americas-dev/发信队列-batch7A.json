@@ -1,0 +1,142 @@
+[
+  {
+    "letter": "开发信-Gray-Construction.md",
+    "to": [
+      "tyler@graypowerline.ca"
+    ],
+    "subject": "Transformers for your line crew",
+    "tz": "CT",
+    "window_start_bj": "2026-10-01 01:37",
+    "window_end_bj": "2026-10-01 02:37",
+    "window_start_local": "2026-09-30 12:37",
+    "window_end_local": "2026-09-30 13:37",
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:00",
+    "sent_at": "2026-10-01 01:37",
+    "scheduled_at_bj": "2026-10-01 01:37",
+    "scheduled_at_local": "2026-09-30 12:37"
+  },
+  {
+    "letter": "开发信-Lizco-Sales-Rentals.md",
+    "to": [
+      "jpeters@lizcosales.com"
+    ],
+    "subject": "A second factory source for your transformer stock",
+    "tz": "ET",
+    "window_start_bj": "2026-10-01 01:25",
+    "window_end_bj": "2026-10-01 02:25",
+    "window_start_local": "2026-09-30 13:25",
+    "window_end_local": "2026-09-30 14:25",
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:00",
+    "sent_at": "2026-10-01 01:25",
+    "scheduled_at_bj": "2026-10-01 01:25",
+    "scheduled_at_local": "2026-09-30 13:25"
+  },
+  {
+    "letter": "开发信-Metro-Wire-Cable.md",
+    "to": [
+      "ericsine@metrowire.net"
+    ],
+    "subject": "Question on your utility and T&D line",
+    "tz": "ET",
+    "window_start_bj": "2026-10-01 01:32",
+    "window_end_bj": "2026-10-01 02:32",
+    "window_start_local": "2026-09-30 13:32",
+    "window_end_local": "2026-09-30 14:32",
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:00",
+    "sent_at": "2026-10-01 01:32",
+    "scheduled_at_bj": "2026-10-01 01:32",
+    "scheduled_at_local": "2026-09-30 13:32"
+  },
+  {
+    "letter": "开发信-Midway-Power-Line-Services.md",
+    "to": [
+      "laurie@midwaypower.com"
+    ],
+    "subject": "Transformers for your transmission work",
+    "tz": "PT",
+    "window_start_bj": "2026-10-01 00:00",
+    "window_end_bj": "2026-10-01 01:00",
+    "window_start_local": "2026-09-30 09:05",
+    "window_end_local": "2026-09-30 10:00",
+    "local_label": "美西",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:00",
+    "sent_at": "2026-10-01 01:03",
+    "scheduled_at_bj": "2026-10-01 00:30",
+    "scheduled_at_local": "2026-09-30 09:30"
+  },
+  {
+    "letter": "开发信-Tenergy.md",
+    "to": [
+      "andrew@tenergynm.com"
+    ],
+    "subject": "Transformers for your 345kV work",
+    "tz": "MT",
+    "window_start_bj": "2026-10-01 01:52",
+    "window_end_bj": "2026-10-01 02:52",
+    "window_start_local": "2026-09-30 11:52",
+    "window_end_local": "2026-09-30 12:52",
+    "local_label": "美山",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:00",
+    "sent_at": "2026-10-01 01:52",
+    "scheduled_at_bj": "2026-10-01 01:52",
+    "scheduled_at_local": "2026-09-30 11:52"
+  },
+  {
+    "letter": "开发信-Transformer-Network.md",
+    "to": [
+      "dave.mossman@transformernet.com"
+    ],
+    "subject": "A new-build source alongside your rebuilt units",
+    "tz": "CT",
+    "window_start_bj": "2026-10-01 01:42",
+    "window_end_bj": "2026-10-01 02:42",
+    "window_start_local": "2026-09-30 12:42",
+    "window_end_local": "2026-09-30 13:42",
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:00",
+    "sent_at": "2026-10-01 01:47",
+    "scheduled_at_bj": "2026-10-01 01:42",
+    "scheduled_at_local": "2026-09-30 12:42"
+  },
+  {
+    "letter": "开发信-Webb-Electric.md",
+    "to": [
+      "dawebb@webbelectric.com"
+    ],
+    "subject": "Transformers for your distribution upgrades",
+    "tz": "CT",
+    "window_start_bj": "2026-10-01 01:47",
+    "window_end_bj": "2026-10-01 02:47",
+    "window_start_local": "2026-09-30 12:47",
+    "window_end_local": "2026-09-30 13:47",
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:00",
+    "sent_at": "2026-10-01 01:47",
+    "scheduled_at_bj": "2026-10-01 01:47",
+    "scheduled_at_local": "2026-09-30 12:47"
+  }
+]

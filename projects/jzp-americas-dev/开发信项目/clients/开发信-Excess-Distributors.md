@@ -1,0 +1,78 @@
+# 开发信 — Excess Distributors, Inc. (EDI)（买家 367）
+
+> 名单来源：batch9 名单（excessdist.com，AZ Phoenix）· B 类（电气「批发商之批发商」型贸易商 / 缺货补货中心）
+> 交接单：`交接单/batch9_new_324plus/买家367_Excess_Distributors_开发信交接单.md`
+> 骨架：**A（通用首触 —— 官网「backorder fulfillment center for electrical wholesalers」定位 + `Sell To Us` 收储职能）**
+> 收件人：**Bryan Schneider · President** ｜ `bryan@excessdist.com`（A 档 · SMTP 实测 250 + LinkedIn 现任 President + Wiza 旁证）
+> 发信资格：✅ 通过 ｜ 邮箱档位：**A（主送）**
+> 拟发送时段：AZ = **MST（山区时区，亚利桑那不实行夏令时）**｜当地工作日 09:00–10:00 = **北京 00:00–01:00（全年固定）**
+
+---
+
+## 一、主题行（3 选 1）
+
+1. `A supply line for backorder fill`
+2. `A direct source for transformer lines`
+3. `Stocking beyond construction materials`
+
+> 选型说明：三条均 3–6 词、无全大写、无感叹号、无 spam 词。
+> - 主题行 1 对准其**「为批发商补货」的核心职能**（最高对口度），不预设其经营变压器品类。
+> - 主题行 3 用**「品类互补」**措辞（官网未见变压器专营类目），避免硬套「你们卖变压器」。
+> - **未出现**容量、电压、价格、交期数字。
+
+---
+
+## 二、正文（125 词）
+
+```
+Hi Bryan,
+
+Your site describes Excess Distributors as a backorder fulfillment center for
+electrical wholesalers — the supply line that keeps other distributors' shelves
+stocked. That role depends on having a source you can lean on when a line runs
+short.
+
+We're JZPE Power Transformer, a manufacturer in Suzhou, China. Our three-phase
+liquid-immersed line is UL listed — E541627 for distribution and pad-mount,
+45–5,000 kVA; E541626 for power transformers, 750–110,000 kVA — and built to
+IEEE C57.12.
+
+Transformers sit outside the construction materials you carry, but they reach the
+same wholesale customers. Would it help to have our UL certificates and spec
+sheets on file? Reply "SPECS" and I'll send the ranges you're most likely to be
+asked for.
+
+If this isn't useful, reply "stop" and I won't write again.
+
+Best regards,
+
+Ian Chou
+```
+
+---
+
+## 三、中文注解（8 项）
+
+- **收件人**：**Bryan Schneider · President**（`bryan@excessdist.com`）
+1. **发信资格**：✅ **通过** —— 域名 `excessdist.com` MX = Proofpoint（非 NXDOMAIN、非双域）；SMTP 实测 `bryan@` = 250（控制地址协议全通过）；收件人不在「不再联系名单」。
+2. **邮箱档位**：**A（具名决策人邮箱，已验证，可主送）** —— `bryan@excessdist.com`（Bryan Schneider，President）。⚠️ Proofpoint 有误导性错误史 → **首封密切盯退信**；若退信改走 `info@excessdist.com` 点名转交 Bryan Schneider。⛔ 域名**只可写 `excessdist.com`**，不可误写 `excessdistributors.com` / `excess-dist.com`。
+3. **骨架**：**A（通用首触）** —— 接触路径源自官网首页「backorder fulfillment center for electrical wholesalers」定位 + `/sell-to-us` 收储页 + `/stock` 库存页。
+4. **钩子**：**「上游货源 / 品类互补」类**（**唯一一个钩子**）—— 落点事实（官网一手源）：① 自述 *"to provide electrical wholesalers with a complete range of trusted electrical construction products"* 与 *"a backorder fulfillment center for electrical distributors"* → **本身就是批发商的上游货源商**；② 设 **`/sell-to-us`（Sell To Us）** 专页 → **明确的买入/收储职能**。逻辑链：**有买入口 + 为批发商补货的定位** → 制造商直供的「稳定供货线」正对位 → 落点收在**资料**。⚠️ **未断言对方经营变压器**（官网未见变压器专营类目）；**未宣称对方缺货**。
+5. **刻意未用的内容**：
+   - ⛔ **成立年份（1989）** —— 红线：成立年份不引用具体数字。
+   - ⛔ **仓库面积（100,000+ sq ft）/ 员工数 / 营收** —— 红线，不引用任何数字。
+   - ⛔ **「你们卖变压器」式措辞** —— 官网未见变压器专营类目（主推导管配件/接线器件/熔断器/PVC/Lugs/Grounding）→ 钩子改落「品类互补」，避免自曝式硬套。
+   - ⛔ **干变** —— **对美国客户不谈干变**（无 UL）。
+   - ⛔ **单相柱上变（E544629）** —— 仅 ECD 计划函、**不可称 certified** → 首封不提。
+   - ⛔ **GoDaddy 模板作者邮箱**（`filler@godaddy.com` / `info@latinotype.com` / `team@latofonts.com`）—— 已剔除，绝不写入。
+   - ⛔ **交期 / 价格 / 附件 / 链接** —— 红线。
+6. **待确认 / 存疑**：
+   - ⚠️ **是否经营/采购变压器品类**：官网未见 → 正文只以**提问**落点，不作任何断言。
+   - ⚠️ **采购的具体品类 / 品牌 / 认证要求、是否已固定海外供应商** —— 未获取，正文仅提问，不预设。
+   - ⚠️ **`bryan@` 系 SMTP 实测命中**（非证书式确证）→ 按「实测 + 交叉」口径处理，**不谎称已验证到人**。
+   - ⚠️ **官网无完整门牌地址**（仅列 Phoenix, AZ）→ 首封**不碰地址**。
+   - ⚠️ **Bryan Schneider 在本司任职时长**未获取 → 正文不指称任职年限，仅以 President 身份直呼其名。
+7. **发送时段**：**北京 00:00–01:00**（= AZ 当地 09:00–10:00，MST）。换算依据：MST 固定 UTC−7，北京 UTC+8，9:00 → 16:00 UTC → 北京 00:00。🔴 **AZ 不实行夏令时 → 全年固定，11/01 无需调整**。
+8. **避开发送日**：**周六 / 周日**（美国周末）；建议**周二–周四**投递（其办公时间 07:00–16:00 MST）。⚠️ 送达：MX = **Proofpoint**，用正规 ESP 投递，首封注意退信监控。
+
+> ⚠️ **发信前建议先做的动作**：`bryan@` 为 SMTP 实测命中、Proofpoint 域有误导性错误史 —— 首封发出后**密切监控退信**；并行电话 **602-252-1280** / **800-429-4133**。

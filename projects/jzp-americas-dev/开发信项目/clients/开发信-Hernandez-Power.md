@@ -1,0 +1,76 @@
+# 开发信 — Hernandez Power Sales（买家 423）
+
+> 名单来源：batch10（hernandezpowersales.com，LA Baton Rouge）· B 类（变压器销售 + DGA 工具 + 变压器维护服务商）
+> 交接单：`交接单/batch10_new_374plus/买家423_Hernandez_Power_开发信交接单.md`
+> 骨架：**A（通用首触 —— 官网 Contact 页一手具名邮箱 + About/Services）**
+> 收件人：**Luis Hernandez**（职务未获取）｜ `luis@hernandezpowersales.com`（A 档 · 官网一手明文）
+> 发信资格：⚠️ **条件通过**（still_here 未核 → **中性称呼**）｜ 邮箱档位：**A（主送，须先核在职）**
+> 拟发送时段：LA = **中部时区（CT）**｜当地工作日 09:00–10:00 = **北京 22:00–23:00（夏令时）**
+
+> 🔴 **本封特殊说明（必读）**：对口度高 —— 官网自述 **"Louisiana's trusted source for electrical
+> transformers for sale"**，品类含 **distribution / power transformers**，另提供 DGA 工具与维护服务。
+> 🔴 **still_here 未核**：检索到一名 Luis Hernandez 现任 Baton Rouge「Pinnacle Power Sales」→
+> **无法确认是否同一人 / 已换东家** ⇒ **本封采用中性称呼 `Hello,`**，不写具体头衔。
+> ⚠️ 官网主打 *"We Cut Lead Times in Half"* —— **交期是其痛点，但首封不报交期**（留第 3 轮）。
+> ⚠️ **MX 走 Google Workspace**；正文**不引用任何人数 / 营收 / 成立年份**。
+
+---
+
+## 一、主题行（3 选 1）
+
+1. `Transformers for sale — a direct source`
+2. `Pad-mount and power transformers, UL listed`
+3. `A supply line behind your stock`
+
+> 选型说明：三条均 **3–6 词**、无全大写、无感叹号、无 spam 词；**未出现**容量、电压、价格、交期数字。
+> 主题 1 直接呼应其官网主业；主题 2 落在技术点与品类；主题 3 落在「第二货源 / 库存背后」。
+
+---
+
+## 二、正文（128 词）
+
+```
+Hello,
+
+Hernandez Power Sales is Louisiana's source for transformers for sale, backed by DGA tools and transformer maintenance work — so the units you sell and the units you service sit on the same shelf. That is where a direct manufacturing source usually earns its place.
+
+We're JZPE Power Transformer, a manufacturer in Suzhou, China. Our three-phase liquid-immersed line is UL listed — E541627 for distribution and pad-mount, 45–5,000 kVA; E541626 for power transformers, 750–110,000 kVA — and built to IEEE C57.12.
+
+Which do you sell more of — distribution and pad-mount units, or the larger power transformers? Reply "SPECS" and I'll send the matching spec sheets, UL certificates and factory test reports.
+
+If this isn't useful, reply "stop" and I won't write again.
+
+Best regards,
+
+Ian Chou
+```
+
+---
+
+## 三、中文注解（8 项）
+
+- **收件人**：**（收件人姓名未在文件头给出）**（`luis@hernandezpowersales.com`）
+1. **发信资格**：⚠️ **条件通过** —— 域名 `hernandezpowersales.com` MX = Google Workspace（非 NXDOMAIN、非双域）；LA 州注册在册。⚠️ **闸门第 3 条提示**：`luis@` 为官网一手具名邮箱，但 **still_here 未核**（同名 Luis Hernandez 现任 Pinnacle Power Sales）→ **发信前须核其在职**；若已离职 → 改走官网表单 / 电话。
+2. **邮箱档位**：**A（具名邮箱，官网一手明文）** —— `luis@hernandezpowersales.com`。⚠️ **职务未获取 + 在职性待核**（缺第二方印证）→ 标「已验证（一手源）· 在职待核」；本机 SMTP 探测不可用（banner 被过滤）。
+3. **骨架**：**A（通用首触）** —— 接触路径源自官网 Contact 页明文邮箱 + About/Services。
+4. **钩子**：**「变压器销售主业 + 第二货源」类** —— 落点事实（一手源）：① 官网自述 **"Louisiana's trusted source for electrical transformers for sale"**；② 品类含 **distribution / power transformers**；③ 另有 **DGA 工具 + 维护服务** → **销售与服务并存、有持续进货职能**。逻辑链：**销售为主业 + 有库存与进货 → 制造商直供可作第二货源** → 落点收在**资料**。⚠️ **未断言其缺货**；**未碰交期卖点**。
+5. **刻意未用的内容**：
+   - ⛔ **成立年份**（官网 `since our founding` / `decades of experience` 均为模糊表述）—— 红线，正文不提年份。
+   - ⛔ **人数 / 营收** —— 红线，不引用任何数字。
+   - ⛔ **`"We Cut Lead Times in Half"` / 任何交期数字** —— 交期痛点留第 3 轮；**首封不报交期**。
+   - ⛔ **具体头衔（founder / owner）** —— 职务未获取，**不写**；采用中性称呼。
+   - ⛔ **确切街道地址 / 电话**（未获取）—— 首封不碰地址。
+   - ⛔ **干变** —— 对美国客户不谈（无 UL）。
+   - ⛔ **单相柱上变（E544629）** —— 仅 ECD 计划函、**不可称 certified** → 首封不提。
+   - ⛔ **具体 kV / kVA 采购段 / 是否已固定中国供应商** —— 交接单「信息缺口清单」字段，**连模糊表述都不写**；正文只以**提问**落点。
+   - ⛔ **交期 / 价格 / 附件 / 链接** —— 红线。
+6. **待确认 / 存疑**：
+   - 🔴 **Luis Hernandez 在职状态（本单最关键缺口）** 未核 → 本封采用中性称呼 `Hello,`，**不写头衔**；发信前须核实。
+   - ⚠️ **Luis 职务** 未获取 → 正文不写 founder / owner 等。
+   - ⚠️ **邮箱可投递性** 未验证（SMTP 不可用）→ 不谎称已确证有效。
+   - ⚠️ **服务商身份**（含维护 / 测试 / DGA）→ 非纯贸易，但**仍属渠道商**，不构成排除。
+   - ⚠️ **同名排除**：勿与 Baton Rouge 的 **Pinnacle Power Sales**（`pinnaclepowersales.com`）混淆。
+7. **发送时段**：**北京 22:00–23:00**（= LA 中部时间当地 09:00–10:00，夏令时 CDT）。换算依据：CT 夏令 UTC−5，北京 UTC+8，9:00 → 14:00 UTC → 22:00 北京。🔴 **冬令时起（2026-11-01）改为 23:00–24:00**。
+8. **避开发送日**：**周六 / 周日**（美国周末）；建议**周二–周四**投递。
+
+> ⚠️ **发信前建议先做的动作**：**先核 Luis Hernandez 是否仍在 Hernandez Power Sales**（电话 / 回信）；若已离职 → 本单降为 B 档，改走官网表单。首封发出后**监控退信**。

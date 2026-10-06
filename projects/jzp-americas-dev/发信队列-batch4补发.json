@@ -1,0 +1,100 @@
+[
+  {
+    "letter": "开发信-AW-High-Voltage.md",
+    "to": [
+      "mara@awhvc.com"
+    ],
+    "subject": "Small pad-mount units for Innisfil",
+    "tz": "ET",
+    "window_start_bj": "2026-09-30 21:00",
+    "window_end_bj": "2026-09-30 22:00",
+    "window_start_local": "2026-09-30 09:00",
+    "window_end_local": "2026-09-30 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "blocked",
+    "blocked_reason": "地址验证：mara@awhvc.com — 域名没有 MX 记录 → 收不了信",
+    "queued_at": "2026-09-29 23:22",
+    "sent_at": null
+  },
+  {
+    "letter": "开发信-Amtek.md",
+    "to": [
+      "info@amtek.ca"
+    ],
+    "subject": "Dry-type transformers for panel builds",
+    "tz": "AT",
+    "window_start_bj": "2026-09-30 20:00",
+    "window_end_bj": "2026-09-30 21:00",
+    "window_start_local": "2026-09-30 09:00",
+    "window_end_local": "2026-09-30 10:00",
+    "local_label": "大西洋",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-29 23:22",
+    "sent_at": "2026-09-30 21:19",
+    "scheduled_at_bj": "2026-09-30 20:30",
+    "scheduled_at_local": "2026-09-30 09:30"
+  },
+  {
+    "letter": "开发信-Codale-Electric-Supply.md",
+    "to": [
+      "info@codale.com"
+    ],
+    "subject": "Transformer supply, Salt Lake City",
+    "tz": "MT",
+    "window_start_bj": "2026-09-30 23:00",
+    "window_end_bj": "2026-10-01 00:00",
+    "window_start_local": "2026-09-29 09:25",
+    "window_end_local": "2026-09-29 10:00",
+    "local_label": "美山",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-29 23:22",
+    "sent_at": "2026-09-30 23:40",
+    "scheduled_at_bj": "2026-09-30 23:40",
+    "scheduled_at_local": "2026-09-30 09:40"
+  },
+  {
+    "letter": "开发信-Graybar-Canada-Oshawa.md",
+    "to": [
+      "info@graybarcanada.com"
+    ],
+    "subject": "Transformer gaps beyond stocked range",
+    "tz": "ET",
+    "window_start_bj": "2026-09-30 21:00",
+    "window_end_bj": "2026-09-30 22:00",
+    "window_start_local": "2026-09-30 09:00",
+    "window_end_local": "2026-09-30 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-29 23:22",
+    "sent_at": "2026-09-30 21:19",
+    "scheduled_at_bj": "2026-09-30 21:15",
+    "scheduled_at_local": "2026-09-30 09:15"
+  },
+  {
+    "letter": "开发信-Gresco-Utility-Supply.md",
+    "to": [
+      "connect@gresco.com"
+    ],
+    "subject": "Transformer supply, Forsyth",
+    "tz": "ET",
+    "window_start_bj": "2026-09-30 21:00",
+    "window_end_bj": "2026-09-30 22:00",
+    "window_start_local": "2026-09-30 09:00",
+    "window_end_local": "2026-09-30 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-29 23:22",
+    "sent_at": "2026-09-30 21:45",
+    "scheduled_at_bj": "2026-09-30 21:45",
+    "scheduled_at_local": "2026-09-30 09:45"
+  }
+]

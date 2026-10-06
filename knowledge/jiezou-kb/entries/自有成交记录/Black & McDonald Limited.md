@@ -1,0 +1,32 @@
+---
+id: cjjl-005
+type: 自有成交记录
+name: Black & McDonald Limited
+created: 2026-09-19
+updated: 2026-09-19
+tags: ["内部资料", "老客户", "加拿大", "北美主攻", "储能", "单相柱上", "箱变/变电站", "6MVA", "20KVA", "5000KVA"]
+related: []
+source: 内部成交记录（公司成单客户），2022-03 ~ 2024-07
+客户名: Black & McDonald Limited
+国家地区: 加拿大 Ontario
+成交时间: 2024-07
+产品与容量: 6MVA BESS Transformer / 20kva Single Phase Pole Mound Transformer / 5000kVA Substation Transformer
+项目名称: 3 项（见正文成交明细）
+---
+
+## 成交明细
+
+- 2024-07：6MVA BESS Transformer
+- 2024-07：20kva Single Phase Pole Mound Transformer
+- 2024-07：5000kVA Substation Transformer
+
+## 客户背景
+
+- 地址：77 Railside Road , Toronto , ON M3A 1B2 Canada
+- 来源：内部成交记录（公司成单客户），原始块 #1
+
+## 对开发的意义
+
+- 最近一次成交：2024-07。之后是否还有采购？建议用海关数据核查其**当前供应商**。
+- 老客户重新激活的转化成本远低于冷开——先确认是「被竞对接走」还是「需求消失」。
+- 若海关数据显示其供应商已变为竞对（如亚威），属于最高优先级线索，参见 leads/index.md 的流失客户专报。

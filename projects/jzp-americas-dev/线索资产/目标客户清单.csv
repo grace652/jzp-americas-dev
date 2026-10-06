@@ -1,0 +1,49 @@
+﻿序号,类型,公司全称,简称,国家,州省,细分类型,背景与钩子,官网
+1,A 电气承包商/工程公司,Hertz Engineering Inc.,Hertz Engineering,加拿大,BC,工程公司,电气工程咨询+现场服务，Vancouver,hertzengineering.ca
+2,A 电气承包商/工程公司,Trueline Power,Trueline Power,加拿大,BC,承包商,69/115/230kV 输电+变电站设计施工+变压器组装更换,truelinepower.com
+3,A 电气承包商/工程公司,PFM Technical Solutions,PFM Technical,加拿大,BC,工程公司,EGBC 注册工程师，BC 全省电气方案,pfmts.com
+4,⛔ 排除 · 变压器同业,Trinity Power Corp.,Trinity Power,加拿大,BC,变压器租赁/销售/翻新商（Sunbelt Solomon 集团成员）,"⛔ 排除：集团自述含 transformer manufacturing and remanufacturing；协会名录明列 ""Sale of New and Remanufactured Transformers"" + ""Transformer Rewind and Repair"" + ""Surplus Transformer Buying""。详见 ⛔排除143 记录",trinitypower.com
+5,A 电气承包商/工程公司,Montgomery Industrial Services,Montgomery Industrial,加拿大,ON,承包商,高压变电站设计/建造/维护,montgomeryindustrial.com
+6,A 电气承包商/工程公司,K.P.C. Power Electrical Ltd.,KPC Power,加拿大,ON,承包商,变电站维护与建设，电气基础设施,kpcpower.com
+7,A 电气承包商/工程公司,Alliance Engineering & Construction,Alliance Engineering,加拿大,ON,承包商,工业/商业/机构+Design Build，Ottawa,allianceengineering.ca
+8,A 电气承包商/工程公司,Ardoch Electric Inc.,Ardoch Electric,加拿大,ON,承包商,Kanata ON，工业/商业/机构+Design Build,ardoch.ca
+9,A 电气承包商/工程公司,Bradmoore Electric Company Ltd.,Bradmoore Electric,加拿大,ON,承包商,Ottawa ON，工业+Utility 架空/地下,bradmooreelectric.com
+10,A 电气承包商/工程公司,Drycore Electric (2002) Inc.,Drycore Electric,加拿大,ON,承包商,Ottawa ON，工业+Utility 架空/地下,drycore2002.ca
+11,A 电气承包商/工程公司,Duplex Enterprises Limited,Duplex Enterprises,加拿大,ON,承包商,Orleans ON，工业/商业+Utility 架空/地下,duplexelectricalltd.com
+12,A 电气承包商/工程公司,Earl Carr Electric Canada Ltd.,Earl Carr Electric,加拿大,ON,"A 电气承包商/工程公司（Carp, 渥太华都会区；1978 成立）",Carp ON，工业/商业+Utility 架空/地下,earlcarrelectriccanada.com
+13,A 电气承包商/工程公司,ABCO Supply & Service Ltd.,ABCO Supply,加拿大,MB,承包商,MB Hydro Bipole III + Diageo 变电站改造（搬迁 2×3MVA 变压器）,abcosupply.com
+14,A 电气承包商/工程公司,Nor-Tec Group Ltd.,Nor-Tec Group,加拿大,MB,A 电气承包商/工程公司（Winnipeg MB；30+ 年；官网公开合伙人级领导层）,Winnipeg 工业电气承包商，数据中心/医院/大型项目,nortecgroup.com
+15,A 电气承包商/工程公司,Shermco Industries Canada Inc.,Shermco Canada,加拿大,MB（加拿大实体）/ 总部 TX,A 电气承包商/工程公司 · 北美最大电气测试机构（总部 TX Irving，41 服务中心）,电力设备测试/维修/年检（变压器服务）,shermco.com
+16,A 电气承包商/工程公司,Power Guardian Solutions,Power Guardian,加拿大,MB,A 电气承包商/工程公司（West Saint Paul MB；官网为 SPA，关键人来自 ECAM 名录）,电力保护方案，West St. Paul MB,powerguardian.ca
+17,A 电气承包商/工程公司,Hooper Corporation,Hooper Corp,美国,WI,承包商,高压变电站建设/改造/维护，Electric Power Division,hoopercorp.com
+18,A 电气承包商/工程公司,Steinmetz Corporation,Steinmetz Corp,美国,WI,A 电气承包商/工程公司（Appleton WI；1977 成立；电气工程与测试维护）,"电气工程服务，高压到低压全谱 ⚠️ CSV 州省已更正：IL→WI（Appleton, WI）；官网明述 From high voltage to low voltage systems；客户为 investor-owned/municipal utilities",steinmetzcorp.com
+19,A 电气承包商/工程公司,PACK Power,PACK Power,美国,MN,A 电气承包商/工程公司 · 高压/中压 EPC（West Fargo ND；2023 成立）,变电站/输电/配电专营 ⚠️ CSV 州省原为空，已补 MN（Wayzata）；2023 年成立，HV/MV 专营；含 Director of Procurement,packpower.com
+20,A 电气承包商/工程公司,National Conductor Inc.,National Conductor,美国,MN,A 电气承包商/工程公司 · 高压变电站施工（Brainerd MN；1977 成立；家族二代）,全国性高压建设：变电站/开关站 ⚠️ CSV 州省原为空，已补 MN（Brainerd）；1977 年成立；变电站 12.5-500kV；官网自述 We supply all required equipment,nationalconductor.com
+21,A 电气承包商/工程公司,McCaine Electric Ltd.,McCaine Electric,加拿大,MB,A 电气承包商/工程公司（Winnipeg MB；1918 创立；2011 并入 Canem Systems 集团）,Winnipeg 工业/商业电气安装维护，1918 年成立，老牌承包商 ⚠️ 2011 年被 Canem 集团（10 办公室/900+ 员工）收购 —— 集团采购绑定风险,mccaine.com
+22,A 电气承包商/工程公司,T&N Electrical Contracting Ltd.,T&N Electrical,加拿大,BC,承包商,BC/AB 变电站建设+变压器安装（setting/assembly/connection）+HV/MV 电缆；官网明列 Dunsmuir/Nicola 变电站,tnelectrical.ca
+23,A 电气承包商/工程公司,Martech Electrical Systems Ltd.,Martech Electrical,加拿大,AB,承包商/分销,"西加拿大头部变电站承包商；官网明列 padmount/substation/grounding 变压器「design, supply, installation」——既是安装方也是采购方",martechelectrical.com
+24,A 电气承包商/工程公司,Western Technical Installations Ltd.,Western Technical,加拿大,BC,承包商,工业/商业电气+机械承包，专长变电站建设与高中压电缆终端；项目含 Tisdall/Valemount/Walters 变电站,westerntechnical.ca
+25,A 电气承包商/工程公司,Trotter & Morton Group of Companies,Trotter & Morton,加拿大,AB,机电总承包,1927 年成立的西部加拿大机电总承包集团，含 Building Technologies（电气/数据/安防）与 Industrial Contracting（工业电气）——加拿大 Best Managed 白金奖,trotterandmorton.com
+26,B 分销商/贸易商,Pritchard Power Systems,Pritchard Power,加拿大,MB,分销商,发电机/ATS/开关柜分销（Rehlko 即原 Kohler 代理），1923 年起,pritchard.ca
+27,⛔ 排除 · 制造商（同业）,ETAC Service & Supply Inc.,ETAC,加拿大,MB,制造商（自有品牌/自有规格+cULus+CSA SPE-1000；Substation 300kVA-20MVA）,"⛔ 排除：官网产品页自述 ""ETAC manufactures Substation Transformer""；一手交付 15MVA 级电力变压器。与 E541626/E541627 同赛道竞争。详见 ⛔排除138 记录",etac.ca
+28,B 分销商/贸易商,Linestar Utility Supply Inc.,Linestar,加拿大,MB,分销商,公用事业线路器材供应,linestar.ca
+29,B 分销商/贸易商,Noramco,Noramco,加拿大,MB,分销商,电气分销（加拿大连锁）,noramco.ca
+30,B 分销商/贸易商,JRS Industrial & Power Solutions,JRS Industrial,加拿大,MB,分销商,工业与电力解决方案,jrs.ca
+31,B 分销商/贸易商,Jebco Agencies Inc.,Jebco Agencies,加拿大,SK,分销商,Saskatoon SK 电气代理,jebcoagencies.com
+32,B 分销商/贸易商,Beaver Electrical Machinery,Beaver Electrical,加拿大,AB,分销商/服务,工业电机+变压器销售/维修/重绕,beaverelectrical.com
+33,B 分销商/贸易商,EWEL Electrical Wholesale,EWEL,加拿大,AB,分销商,配电设备分销，Alberta,ewel.ca
+34,B 分销商/贸易商,Pro Energy,Pro Energy,加拿大,AB,分销商,电气分销，Alberta,proenergy.ca
+35,B 分销商/贸易商,Prairie Central Line Supply Ltd.,Prairie Central Line,加拿大,MB,分销商,线路器材供应,pclsupply.ca
+36,B 分销商/贸易商,Source Supply,Source Supply,加拿大,MB,分销商,电气产品供应,source-supply.com
+37,B 分销商/贸易商,RS Breakers & Controls,RS Breakers,加拿大,ON,分销商,断路器+pad-mount 变压器分销,rsbreakers.com
+38,B 分销商/贸易商,AESCO Electrical Sales Ltd.,AESCO,加拿大,NB,分销商/代理,大西洋省份高中压电力变压器+开关柜代理,aesco.ca
+39,B 分销商/贸易商,Distributeck,Distributeck,加拿大,QC,分销商,工业电气元件+设备租赁,distributeck.com
+40,B 分销商/贸易商,Independent Electric Supply,Independent Electric,美国,MA,分销商,独立电气供应,iesbuy.com
+41,B 分销商/贸易商,NorthEast Electrical (NEDCO),NorthEast Electrical,美国,MA,分销商,服务承包商/工业/OEM/公用事业,needco.com
+42,B 分销商/贸易商,Electrical Wholesalers Inc. New England,Electrical Wholesalers NE,美国,MA/RI/NH/CT,分销商,MA/RI/NH/CT 配电设备+变压器,ew-ne.com
+43,B 分销商/贸易商,Rionex Energy,Rionex Energy,美国,TX,分销商,UL-listed padmount + substation 变压器,rionexenergy.com
+44,B 分销商/贸易商,UTB Transformers,UTB Transformers,美国,UT,分销商,"全国变压器经销商，5kVA–10,000kVA",utbtransformers.com
+45,B 分销商/贸易商,Crown Mountain Solutions,Crown Mountain,美国,TX,分销商,高容量变压器+电气设备，主市场北美,crownmtns.com
+46,B 分销商/贸易商,Maddox Transformer,Maddox Transformer,美国,WA,分销商,变压器销售/租赁/服务,maddox.com
+47,B 分销商/贸易商,RIES Utility Supply (RIES Equipment & Utility Distribution),RIES Utility Supply,加拿大,ON,分销商,安大略最大变压器库存商之一：new / re-manufactured / reconditioned 变压器现货，含一年保修与租赁/租购金融方案；官网明列 station style transformers 1MVA-50MVA / 一次电压至 138kV；公用事业线路器材分销。⚠️ 实际控制人 Shane Weatherby（NuVolt Group CEO），集团有变压器制造伙伴 Kodion Energy —— 采购绑定风险,riesequipment.ca
+48,B 分销商/贸易商,Access Electrical Supply Ltd.,Access Electrical,加拿大,MB/ON,分销商,加拿大电气产品供应分销商,accesselectricalsupply.ca

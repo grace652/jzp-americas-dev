@@ -1,0 +1,83 @@
+# 开发信 — CT Sales Ltd. · 买家 360
+
+> 名单来源：batch9 名单（ctsales.ca，加拿大 NS Dartmouth / 大西洋四省）· B 类（电力系统设备制造商代表 / 分销商）
+> 交接单：`交接单/batch9_new_324plus/买家360_CT_Sales_开发信交接单.md`
+> 骨架：**A（通用首触 —— 产品页 pad-mount / pole-mount 变压器 + 制造商代表身份）**
+> 收件人：**Keith Ledwell, CET · President** ｜ `kledwell@ctsales.ca`（A 档 · 官网一手 mailto + SMTP 实测命中 + 官网职务明文）
+> 发信资格：✅ 通过 ｜ 邮箱档位：**A（主送）**
+> 拟发送时段：NS = **AT（大西洋时区）**｜当地工作日 09:00–10:00 = **北京 20:00–21:00（夏令时）**
+
+> 🔴 **本封特殊说明（必读）**：**本组最对口之一** —— 官网 Distribution Solutions 产品页**明确列出
+> "Distribution Pad Mount Transformers" 与 "Distribution Pole Mount Transformers"**，
+> 产品线覆盖 Substation / Transmission / Distribution 全链条含 Power Transformers，
+> 与我方 **E541627（45–5,000 kVA）/ E541626（750–110,000 kVA）** 高度重合。
+> ⚠️ 其身份为 **manufacturers' representative（制造商代表）** → 官网未列其代理的变压器品牌 →
+> **首轮须问其现有变压器代理线**（判是否竞争）；钩子走"**现代理线之外还有没有位子**"（只探缺口）。
+> ⚠️ **柱上变（pole-mount）不可称 certified** —— 正文产品落点只收 **E541627 / E541626** 两条正式 CoC。
+
+---
+
+## 一、主题行（3 选 1）
+
+1. `Transformer supply for Atlantic Canada projects`
+2. `Room for a second transformer source`
+3. `Pad-mount and power transformer supply`
+
+> 选型说明：
+> - 主题行 1 落在其**区域覆盖**（大西洋四省）+ 变压器品类；主题行 2 落在**"补线"缺口**钩子。
+> - 三条均 **3–6 词**、无全大写、无感叹号、无 spam 词。
+> - **未出现**容量、电压、价格、交期数字，**未出现**其代理品牌名。
+
+---
+
+## 二、正文（122 词）
+
+```
+Hi Keith,
+
+Your range runs from substation and transmission solutions down through
+distribution, including both pad-mount and pole-mount transformers — the full
+path where transformers get specified. As a manufacturers' representative, a
+range like that grows by adding a line.
+
+We're JZPE Power Transformer, a manufacturer in Suzhou, China. Our three-phase
+liquid-immersed line is UL listed — E541627 for distribution and pad-mount,
+45–5,000 kVA; E541626 for power transformers, 750–110,000 kVA — and built to
+CSA/IEEE standards.
+
+Is there room for a second transformer source alongside the lines you represent
+now? Reply "SPECS" and I'll send spec sheets, UL certificates and factory test
+reports for the ranges you cover.
+
+If this isn't useful, reply "stop" and I won't write again.
+
+Best regards,
+
+Ian Chou
+```
+
+---
+
+## 三、中文注解（8 项）
+
+- **收件人**：**Keith Ledwell, CET · President**（`kledwell@ctsales.ca`）
+1. **发信资格**：✅ **通过** —— 域名 `ctsales.ca` MX = M365（非 NXDOMAIN、非双域）；官网现行（2026 抓取）+ LinkedIn 现职；收件人不在「不再联系名单」。
+2. **邮箱档位**：**A（具名决策人邮箱，已验证，可主送）** —— 满足 H3/H5（官网 Contact 页一手 mailto + SMTP 实测 250 控制地址协议全通过 + 官网职务明文 "President"）。⚠️ 首轮 `kledwell@` 曾瞬时 550、复测转 250（M365 瞬时限流）→ **首封密切盯退信**；若退信改走 `sales@ctsales.ca` 点名转交 Keith Ledwell。
+3. **骨架**：**A（通用首触）** —— 接触路径源自官网 home / about-us / contact-us / product-category 产品页 + LinkedIn。
+4. **钩子**：**「现代理线之外补位」类** —— 落点事实（官网，一手源）：① Distribution Solutions 产品页明列 **pad-mount 与 pole-mount 变压器**；② 产品线覆盖 **Substation / Transmission / Distribution + Power Transformers**，客户为**公用/可再生/工业项目**；③ 身份为 **manufacturers' representative** → **持续扩充代理品牌组合是核心业务**。逻辑链：**品类全链条对口 + rep 靠加线扩组合** → 落点收在**"现代理线之外有没有位子"**（只探缺口，不贬其现有品牌）。⚠️ **未点名其现有品牌**、**未与对方现有品牌对比**。
+5. **刻意未用的内容**：
+   - ⛔ **"more than 100 years"** —— 官网原文指**团队经验合计**、**非公司年龄**，交接单明确警示 → **不写年份**（亦守硬红线 8）。
+   - ⛔ **员工数 / 营收 / 规模数字** —— 红线，正文零数字。
+   - ⛔ **单相柱上变（E544629）** —— 仅 ECD 计划函、**不可称 certified**；其 pole-mount 需求虽强，首封**不落此点**（只在其品类描述中出现，不作我方产品承诺）。
+   - ⛔ **干变** —— 加拿大虽可谈但官网未突出、且须人工确认 → 首封不落此项。
+   - ⛔ **具体 kV / kVA / 品牌 / 是否已固定中国供应商** —— 交接单「信息缺口清单」字段，**连模糊表述都不写**；正文只以**提问**落点。
+   - ⛔ **街道地址** —— 未获取确切街道（CSV 记 Dartmouth、官网地图指向 Halifax 同都会区）→ **不碰地址**。
+   - ⛔ **交期 / 价格 / 附件 / 链接** —— 红线。
+6. **待确认 / 存疑**：
+   - ⚠️ **其代理的变压器品牌清单未获取**（交接单标"关键 —— 决定是否与我方竞争"）→ 正文**只提问、不预设**；若其已代理同业品牌，可能构成竞争（但 rep 通常代理互补线，不构成排除）。
+   - ⚠️ **`kledwell@` 系 SMTP 实测命中**（复测 250，非证书式确证）→ 已按"官网一手 + 实测 + 官网职务"三重口径处理，**不谎称已验证到人**。
+   - ⚠️ **Keith Ledwell 任职时长未获取** → 正文不指称任职年限。
+   - ⚠️ **决策人可能驻 NL**（President 电话为 709 区号纽芬兰）→ 正文**不碰城市/地址**，只以区域（Atlantic Canada）指向。
+   - ⚠️ **Katherine / Curtis / Scott / Matt 四名销售** 邮箱虽实测 250，但**非决策岗、不作主送**（一家只发 1 人）。
+7. **发送时段**：**北京 20:00–21:00**（= NS 大西洋时间当地 09:00–10:00，夏令时 ADT）。换算依据：AT 夏令 UTC−3，北京 UTC+8，9:00 → 12:00 UTC → 20:00 北京。🔴 **冬令时起（2026-11-01）改为 21:00–22:00**。
+8. **避开发送日**：**周六 / 周日**（加拿大周末）；建议**周二–周四**投递。⚠️ 送达：MX = M365，**用正规 ESP 投递**，首封注意退信监控。

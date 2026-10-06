@@ -1,0 +1,73 @@
+# 开发信 — Surplus Electrical Equipment（买家 401）
+
+> 名单来源：batch10 名单（surplusee.com，加拿大 ON Concord / Vaughan）· B 类（盈余/二手电气设备买卖 + 回收再售）
+> 交接单：`交接单/batch10_new_374plus/买家401_Surplus_EE_开发信交接单.md`
+> 骨架：**A（通用首触 —— 官网明列 Transformers 品类 + Plant Decommissioning 回收业务）**
+> 收件人：**Ben Lovegrove · Owner** ｜ `ben@surplusee.com`（A 档 · 官网 Contact 页一手明文 + About 页署名 + LinkedIn 现职 Owner）
+> 发信资格：✅ 通过 ｜ 邮箱档位：**A（主送）**
+> 拟发送时段：ON = **东部时区（ET）**｜当地工作日 09:00–10:00 = **北京 21:00–22:00（夏令时）**
+
+---
+
+## 一、主题行（3 选 1）
+
+1. `New transformers alongside your used stock`
+2. `A replacement source for your transformer stock`
+3. `New units alongside your used inventory`
+
+> 选型说明：三条均 **3–6 词**、无全大写、无感叹号、无 spam 词；**未出现**容量、电压、价格、交期数字。
+
+---
+
+## 二、正文（103 词）
+
+```
+Hi Ben,
+
+Your inventory runs across transformers, generators, switchgear and
+panels, and plant decommissioning keeps feeding more through the door.
+Stock that moves that fast needs a replacement source, not just what comes
+in used.
+
+We're JZPE Power Transformer, a manufacturer in Suzhou, China. Our
+three-phase liquid-immersed line is UL listed — E541627 for distribution
+and pad-mount, 45–5,000 kVA; E541626 for power transformers,
+750–110,000 kVA — and built to CSA/IEEE/IEC standards.
+
+Which kVA ranges do you move most often? Reply "SPECS" and I'll send the
+matching spec sheets, UL certificates and factory test reports.
+
+If this isn't useful, reply "stop" and I won't write again.
+
+Best regards,
+
+Ian Chou
+```
+
+---
+
+## 三、中文注解（8 项）
+
+- **收件人**：**Ben Lovegrove · Owner**（`ben@surplusee.com`）
+1. **发信资格**：✅ **通过** —— 域名 `surplusee.com` 有 MX（MailChannels，非 NXDOMAIN）；官网 Contact 页一手明文具名邮箱 + About 页署名 + LinkedIn 现职 Owner；收件人不在「不再联系名单」。
+2. **邮箱档位**：**A（具名决策人邮箱，可主送）** —— `ben@surplusee.com`（Ben Lovegrove，Owner）。✅ 官网一手明文 + 域名一致 + 人在司现职，三重满足；SMTP 未复核但本单**不依赖 SMTP**。
+3. **骨架**：**A（通用首触）** —— 接触路径源自官网（Contact/About/Services 页）+ LinkedIn。
+4. **钩子**：**「买入/收储职能」类** —— 落点事实（官网一手）：① 官网明列品类含 **Transformers、Generators、Breakers、Switchgear、Panels**；② 服务含 **Plant Decommissioning（电厂拆除回收）**；③ *"inventory changes daily"*、25,000 sq ft 仓库 → **高周转、持续补库**。逻辑链：**买进卖出 + 整厂回收 = 变压器持续流入/流出** → 除旧件外还需**稳定的新件来源** → 制造商直供正对位 → 落点收在**资料**。⚠️ **未断言对方缺货**；**未说「你不制造」**。
+5. **刻意未用的内容**：
+   - ⛔ **成立年份 1994** —— 红线「成立年份不引用具体数字」，**正文不提**。
+   - ⛔ **员工数 / 营收**（RocketReach 估算 ≈4 人 / $5M）—— 红线，不引用任何数字。
+   - ⛔ **创始人 Brian Magowan 已故（2003）** —— 敏感项，**绝不出现在正文**。
+   - ⛔ **25,000 sq ft 具体面积** —— 属规模数字，改为「库存品类」叙事，不引具体数值。
+   - ⛔ **单相柱上变（E544629）** —— 仅 ECD 计划函、**不可称 certified** → 首封不提。
+   - ⛔ **干变** —— 加拿大可谈但须人工确认，官网未突出 → 首封不提。
+   - ⛔ **具体 kV / kVA / 认证要求 / 是否已固定中国或海外供应商** —— 「信息缺口清单」字段，**一字不写**；正文只以**提问**落点。
+   - ⛔ **地址/城市口径**（70 vs 50 Snidercroft；Concord vs Vaughan）—— 首封不碰地址。
+   - ⛔ **交期 / 价格 / 附件 / 链接** —— 红线。
+6. **待确认 / 存疑**：
+   - ⚠️ **规模/营收未核实** → 正文不引用数字。
+   - ⚠️ **SMTP 未复核**（本环境不可用）→ 本单以官网一手明文为准，**不谎称已验证到人**。
+   - ⚠️ **采购的具体 kV/kVA/认证要求、是否已固定中国/海外供应商** —— 均未获取，正文只作提问。
+   - ⚠️ **公司法人全称是否含 "Inc."**、**Ben Lovegrove 精确职务全称（Owner / President）** 未确认 → 正文只用 `Owner` 语义，不写全称。
+   - ⚠️ **Shopify 电商站** → 已确认未混入模板作者邮箱。
+7. **发送时段**：**北京 21:00–22:00**（= ON 东部时间当地 09:00–10:00，夏令时 EDT）。换算依据：ET 夏令 UTC−4，北京 UTC+8，09:00 → 13:00 UTC → 21:00 北京。🔴 **冬令时起（2026-11-01）改为 22:00–23:00**。
+8. **避开发送日**：**周六 / 周日**（加拿大周末）；建议**周二–周四**投递。⚠️ 送达：MX = MailChannels（非 M365/Google），**投递风险较低**，仍建议首封监控退信；并行电话 905-660-1475。

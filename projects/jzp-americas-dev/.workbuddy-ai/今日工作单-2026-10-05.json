@@ -1,0 +1,223 @@
+[
+  {
+    "num": 64,
+    "name": "Everlast Electric",
+    "region": "加拿大 · 新斯科舍省 Halifax",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "mike@everlastelectric.ca",
+    "emails": [
+      "mike@everlastelectric.ca"
+    ],
+    "tz": "AT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-29",
+    "last_subject": "Re: Small transformers for 600V service work?",
+    "re_subject": "Re: Small transformers for 600V service work?"
+  },
+  {
+    "num": 65,
+    "name": "Priester-Mell & Nicholson Inc.",
+    "region": "美国 · 德州 Austin",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "sales@pmn-inc.com",
+    "emails": [
+      "sales@pmn-inc.com"
+    ],
+    "tz": "CT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-29",
+    "last_subject": "Re: Second transformer source for Austin Energy supply",
+    "re_subject": "Re: Second transformer source for Austin Energy supply"
+  },
+  {
+    "num": 67,
+    "name": "Tryggr Technical Services Inc.",
+    "region": "加拿大 · 阿省 Edmonton",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "greg@tryggrtech.ca",
+    "emails": [
+      "greg@tryggrtech.ca"
+    ],
+    "tz": "MT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-28",
+    "last_subject": "Re: 69–500kV installation transformers — UL + oil support",
+    "re_subject": "Re: 69–500kV installation transformers — UL + oil support"
+  },
+  {
+    "num": 68,
+    "name": "Amps Powerline Inc.",
+    "region": "加拿大 · 曼省 Winnipeg",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "rnault@ampspowerline.ca",
+    "emails": [
+      "rnault@ampspowerline.ca"
+    ],
+    "tz": "?",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-29",
+    "last_subject": "Re: Substation transformers — 6–14 hour outage supply",
+    "re_subject": "Re: Substation transformers — 6–14 hour outage supply"
+  },
+  {
+    "num": 69,
+    "name": "Fullford Electric Inc.",
+    "region": "美国 · 阿拉斯加州 Fairbanks",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "FEI@fullfordelectric.com",
+    "emails": [
+      "fei@fullfordelectric.com"
+    ],
+    "tz": "PT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-29",
+    "last_subject": "Re: Substation transformers for LRDR-type remote sites",
+    "re_subject": "Re: Substation transformers for LRDR-type remote sites"
+  },
+  {
+    "num": 70,
+    "name": "Arkansas Electric Cooperatives (AECC+AECI)",
+    "region": "美国 · 阿肯色州 Little Rock",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "communications@aecc.com",
+    "emails": [
+      "communications@aecc.com"
+    ],
+    "tz": "?",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-29",
+    "last_subject": "Re: Power transformers for grid build-out — UL, spec-ready",
+    "re_subject": "Re: Power transformers for grid build-out — UL, spec-ready"
+  },
+  {
+    "num": 71,
+    "name": "United Utility Supply Cooperative",
+    "region": "美国 · 肯塔基州 Louisville",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "etalley@uus.coop",
+    "emails": [
+      "etalley@uus.coop"
+    ],
+    "tz": "?",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-29",
+    "last_subject": "Re: Substation transformers — outside exclusive lines?",
+    "re_subject": "Re: Substation transformers — outside exclusive lines?"
+  },
+  {
+    "num": 73,
+    "name": "Western United Electric Supply Corp.",
+    "region": "美国 · 科罗拉多州 Brighton",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "customerservice@wue.coop",
+    "emails": [
+      "customerservice@wue.coop"
+    ],
+    "tz": "MT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-28",
+    "last_subject": "Re: Substation transformers — W.E.S.T. packaging supply",
+    "re_subject": "Re: Substation transformers — W.E.S.T. packaging supply"
+  },
+  {
+    "num": 74,
+    "name": "CEEUS, Inc.",
+    "region": "美国 · 南卡 West Columbia",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "tkyzer@ceeus.com",
+    "emails": [
+      "tkyzer@ceeus.com"
+    ],
+    "tz": "?",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-29",
+    "last_subject": "Re: One more approved transformer option — UL + DOE 2024",
+    "re_subject": "Re: One more approved transformer option — UL + DOE 2024"
+  },
+  {
+    "num": 75,
+    "name": "General Pacific, Inc.",
+    "region": "美国 · 俄勒冈州 Fairview",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "contractorsales@generalpacific.com",
+    "emails": [
+      "contractorsales@generalpacific.com"
+    ],
+    "tz": "PT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-29",
+    "last_subject": "Re: Transformer supply outside current brands?",
+    "re_subject": "Re: Transformer supply outside current brands?"
+  },
+  {
+    "num": 76,
+    "name": "GNS Technologies LLC",
+    "region": "美国 · 内华达州 Las Vegas",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "robertg@gns-technologies.com",
+    "emails": [
+      "robertg@gns-technologies.com"
+    ],
+    "tz": "PT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-29",
+    "last_subject": "Re: UL padmount and substation transformers",
+    "re_subject": "Re: UL padmount and substation transformers"
+  },
+  {
+    "num": 77,
+    "name": "RESA Power Components Group (RESA Power, LLC)",
+    "region": "美国 · TN Lebanon + CA San Jose",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "sales@resapower.com",
+    "emails": [
+      "sales@resapower.com"
+    ],
+    "tz": "CT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-29",
+    "last_subject": "Re: Padmount gap ratings for Components East-West",
+    "re_subject": "Re: Padmount gap ratings for Components East-West"
+  },
+  {
+    "num": 78,
+    "name": "TM3 Inc. (Trade-Mark Group)",
+    "region": "加拿大 · ON Cambridge",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "tmcswain@tm3inc.com",
+    "emails": [
+      "tmcswain@tm3inc.com"
+    ],
+    "tz": "ET",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-29",
+    "last_subject": "Re: Substation transformers for 5-230kV work",
+    "re_subject": "Re: Substation transformers for 5-230kV work"
+  }
+]

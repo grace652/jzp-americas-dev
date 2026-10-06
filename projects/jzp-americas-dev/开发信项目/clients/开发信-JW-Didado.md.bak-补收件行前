@@ -1,0 +1,76 @@
+# 开发信 — J.W. Didado Electric, LLC（买家 345）
+
+> 名单来源：batch9 名单（jwdidado.com，OH Akron）· A 类（全方位电气承包商，含 Substation / T&D）
+> 交接单：`交接单/batch9_new_324plus/买家345_JW_Didado_开发信交接单.md`
+> 骨架：**A（通用首触 —— 官网单设 Substation 与 Transmission & Distribution 独立业务线 + 资产管理计划）**
+> 收件人：**Maria Didado Jacobozzi · Vice President（创始家族）** ｜ `maria@jwdidado.com`（A 档 · 政府登记一手源 + SMTP 实测 250）
+> 发信资格：✅ 通过 ｜ 邮箱档位：**A（主送）**
+> 拟发送时段：OH = **东部时区（ET）**｜当地工作日 09:00–10:00 = **北京 21:00–22:00（夏令时）**
+> 🔴 **集团提示**：**J.W. Didado 2013 年加入 Quanta Services 集团**。⚠️ 同属 Quanta Services，本批共 4 家，建议只发 1–2 家（待用户裁决）。
+
+---
+
+## 一、主题行（3 选 1）
+
+1. `Distribution transformers for your asset program`
+2. `Liquid-immersed transformers, UL listed`
+3. `A second source for T&D and substation`
+
+> 选型说明：三条均 **3–6 词**、无全大写、无 spam 词；**未出现**容量、电压、价格、交期数字。
+> 主题 1 命中其"资产管理计划"这一独有特征，与其他三家明确区隔。
+
+---
+
+## 二、正文（126 词）
+
+```
+Hi Maria,
+
+J.W. Didado runs substation and transmission & distribution as separate
+business lines, and your asset management program keeps those systems in
+service year after year. Programs like that depend on replacement units
+being ready when the schedule calls for them.
+
+We're JZPE Power Transformer, a manufacturer in Suzhou, China. Our
+three-phase liquid-immersed line is UL listed — E541627 for distribution
+and pad-mount, 45–5,000 kVA; E541626 for power transformers,
+750–110,000 kVA — and built to IEEE C57.12.
+
+For the utility and industrial work you cover, which kVA and kV ranges
+are hardest to source? Reply "SPECS" and I'll send the matching spec
+sheets, UL certificates and factory test reports.
+
+If this isn't relevant, just say so and I won't follow up.
+
+Best regards,
+
+Ian Chou
+```
+
+---
+
+## 三、中文注解（8 项）
+
+1. **发信资格**：✅ **通过** —— 域名 `jwdidado.com` MX = M365（非 NXDOMAIN、非双域）；SMTP 实测 `maria@` = 250（随机 = 550、对照 `john.smith@` = 550；该域无通用 `info@`，不构成网关拦截）；收件人不在「不再联系名单」。
+2. **邮箱档位**：**A（具名决策人邮箱，已验证，可主送）** —— 政府登记库 published email `maria@jwdidado.com`（一手源）+ SMTP 实测 250 + 官网领导页/bio 页 + LinkedIn 现职。⚠️ M365 域有反制史 → 首封密切盯退信；若退信改走官网 contact 表单点名转交 Maria Didado Jacobozzi。
+3. **骨架**：**A（通用首触）** —— 接触路径源自官网 leadership / services 页 + 政府登记 CAGE 091W9。
+4. **钩子**：**「双业务线 + 资产管理计划（持续更换）」类** —— 落点事实（官网一手源）：官网**单设** `Substation` 与 `Transmission & Distribution` 两个独立业务页，并由 **VP of Substation & Infrastructure** 专责；含 **Asset Management Program** → 长期运维 = **持续变压器更换需求** → 落点收在**资料**。⚠️ 未断言其缺货、未宣称其不制造。
+5. **刻意未用的内容**：
+   - ⛔ **成立年份** —— 口径冲突（第三方 1958 vs SAM 记 LLC 主体 2015）→ 不写年份。
+   - ⛔ **员工数（第三方估 129–198 人）/ 营收** —— 红线，正文不引用任何数字。
+   - ⛔ **Maria 的 38 年行业经验** —— 属个人资历数字，不引用。
+   - ⛔ **Quanta Services 集团身份** —— 不主动强调。
+   - ⛔ **单相柱上变（E544629）** —— 仅 ECD 计划函，不可称 certified → 不提。
+   - ⛔ **干变** —— 美国客户不谈干变（无 UL）。
+   - ⛔ **背书** —— 首封默认不用。
+   - ⛔ **交期 / 价格 / 附件 / 链接** —— 红线（"replacement units being ready when the schedule calls for them" 未报任何交期数字）。
+6. **待确认 / 存疑**：
+   - ⚠️ **Quanta 集团层采购政策是否覆盖本子公司** 未获取 → 正文不写"直接下单"类暗示。
+   - ⚠️ **`maria@` 系 SMTP 实测命中**（非证书式确证）→ 不谎称"已验证到人"。
+   - ⚠️ **Maria 在本司任职时长未获取** → 正文不指称年限，仅以业务线开场。
+   - ⚠️ **法人注册州口径冲突**（OH vs DE）→ 正文不涉及。
+   - ⚠️ **具体采购 kV / kVA / 品牌 / 是否已固定中国供应商** —— 交接单「信息缺口清单」字段，**只以提问落点，不写任何数值**。
+7. **发送时段**：**北京 21:00–22:00**（= OH 东部时间当地 09:00–10:00，夏令时 EDT）。换算：ET 夏令 UTC−4，北京 UTC+8，9:00 → 13:00 UTC → 21:00 北京。🔴 **冬令时起（2026-11-01）改为 22:00–23:00**。
+8. **避开发送日**：**周六 / 周日**（美国周末）；建议**周二–周四**投递。⚠️ MX = M365，用正规 ESP 投递，首封注意退信监控。
+
+> ⚠️ **发信前建议动作**：`maria@` 为实测命中、M365 域有反制史 → 首封后**密切监控退信**；并行电话 **(330) 374-0070**。

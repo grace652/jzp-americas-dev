@@ -1,0 +1,39 @@
+队列文件（覆盖）：发信队列-跟进1002.json
+🔒 已加锁 .daemon.lock（PID 9143）
+守候模式启动：待发 31 封
+  最早 2026-10-02 21:46  /  最晚 2026-10-03 00:58（北京时间）
+  （中断后重跑此命令可续发，已发的不会重复）
+
+  ✅ [2026-10-02 21:46:03] 开发信-跟进-McLoughlan-Supplies.md → gwoodman@mcloughlans.ca
+  ✅ [2026-10-02 21:49:06] 开发信-跟进-Source-Atlantic.md → barattod@sourceatlantic.ca
+  ✅ [2026-10-02 21:52:09] 开发信-跟进-第2轮-DECH-High-Voltage.md → office@dechhighvoltage.com
+  ✅ [2026-10-02 21:55:13] 开发信-跟进-第2轮-Rogers-Electrical.md → info@r-ecci.com
+  ✅ [2026-10-02 21:58:15] 开发信-跟进-第2轮-South-Charleston-Electric.md → sales@southcharlestonelectric.com
+  ✅ [2026-10-02 22:01:19] 开发信-跟进-第2轮-GLS-Electric.md → contact@glselectricinc.com
+  ✅ [2026-10-02 22:04:22] 开发信-跟进-第2轮-Rexel-Utility.md → utilitysalescanada@rexel.ca
+  ✅ [2026-10-02 22:07:25] 开发信-跟进-第2轮-GEC.md → info@gecincorporated.com
+  ✅ [2026-10-02 22:10:28] 开发信-跟进-第2轮-Westmoreland.md → bowens@westmorelandelectric.com
+  ✅ [2026-10-02 22:13:31] 开发信-跟进-第2轮-Dana-Power.md → danapowerpoles@gmail.com
+  ✅ [2026-10-02 22:16:34] 开发信-跟进-第2轮-GRIDLINK.md → info@gridlink.ca
+  ✅ [2026-10-02 22:19:38] 开发信-跟进-第2轮-Kirby-Electric.md → rmcmillan@kirbyelectricinc.com
+  ✅ [2026-10-02 22:22:41] 开发信-跟进-RE-Warner-Associates.md → frank.johnson@isginc.com
+  ✅ [2026-10-02 22:25:44] 开发信-跟进-Every-Thing-Construction.md → gwillis@etcinc.net
+  ✅ [2026-10-02 22:28:47] 开发信-跟进-Province-Electric.md → jmole@province-electric.com
+  ✅ [2026-10-02 22:31:51] 开发信-跟进-Groupe-Deschenes.md → planthier@groupedeschenes.com
+  ✅ [2026-10-02 22:34:54] 开发信-跟进-Loeb-Electric.md → austin.sparks@loebelectric.com
+  ✅ [2026-10-02 22:37:57] 开发信-跟进-第2轮-Reeve-Electric.md → info@reeve-electric.com
+  ✅ [2026-10-02 22:41:00] 开发信-跟进-第2轮-VoltCore-Electrical.md → william@voltcoreelectrical.com
+  ✅ [2026-10-02 22:44:05] 开发信-跟进-第2轮-Sunbelt-Solomon.md → info@sunbeltsolomon.com
+  ✅ [2026-10-02 22:47:09] 开发信-跟进-第2轮-Stewart-Electric.md → info@stewartelectricinc.com
+  ✅ [2026-10-02 22:50:11] 开发信-跟进-第2轮-TEC.md → utilitysales@texas-ec.org
+  ✅ [2026-10-02 22:53:16] 开发信-跟进-DynaGrid.md → charlie.ferrara@dynagrid.com
+  ✅ [2026-10-02 22:56:19] 开发信-跟进-Cava-Electric.md → ecavazos@cavaelectric.com
+  ✅ [2026-10-02 22:59:22] 开发信-跟进-Prime-Power-Services.md → lvillarreal@primepower.services
+  ✅ [2026-10-02 23:02:25] 开发信-跟进-Expanse-Electrical.md → john.sutton@expanseelectrical.com
+  ✅ [2026-10-02 23:05:28] 开发信-跟进-Butler-Supply.md → rkunkel@butlersupply.com
+  ✅ [2026-10-03 00:02:03] 开发信-跟进-第2轮-Washington-State-Power.md → donna@wastatepower.com
+  ✅ [2026-10-03 00:21:03] 开发信-跟进-Martech-Electrical.md → mario.dibella@martechelectrical.com
+  ✅ [2026-10-03 00:39:03] 开发信-跟进-TN-Electrical.md → terry.bennett@tnelectrical.ca
+  ✅ [2026-10-03 00:58:03] 开发信-跟进-PFM-Technical-Solutions.md → rajan.gandhi@pfmts.com
+
+守候结束：成功 31 封 / 失败 0 封

@@ -1,0 +1,69 @@
+# 开发信 — T&D Services LLC（买家 393）
+
+> 名单来源：batch10 名单（t-d-services.com，美国 NM Albuquerque）· B 类电力工程/勘测服务商（输配电 + 变电站设计；**规格侧**）
+> 交接单：`交接单/batch10_new_374plus/买家393_TD_Services_开发信交接单.md`
+> 骨架：**A（通用首触 —— CEO 官网署名信 "power delivery firm" + 变电站设计）**
+> 收件人：**Harry R. Barnes Jr. · Managing Member / CEO** ｜ `hbarnesjr@t-d-services.com`（A 档 · 官网本人署名信明文 + 政府 NCAGE 登记两源一致）
+> 发信资格：✅ 通过 ｜ 邮箱档位：**A（主送）**
+> 拟发送时段：NM = **山区时区（MT）**｜当地工作日 09:00–10:00 = **北京 23:00–24:00（夏令时）**
+
+> 🔴 **本封特殊说明（必读）**：T&D Services **主营为工程设计/勘测（规格侧，主要 NAICS 541330）**，**并非电气施工总包** → **可能不是变压器的直接采购方**，而是**规格制定方 / 项目设计方**。
+> → 故本封 **① 不断言「你们采购变压器」；② CTA 直接问其是否参与设备选型**（若纯咨询则降为条件切入）。
+
+---
+
+## 一、主题行（3 选 1）
+
+1. `Transformer specs for your station designs`
+2. `A manufacturer for your substation specs`
+3. `UL listed transformers for utility projects`
+
+> 选型说明：三条均 3–6 词、无全大写、无感叹号、无 spam 词；未出现容量 / 电压 / 价格 / 交期数字。主题行 1 落在其**规格制定方**角色上，不预设其采购。
+
+---
+
+## 二、正文（121 词）
+
+```
+Hi Harry,
+
+I read your note on the T&D Services site — a family-founded, employee-owned power delivery firm, designing substations and switching stations for cooperatives and utilities. In that seat, the transformer spec is usually written long before anyone buys it.
+
+We're JZPE Power Transformer, a manufacturer in Suzhou, China. Our three-phase liquid-immersed line is UL listed — E541627 for distribution and pad-mount, 45–5,000 kVA; E541626 for power transformers, 750–110,000 kVA — and built to IEEE C57.12.
+
+Does your stations engineering group get involved in equipment selection, or does that sit with the owner or EPC? If it's useful, reply "SPECS" and I'll send our spec sheets, UL certificates and factory test reports.
+
+If this isn't useful, reply "stop" and I won't write again.
+
+Best regards,
+
+Ian Chou
+```
+
+---
+
+## 三、中文注解（8 项）
+
+- **收件人**：**Harry R. Barnes Jr. · Managing Member / CEO**（`hbarnesjr@t-d-services.com`）
+1. **发信资格**：✅ **通过** —— 域名 `t-d-services.com` 有 MX（Proofpoint，非 NXDOMAIN、非双域）；收件人不在「不再联系名单」；SAM.gov 现行激活（2026-01-05 → 2026-12-29），POC 仍为 Harry R. Barnes 本人。
+2. **邮箱档位**：**A（具名决策人邮箱，一手源，可主送）** —— `hbarnesjr@t-d-services.com`（Harry R. Barnes Jr., Managing Member/CEO）。依据：① 官网 `/meet-harry-barnes-jr/` 本人署名信末句 *"Contact me today at hbarnesjr@t-d-services.com"*（第一方明文）；② 政府 NCAGE 登记（CAGE 6VGS0）"Published business email" 逐字一致。⚠️ 缺 SMTP 第二源（MX = Proofpoint）→ 首封密切监控退信；并行电话 **(505) 344-4234**。⚠️ 第三方黄页 `h.barnes@` 与官网格式冲突 → **弃用，不采信**。
+3. **骨架**：**A（通用首触）** —— 接触路径源自官网 CEO 署名信页 + Staff 页 + SAM.gov 登记。
+4. **钩子**：**「CEO 署名信 + 规格侧角色」类** —— 落点事实（官网一手源）：`/meet-harry-barnes-jr/` 本人署名长文自述 *"family-founded, employee-owned **power delivery firm** … engineering and surveying solutions to **electric utility industry entities**"*；Staff 页 **Kenneth Adams, PE（Director of Stations Engineering）** 负责变电站设计/施工/调试。逻辑链：**规格侧影响力（设计方）+ 公用事业/合作社客户** → 变压器规格由设计方先定 → 落点收在**资料 + 问其是否参与选型**。⚠️ **未断言其采购**。
+5. **刻意未用的内容**：
+   - ⛔ **员工数（~26）/ 营收（~$3.6M）** —— 仅第三方估算 → 红线，正文不引用。
+   - ⛔ **成立年份（2007）/ "800 年团队经验"** —— 正文不提年份，也不把"800 年"误当公司历史。
+   - ⛔ **设计至 345kV** —— 其工程范围**超出我方 UL 区间（至 121kV）** → 正文不写数字，避免"越 UL 区间表述"。
+   - ⛔ **单相柱上变（E544629）/ SF 系列小主变** —— 仅 ECD 计划函、**不可称 certified** → 不提。
+   - ⛔ **干变** —— 对美国客户完全不谈（无 UL）。
+   - ⛔ **具体 kV / kVA / 品牌 / 是否直接采购 / 是否进口** —— 交接单「信息缺口清单」字段，正文只以提问落点。
+   - ⛔ **交期 / 价格 / 附件 / 链接** —— 红线。
+6. **待确认 / 存疑**：
+   - ⚠️ **定位风险（最重要）**：其主营为**工程设计/勘测（规格侧）**，**可能不是变压器的直接采购方** → 本封以 CTA 直接问「是否参与设备选型」；若纯咨询，则**降为条件切入 / 低优先级**（但仍具推荐/规格影响力）。
+   - ⚠️ **`hbarnesjr@` 缺 SMTP 第二源**（本轮 SMTP 不可用 + Proofpoint）→ 已按「官网一手明文 + 政府登记」口径处理，**不谎称已验证到人**。
+   - ⚠️ **地址口径**：官网 = 8909 Adams St NE；政府登记 = 9550 San Mateo Blvd NE → **正文不写具体街道**。
+   - ⚠️ **CEO 任职起始年未获取**（2007 共同创立，可写 "co-founded in 2007"，本封未用）。
+   - ⚠️ **Kenneth Adams 在职性与邮箱未获取** → 正文不点名此人。
+7. **发送时段**：**北京 23:00–24:00**（= NM 山区时间当地 09:00–10:00，夏令时 MDT）。换算依据：MT 夏令 UTC−6，北京 UTC+8，9:00 → 15:00 UTC → 23:00 北京。🔴 **冬令时起（2026-11-01）改为 00:00–01:00**。
+8. **避开发送日**：**周六 / 周日**（美国周末）；建议**周二–周四**投递。⚠️ 送达：MX = **Proofpoint**（网关严格）→ 用正规 ESP 投递，**首封密切监控退信**。
+
+> ⚠️ **发信前建议先做的动作**：其「采购方 or 仅规格方」定位未定 → 首封发出后**密切监控退信**；并行电话 **(505) 344-4234** 直接确认其是否参与设备选型/EPC。

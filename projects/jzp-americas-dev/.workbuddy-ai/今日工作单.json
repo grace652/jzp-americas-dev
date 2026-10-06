@@ -1,0 +1,565 @@
+[
+  {
+    "num": 21,
+    "name": "C.W. Galle Contracting, Inc.",
+    "region": "美国 · 密西西比州 Ocean Springs",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "cwgallecontracting@gmail.com",
+    "emails": [
+      "cwgallecontracting@gmail.com"
+    ],
+    "tz": "CT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-24",
+    "last_subject": "Re: Buck/boost transformers for 208/240/480V service work",
+    "re_subject": "Re: Buck/boost transformers for 208/240/480V service work"
+  },
+  {
+    "num": 23,
+    "name": "Romar Electrical Services Inc.",
+    "region": "加拿大 · 安省 Hamilton",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "info@romar.ca",
+    "emails": [
+      "info@romar.ca"
+    ],
+    "tz": "ET",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-24",
+    "last_subject": "Re: Transformer upgrade support for substation service work",
+    "re_subject": "Re: Transformer upgrade support for substation service work"
+  },
+  {
+    "num": 24,
+    "name": "Hillfort, LLC",
+    "region": "美国 · TN Memphis（全国+20国）",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "RFQ@hillfort.us",
+    "emails": [
+      "rfq@hillfort.us"
+    ],
+    "tz": "CT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": null,
+    "last_subject": null,
+    "re_subject": ""
+  },
+  {
+    "num": 25,
+    "name": "MVA Power Inc.",
+    "region": "加拿大 · 魁北克 Montreal",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "tender@mvapower.com",
+    "emails": [
+      "tender@mvapower.com"
+    ],
+    "tz": "ET",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-24",
+    "last_subject": "Re: Turnkey transformer supply — padmount + substation, UL + DOE 2024",
+    "re_subject": "Re: Turnkey transformer supply — padmount + substation, UL + DOE 2024"
+  },
+  {
+    "num": 26,
+    "name": "Purcee Industrial Power",
+    "region": "加拿大 · 阿省 Foothills",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "les@purceepower.com",
+    "emails": [
+      "les@purceepower.com"
+    ],
+    "tz": "MT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-24",
+    "last_subject": "Re: Second transformer source for your Canada stock",
+    "re_subject": "Re: Second transformer source for your Canada stock"
+  },
+  {
+    "num": 27,
+    "name": "Tri-State Utility Products, Inc.",
+    "region": "美国 · 佐治亚州 Marietta",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "rbatch@tsup.com",
+    "emails": [
+      "rbatch@tsup.com"
+    ],
+    "tz": "ET",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-24",
+    "last_subject": "Re: Supplier partnership — complementary transformer source",
+    "re_subject": "Re: Supplier partnership — complementary transformer source"
+  },
+  {
+    "num": 28,
+    "name": "Vancouver Industrial Electric Ltd.",
+    "region": "加拿大 · BC Langley",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "info@vie-bc.com",
+    "emails": [
+      "info@vie-bc.com"
+    ],
+    "tz": "PT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-25",
+    "last_subject": "Re: Transformers with factory test reports — for testing and maintenance work",
+    "re_subject": "Re: Transformers with factory test reports — for testing and maintenance work"
+  },
+  {
+    "num": 29,
+    "name": "Amped Electric LLC",
+    "region": "美国 · 西弗吉尼亚州 Parkersburg",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "ampedelectricllc01@gmail.com",
+    "emails": [
+      "ampedelectricllc01@gmail.com"
+    ],
+    "tz": "ET",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-21",
+    "last_subject": "Quick fit check — transformers on your commercial work?",
+    "re_subject": "Re: Quick fit check — transformers on your commercial work?"
+  },
+  {
+    "num": 30,
+    "name": "Brownstown Electric Supply Co., Inc.",
+    "region": "美国 · 印第安纳州 Brownstown",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "ggoshorn@brownstown.com",
+    "emails": [
+      "ggoshorn@brownstown.com"
+    ],
+    "tz": "ET",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-24",
+    "last_subject": "Re: Second transformer source for your utility stock — Gregg",
+    "re_subject": "Re: Second transformer source for your utility stock — Gregg"
+  },
+  {
+    "num": 31,
+    "name": "Power Line Supply Company",
+    "region": "美国 · 密歇根州 Reed City",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "information@uscco.com",
+    "emails": [
+      "information@uscco.com"
+    ],
+    "tz": "ET",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": null,
+    "last_subject": null,
+    "re_subject": ""
+  },
+  {
+    "num": 32,
+    "name": "Irby Utilities (Stuart C. Irby Co.)",
+    "region": "美国 · 密西西比州 Jackson",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "irbyonline@irby.com",
+    "emails": [
+      "irbyonline@irby.com"
+    ],
+    "tz": "CT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-24",
+    "last_subject": "Re: Second transformer source for national utility stock",
+    "re_subject": "Re: Second transformer source for national utility stock"
+  },
+  {
+    "num": 45,
+    "name": "R.A. Electrical High Voltage Ltd.",
+    "region": "加拿大 · 安省 Cookstown",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "info@raelectrical.ca",
+    "emails": [
+      "info@raelectrical.ca"
+    ],
+    "tz": "ET",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-24",
+    "last_subject": "Re: Substation transformers — installation and test support",
+    "re_subject": "Re: Substation transformers — installation and test support"
+  },
+  {
+    "num": 46,
+    "name": "Ross Morrison Electrical Ltd.",
+    "region": "加拿大 · BC Burnaby",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "rme@rmelectric.com",
+    "emails": [
+      "rme@rmelectric.com"
+    ],
+    "tz": "PT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-25",
+    "last_subject": "Re: 69kV substation transformers — UL, test reports included",
+    "re_subject": "Re: 69kV substation transformers — UL, test reports included"
+  },
+  {
+    "num": 48,
+    "name": "Fletcher-Reinhardt Company",
+    "region": "美国 · 密苏里州",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "sales@fr-electric.com",
+    "emails": [
+      "sales@fr-electric.com"
+    ],
+    "tz": "CT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-24",
+    "last_subject": "Re: Approved vendor enquiry — transformers + repair units",
+    "re_subject": "Re: Approved vendor enquiry — transformers + repair units"
+  },
+  {
+    "num": 49,
+    "name": "KBS Electrical Distributors Inc.",
+    "region": "美国 · 德州 Bryan",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "info@kbselectric.com",
+    "emails": [
+      "info@kbselectric.com"
+    ],
+    "tz": "CT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-24",
+    "last_subject": "Re: Second transformer source for ten-warehouse utility stock",
+    "re_subject": "Re: Second transformer source for ten-warehouse utility stock"
+  },
+  {
+    "num": 50,
+    "name": "K2 Electric Ltd.",
+    "region": "加拿大 · BC Prince George",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "info@k2electric.com",
+    "emails": [
+      "info@k2electric.com"
+    ],
+    "tz": "PT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-25",
+    "last_subject": "Re: Substation transformers for BC Hydro work — test reports included",
+    "re_subject": "Re: Substation transformers for BC Hydro work — test reports included"
+  },
+  {
+    "num": 51,
+    "name": "Valley Electrical Suppliers, Inc.",
+    "region": "美国 · 加州 Visalia",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "customerservice@vesuppliers.com",
+    "emails": [
+      "customerservice@vesuppliers.com"
+    ],
+    "tz": "PT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-25",
+    "last_subject": "Re: Approved vendor enquiry — distribution transformers, UL",
+    "re_subject": "Re: Approved vendor enquiry — distribution transformers, UL"
+  },
+  {
+    "num": 52,
+    "name": "Border States Electric",
+    "region": "美国 · 北达科他州 Fargo",
+    "status": "已发送",
+    "cnt": 1,
+    "raw": "pnovak@borderstates.com",
+    "emails": [
+      "pnovak@borderstates.com"
+    ],
+    "tz": "CT",
+    "tier": "A",
+    "round": "第 2 次（D0+8）",
+    "last_send": "2026-09-24",
+    "last_subject": "Re: Direct-supplier enquiry — utility transformers, UL",
+    "re_subject": "Re: Direct-supplier enquiry — utility transformers, UL"
+  },
+  {
+    "num": 153,
+    "name": "Montgomery Industrial Services Limited",
+    "region": "加拿大 · ON",
+    "status": "已发送",
+    "cnt": 0,
+    "raw": "pmontgomery@montgomeryindustrial.com",
+    "emails": [
+      "pmontgomery@montgomeryindustrial.com"
+    ],
+    "tz": "ET",
+    "tier": "A",
+    "round": "第 1 次（D0+3）",
+    "last_send": "2026-09-28",
+    "last_subject": "Transformer supply for your HV installations",
+    "re_subject": "Re: Transformer supply for your HV installations"
+  },
+  {
+    "num": 154,
+    "name": "K.P.C. Power Electrical Ltd.",
+    "region": "加拿大 · ON",
+    "status": "已发送",
+    "cnt": 0,
+    "raw": "akif@kpcpower.com",
+    "emails": [
+      "akif@kpcpower.com"
+    ],
+    "tz": "ET",
+    "tier": "A",
+    "round": "第 1 次（D0+3）",
+    "last_send": "2026-09-28",
+    "last_subject": "Transformer supply for your substation builds",
+    "re_subject": "Re: Transformer supply for your substation builds"
+  },
+  {
+    "num": 155,
+    "name": "ABCO Supply & Service Ltd.",
+    "region": "加拿大 · MB",
+    "status": "已发送",
+    "cnt": 0,
+    "raw": "brian.cabral@abcosupply.com",
+    "emails": [
+      "brian.cabral@abcosupply.com"
+    ],
+    "tz": "CT",
+    "tier": "A",
+    "round": "第 1 次（D0+3）",
+    "last_send": "2026-09-28",
+    "last_subject": "Transformer supply — Winnipeg",
+    "re_subject": "Re: Transformer supply — Winnipeg"
+  },
+  {
+    "num": 156,
+    "name": "RIES Equipment & Utility Distribution",
+    "region": "加拿大 · ON",
+    "status": "已发送",
+    "cnt": 0,
+    "raw": "shane@riesequipment.ca",
+    "emails": [
+      "shane@riesequipment.ca"
+    ],
+    "tz": "ET",
+    "tier": "A",
+    "round": "第 1 次（D0+3）",
+    "last_send": "2026-09-28",
+    "last_subject": "Transformer supply — Ontario lead times",
+    "re_subject": "Re: Transformer supply — Ontario lead times"
+  },
+  {
+    "num": 159,
+    "name": "Alliance Engineering & Construction Ltd.",
+    "region": "加拿大 · ON",
+    "status": "已发送",
+    "cnt": 0,
+    "raw": "peter@allianceengineering.ca",
+    "emails": [
+      "peter@allianceengineering.ca"
+    ],
+    "tz": "ET",
+    "tier": "A",
+    "round": "第 1 次（D0+3）",
+    "last_send": "2026-09-28",
+    "last_subject": "Transformer supply — Ottawa projects",
+    "re_subject": "Re: Transformer supply — Ottawa projects"
+  },
+  {
+    "num": 160,
+    "name": "Ardoch Electric Inc.",
+    "region": "加拿大 · ON",
+    "status": "已发送",
+    "cnt": 0,
+    "raw": "sross@ardoch.ca",
+    "emails": [
+      "sross@ardoch.ca"
+    ],
+    "tz": "ET",
+    "tier": "A",
+    "round": "第 1 次（D0+3）",
+    "last_send": "2026-09-28",
+    "last_subject": "Transformer supply — Ottawa area",
+    "re_subject": "Re: Transformer supply — Ottawa area"
+  },
+  {
+    "num": 161,
+    "name": "Bradmoore Electric Co. Ltd.",
+    "region": "加拿大 · ON",
+    "status": "已发送",
+    "cnt": 0,
+    "raw": "bradmoore@live.ca",
+    "emails": [
+      "bradmoore@live.ca"
+    ],
+    "tz": "ET",
+    "tier": "A",
+    "round": "第 1 次（D0+3）",
+    "last_send": "2026-09-28",
+    "last_subject": "Transformer supply — Ottawa",
+    "re_subject": "Re: Transformer supply — Ottawa"
+  },
+  {
+    "num": 165,
+    "name": "Nor-Tec Group Ltd.",
+    "region": "加拿大 · MB",
+    "status": "已发送",
+    "cnt": 0,
+    "raw": "mzajac@nortecgroup.com（✅ 已验证）／ sshack@nortecgroup.com（⚠️ 官网明文，未 SMTP 实测）",
+    "emails": [
+      "mzajac@nortecgroup.com",
+      "sshack@nortecgroup.com"
+    ],
+    "tz": "CT",
+    "tier": "A",
+    "round": "第 1 次（D0+3）",
+    "last_send": "2026-09-28",
+    "last_subject": "Transformer supply — Winnipeg",
+    "re_subject": "Re: Transformer supply — Winnipeg"
+  },
+  {
+    "num": 166,
+    "name": "Shermco Industries, Inc.",
+    "region": "美国 · TX",
+    "status": "已发送",
+    "cnt": 0,
+    "raw": "phil.petrocelli@shermco.com",
+    "emails": [
+      "phil.petrocelli@shermco.com"
+    ],
+    "tz": "CT",
+    "tier": "A",
+    "round": "第 1 次（D0+3）",
+    "last_send": "2026-09-28",
+    "last_subject": "Transformer supply — testing and repair work",
+    "re_subject": "Re: Transformer supply — testing and repair work"
+  },
+  {
+    "num": 172,
+    "name": "Trotter & Morton Group of Companies",
+    "region": "加拿大 · AB",
+    "status": "已发送",
+    "cnt": 0,
+    "raw": "dryan@tmlgroup.com ／ cmaclellan@tmlgroup.com",
+    "emails": [
+      "dryan@tmlgroup.com",
+      "cmaclellan@tmlgroup.com"
+    ],
+    "tz": "MT",
+    "tier": "A",
+    "round": "第 1 次（D0+3）",
+    "last_send": "2026-09-28",
+    "last_subject": "Transformer supply — Calgary industrial work",
+    "re_subject": "Re: Transformer supply — Calgary industrial work"
+  },
+  {
+    "num": 176,
+    "name": "JRS Industrial & Power Solutions",
+    "region": "加拿大 · MB",
+    "status": "已发送",
+    "cnt": 0,
+    "raw": "bretr@jrs.ca",
+    "emails": [
+      "bretr@jrs.ca"
+    ],
+    "tz": "CT",
+    "tier": "A",
+    "round": "第 1 次（D0+3）",
+    "last_send": "2026-09-28",
+    "last_subject": "Transformer supply — Winnipeg",
+    "re_subject": "Re: Transformer supply — Winnipeg"
+  },
+  {
+    "num": 180,
+    "name": "Pro Energy Inc.",
+    "region": "加拿大 · AB",
+    "status": "已发送",
+    "cnt": 0,
+    "raw": "allen.sawchuk@proenergy.ca",
+    "emails": [
+      "allen.sawchuk@proenergy.ca"
+    ],
+    "tz": "MT",
+    "tier": "A",
+    "round": "第 1 次（D0+3）",
+    "last_send": "2026-09-28",
+    "last_subject": "Transformer supply — 150 to 1200 kVA",
+    "re_subject": "Re: Transformer supply — 150 to 1200 kVA"
+  },
+  {
+    "num": 181,
+    "name": "Prairie Central Line Supply Ltd.",
+    "region": "加拿大 · MB",
+    "status": "已发送",
+    "cnt": 0,
+    "raw": "hmcnicolljr@pclsupply.mb.ca",
+    "emails": [
+      "hmcnicolljr@pclsupply.mb.ca"
+    ],
+    "tz": "CT",
+    "tier": "A",
+    "round": "第 1 次（D0+3）",
+    "last_send": "2026-09-28",
+    "last_subject": "Transformer supply — Manitoba and Saskatchewan",
+    "re_subject": "Re: Transformer supply — Manitoba and Saskatchewan"
+  },
+  {
+    "num": 183,
+    "name": "RS Breakers & Controls",
+    "region": "加拿大 · ON",
+    "status": "已发送",
+    "cnt": 0,
+    "raw": "daniel.munro@rsbreakers.com",
+    "emails": [
+      "daniel.munro@rsbreakers.com"
+    ],
+    "tz": "ET",
+    "tier": "A",
+    "round": "第 1 次（D0+3）",
+    "last_send": "2026-09-28",
+    "last_subject": "Transformer supply — a question",
+    "re_subject": "Re: Transformer supply — a question"
+  },
+  {
+    "num": 186,
+    "name": "Access Electrical Supply Ltd.",
+    "region": "加拿大 · MB",
+    "status": "已发送",
+    "cnt": 0,
+    "raw": "Danny@accesselectricalsupply.ca",
+    "emails": [
+      "danny@accesselectricalsupply.ca"
+    ],
+    "tz": "CT",
+    "tier": "A",
+    "round": "第 1 次（D0+3）",
+    "last_send": "2026-09-28",
+    "last_subject": "Transformer supply — Winnipeg",
+    "re_subject": "Re: Transformer supply — Winnipeg"
+  }
+]

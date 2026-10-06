@@ -1,0 +1,58 @@
+[
+ {
+  "letter": "开发信-Martech-Electrical.md",
+  "to": [
+   "mario.dibella@martechelectrical.com"
+  ],
+  "subject": "Transformer supply — British Columbia",
+  "local_label": "美西",
+  "scheduled_at_bj": "2026-09-29 00:05",
+  "window_end_bj": "2026-09-29 01:00",
+  "status": "sent",
+  "sent_at": "2026-09-29 00:15:15",
+  "error": "",
+  "queued_at": "2026-09-29 00:15"
+ },
+ {
+  "letter": "开发信-PFM-Technical-Solutions.md",
+  "to": [
+   "rajan.gandhi@pfmts.com"
+  ],
+  "subject": "Transformer supply — British Columbia",
+  "local_label": "美西",
+  "scheduled_at_bj": "2026-09-29 00:20",
+  "window_end_bj": "2026-09-29 01:00",
+  "status": "sent",
+  "sent_at": "2026-09-29 00:21:48",
+  "error": "",
+  "queued_at": "2026-09-29 00:15"
+ },
+ {
+  "letter": "开发信-TN-Electrical.md",
+  "to": [
+   "terry.bennett@tnelectrical.ca"
+  ],
+  "subject": "Transformer supply — British Columbia",
+  "local_label": "美西",
+  "scheduled_at_bj": "2026-09-29 00:35",
+  "window_end_bj": "2026-09-29 01:00",
+  "status": "sent",
+  "sent_at": "2026-09-29 00:35:37",
+  "error": "",
+  "queued_at": "2026-09-29 00:15"
+ },
+ {
+  "letter": "开发信-Western-Technical-Installations.md",
+  "to": [
+   "mlamoureux@westerntechnical.ca"
+  ],
+  "subject": "Transformer supply — British Columbia",
+  "local_label": "美西",
+  "scheduled_at_bj": "2026-09-29 00:50",
+  "window_end_bj": "2026-09-29 01:00",
+  "status": "sent",
+  "sent_at": "2026-09-29 01:11:54",
+  "error": "",
+  "queued_at": "2026-09-29 00:15"
+ }
+]

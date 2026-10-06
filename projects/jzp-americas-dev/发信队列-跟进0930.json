@@ -1,0 +1,246 @@
+[
+  {
+    "letter": "开发信-跟进-Premier-Electric.md",
+    "to": [
+      "service@premierelectricak.com"
+    ],
+    "cc": [],
+    "subject": "Re: 15 kV and 25 kV distribution transformers — Alaska lead times",
+    "tz": "AK",
+    "local_label": "阿拉斯加",
+    "window_start_bj": "2026-10-01 01:00",
+    "window_end_bj": "2026-10-01 01:00",
+    "window_start_local": "2026-09-30 09:00",
+    "window_end_local": "2026-09-30 09:00",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:58",
+    "sent_at": "2026-10-01 01:01:43",
+    "scheduled_at_bj": "2026-10-01 01:00",
+    "scheduled_at_local": "2026-09-30 09:00",
+    "_note": "当地 9/30 09:00 ✅ 落在合法窗口内"
+  },
+  {
+    "letter": "开发信-跟进-Oregon-Electric-Service.md",
+    "to": [
+      "bbrooks@orelectricservice.com"
+    ],
+    "cc": [
+      "jbrooks@orelectricservice.com"
+    ],
+    "subject": "Re: UL-listed transformers for your industrial distribution work",
+    "tz": "PT",
+    "local_label": "美西",
+    "window_start_bj": "2026-10-01 01:10",
+    "window_end_bj": "2026-10-01 01:10",
+    "window_start_local": "2026-09-30 10:10",
+    "window_end_local": "2026-09-30 10:10",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:58",
+    "sent_at": "2026-10-01 01:10:03",
+    "scheduled_at_bj": "2026-10-01 01:10",
+    "scheduled_at_local": "2026-09-30 10:10",
+    "_note": "当地 9/30 10:10（上午偏晚）"
+  },
+  {
+    "letter": "开发信-跟进-Gescan-Sonepar.md",
+    "to": [
+      "Greg.Gallaher@gescan.com"
+    ],
+    "cc": [],
+    "subject": "Re: UL padmount gaps for branch stocking",
+    "tz": "PT",
+    "local_label": "美西",
+    "window_start_bj": "2026-10-01 01:20",
+    "window_end_bj": "2026-10-01 01:20",
+    "window_start_local": "2026-09-30 10:20",
+    "window_end_local": "2026-09-30 10:20",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:58",
+    "sent_at": "2026-10-01 01:20:02",
+    "scheduled_at_bj": "2026-10-01 01:20",
+    "scheduled_at_local": "2026-09-30 10:20",
+    "_note": "当地 9/30 10:20"
+  },
+  {
+    "letter": "开发信-跟进-Mott-Electric.md",
+    "to": [
+      "mottinfo@mottelectric.com"
+    ],
+    "cc": [],
+    "subject": "Re: Pattullo 1937 — substation work today?",
+    "tz": "PT",
+    "local_label": "美西",
+    "window_start_bj": "2026-10-01 01:30",
+    "window_end_bj": "2026-10-01 01:30",
+    "window_start_local": "2026-09-30 10:30",
+    "window_end_local": "2026-09-30 10:30",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:58",
+    "sent_at": "2026-10-01 01:30:03",
+    "scheduled_at_bj": "2026-10-01 01:30",
+    "scheduled_at_local": "2026-09-30 10:30",
+    "_note": "当地 9/30 10:30"
+  },
+  {
+    "letter": "开发信-跟进-Canem.md",
+    "to": [
+      "nationalservice@canem.com"
+    ],
+    "cc": [],
+    "subject": "Re: Amazon YVR — medium-voltage transformer gaps",
+    "tz": "PT",
+    "local_label": "美西",
+    "window_start_bj": "2026-10-01 01:40",
+    "window_end_bj": "2026-10-01 01:40",
+    "window_start_local": "2026-09-30 10:40",
+    "window_end_local": "2026-09-30 10:40",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:58",
+    "sent_at": "2026-10-01 01:40:03",
+    "scheduled_at_bj": "2026-10-01 01:40",
+    "scheduled_at_local": "2026-09-30 10:40",
+    "_note": "当地 9/30 10:40"
+  },
+  {
+    "letter": "开发信-跟进-EC-Electric.md",
+    "to": [
+      "MKTG@ecpowerslife.com"
+    ],
+    "cc": [],
+    "subject": "Re: MV-HV transformers for Northwest projects",
+    "tz": "PT",
+    "local_label": "美西",
+    "window_start_bj": "2026-10-01 01:50",
+    "window_end_bj": "2026-10-01 01:50",
+    "window_start_local": "2026-09-30 10:50",
+    "window_end_local": "2026-09-30 10:50",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:58",
+    "sent_at": "2026-10-01 01:50:03",
+    "scheduled_at_bj": "2026-10-01 01:50",
+    "scheduled_at_local": "2026-09-30 10:50",
+    "_note": "当地 9/30 10:50"
+  },
+  {
+    "letter": "开发信-跟进-Houle-Electric.md",
+    "to": [
+      "hello@houle.ca"
+    ],
+    "cc": [],
+    "subject": "Re: Fleetwood substation — supplier file",
+    "tz": "PT",
+    "local_label": "美西",
+    "window_start_bj": "2026-10-01 02:00",
+    "window_end_bj": "2026-10-01 02:00",
+    "window_start_local": "2026-09-30 11:00",
+    "window_end_local": "2026-09-30 11:00",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:58",
+    "sent_at": "2026-10-01 02:00:02",
+    "scheduled_at_bj": "2026-10-01 02:00",
+    "scheduled_at_local": "2026-09-30 11:00",
+    "_note": "当地 9/30 11:00"
+  },
+  {
+    "letter": "开发信-跟进-North-Coast.md",
+    "to": [
+      "seattlesales@northcoast.com"
+    ],
+    "cc": [],
+    "subject": "Re: UL padmount gaps for Seattle stock",
+    "tz": "PT",
+    "local_label": "美西",
+    "window_start_bj": "2026-10-01 02:10",
+    "window_end_bj": "2026-10-01 02:10",
+    "window_start_local": "2026-09-30 11:10",
+    "window_end_local": "2026-09-30 11:10",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:58",
+    "sent_at": "2026-10-01 02:10:03",
+    "scheduled_at_bj": "2026-10-01 02:10",
+    "scheduled_at_local": "2026-09-30 11:10",
+    "_note": "当地 9/30 11:10"
+  },
+  {
+    "letter": "开发信-跟进-Bossie-Electric.md",
+    "to": [
+      "anthony@bossieelectric.com"
+    ],
+    "cc": [],
+    "subject": "Re: Small padmount and pole-mount transformers, UL certified",
+    "tz": "ET",
+    "local_label": "美东",
+    "window_start_bj": "2026-10-01 02:20",
+    "window_end_bj": "2026-10-01 02:20",
+    "window_start_local": "2026-09-30 14:20",
+    "window_end_local": "2026-09-30 14:20",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:58",
+    "sent_at": "2026-10-01 02:20:03",
+    "scheduled_at_bj": "2026-10-01 02:20",
+    "scheduled_at_local": "2026-09-30 14:20",
+    "_note": "⚠️ 当地 9/30 13:20（破例代价）"
+  },
+  {
+    "letter": "开发信-跟进-AES-Electric.md",
+    "to": [
+      "sales@aes-electric.com"
+    ],
+    "cc": [],
+    "subject": "Re: Class 1 Div 1 — transformer gaps",
+    "tz": "ET",
+    "local_label": "美东",
+    "window_start_bj": "2026-10-01 02:30",
+    "window_end_bj": "2026-10-01 02:30",
+    "window_start_local": "2026-09-30 14:30",
+    "window_end_local": "2026-09-30 14:30",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:58",
+    "sent_at": "2026-10-01 02:30:03",
+    "scheduled_at_bj": "2026-10-01 02:30",
+    "scheduled_at_local": "2026-09-30 14:30",
+    "_note": "⚠️ 当地 9/30 13:30（破例代价）"
+  },
+  {
+    "letter": "开发信-跟进-Scientechnic.md",
+    "to": [
+      "vikram.s@scientechnic.ae"
+    ],
+    "cc": [],
+    "subject": "Re: Supplier partnership for PTD products",
+    "tz": "UAE",
+    "local_label": "阿联酋",
+    "window_start_bj": "2026-10-01 13:00",
+    "window_end_bj": "2026-10-01 13:00",
+    "window_start_local": "2026-10-01 09:00",
+    "window_end_local": "2026-10-01 09:00",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 00:58",
+    "sent_at": "2026-10-01 13:00:03",
+    "scheduled_at_bj": "2026-10-01 13:00",
+    "scheduled_at_local": "2026-10-01 09:00",
+    "_note": "当地 10/1 09:00 ✅ 单独排其合法窗口"
+  }
+]

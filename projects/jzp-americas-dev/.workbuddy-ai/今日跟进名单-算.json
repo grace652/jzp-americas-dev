@@ -1,0 +1,1386 @@
+{
+  "todo": [
+    {
+      "num": 1,
+      "sheet": "开发信跟进表",
+      "name": "B.G. High Voltage Systems Ltd.",
+      "region": "加拿大 · 安大略省",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-09-25",
+      "last": "2026-09-18",
+      "raw": "bberneche@bg-high-voltage.ca",
+      "emails": [
+        "bberneche@bg-high-voltage.ca"
+      ],
+      "sent_last": "2026-09-18",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 5,
+      "sheet": "开发信跟进表",
+      "name": "ALCO Electric, LLC",
+      "region": "美国 · 华盛顿州 Vancouver（非加拿大温哥华）",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-09-28",
+      "last": "2026-09-21",
+      "raw": "brian@alco-electric.com",
+      "emails": [
+        "brian@alco-electric.com"
+      ],
+      "sent_last": "2026-09-22",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 6,
+      "sheet": "开发信跟进表",
+      "name": "Alaska Line Builders, LLC",
+      "region": "美国 · 阿拉斯加州 Houston / Big Lake",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-09-28",
+      "last": "2026-09-21",
+      "raw": "andyk@aklinebuilders.com",
+      "emails": [
+        "andyk@aklinebuilders.com"
+      ],
+      "sent_last": "2026-09-22",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 7,
+      "sheet": "开发信跟进表",
+      "name": "PowerTec Electric LLC（底层实体 E & H Power Systems）",
+      "region": "美国 · 阿拉斯加 Anchorage + 华盛顿州 Redmond",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-09-28",
+      "last": "2026-09-21",
+      "raw": "info@ptellc.com",
+      "emails": [
+        "info@ptellc.com"
+      ],
+      "sent_last": "2026-09-22",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 8,
+      "sheet": "开发信跟进表",
+      "name": "Technical Power Services, Ltd. Co.",
+      "region": "美国 · 德克萨斯州 Ennis（DFW 都会区南缘）",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-09-29",
+      "last": "2026-09-22",
+      "raw": "Dave@technicalpowerservices.com",
+      "emails": [
+        "dave@technicalpowerservices.com"
+      ],
+      "sent_last": "2026-09-22",
+      "sent_n": 1,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 10,
+      "sheet": "开发信跟进表",
+      "name": "Chatham Electric, Inc.（dba of Northern Powerline Constructors, Inc. / Quanta Services 子公司）",
+      "region": "美国 · 阿拉斯加州（Anchorage 总部 / Juneau / Fairbanks）",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-09-29",
+      "last": "2026-09-22",
+      "raw": "jamesz@northernpowerline.com",
+      "emails": [
+        "jamesz@northernpowerline.com"
+      ],
+      "sent_last": "2026-09-23",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 14,
+      "sheet": "开发信跟进表",
+      "name": "Wolfe & Travis Electric Company, Inc.",
+      "region": "美国 · 田纳西州 Nashville（Davidson County）",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-09-29",
+      "last": "2026-09-22",
+      "raw": "tpotts@wtei.us",
+      "emails": [
+        "tpotts@wtei.us"
+      ],
+      "sent_last": "2026-09-22",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 15,
+      "sheet": "开发信跟进表",
+      "name": "Guerry Electric, LLC（官网用 Guerry Electrical Contractors, LLC）",
+      "region": "美国 · 密西西比州 Columbus（金三角地区）",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-09-29",
+      "last": "2026-09-22",
+      "raw": "paul.guerryelectric@gmail.com",
+      "emails": [
+        "paul.guerryelectric@gmail.com"
+      ],
+      "sent_last": "2026-09-22",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 21,
+      "sheet": "开发信跟进表",
+      "name": "C.W. Galle Contracting, Inc.",
+      "region": "美国 · 密西西比州 Ocean Springs",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "cwgallecontracting@gmail.com",
+      "emails": [
+        "cwgallecontracting@gmail.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 23,
+      "sheet": "开发信跟进表",
+      "name": "Romar Electrical Services Inc.",
+      "region": "加拿大 · 安省 Hamilton",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "info@romar.ca",
+      "emails": [
+        "info@romar.ca"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 24,
+      "sheet": "开发信跟进表",
+      "name": "Hillfort, LLC",
+      "region": "美国 · TN Memphis（全国+20国）",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "RFQ@hillfort.us",
+      "emails": [
+        "rfq@hillfort.us"
+      ],
+      "sent_last": null,
+      "sent_n": 0,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 25,
+      "sheet": "开发信跟进表",
+      "name": "MVA Power Inc.",
+      "region": "加拿大 · 魁北克 Montreal",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "tender@mvapower.com",
+      "emails": [
+        "tender@mvapower.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 1,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 26,
+      "sheet": "开发信跟进表",
+      "name": "Purcee Industrial Power",
+      "region": "加拿大 · 阿省 Foothills",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "les@purceepower.com",
+      "emails": [
+        "les@purceepower.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 27,
+      "sheet": "开发信跟进表",
+      "name": "Tri-State Utility Products, Inc.",
+      "region": "美国 · 佐治亚州 Marietta",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "rbatch@tsup.com",
+      "emails": [
+        "rbatch@tsup.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 28,
+      "sheet": "开发信跟进表",
+      "name": "Vancouver Industrial Electric Ltd.",
+      "region": "加拿大 · BC Langley",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "info@vie-bc.com",
+      "emails": [
+        "info@vie-bc.com"
+      ],
+      "sent_last": "2026-09-25",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 29,
+      "sheet": "开发信跟进表",
+      "name": "Amped Electric LLC",
+      "region": "美国 · 西弗吉尼亚州 Parkersburg",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "ampedelectricllc01@gmail.com",
+      "emails": [
+        "ampedelectricllc01@gmail.com"
+      ],
+      "sent_last": "2026-09-21",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 30,
+      "sheet": "开发信跟进表",
+      "name": "Brownstown Electric Supply Co., Inc.",
+      "region": "美国 · 印第安纳州 Brownstown",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "ggoshorn@brownstown.com",
+      "emails": [
+        "ggoshorn@brownstown.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 31,
+      "sheet": "开发信跟进表",
+      "name": "Power Line Supply Company",
+      "region": "美国 · 密歇根州 Reed City",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "information@uscco.com",
+      "emails": [
+        "information@uscco.com"
+      ],
+      "sent_last": null,
+      "sent_n": 0,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 32,
+      "sheet": "开发信跟进表",
+      "name": "Irby Utilities (Stuart C. Irby Co.)",
+      "region": "美国 · 密西西比州 Jackson",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "irbyonline@irby.com",
+      "emails": [
+        "irbyonline@irby.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 41,
+      "sheet": "开发信跟进表",
+      "name": "WinAsia Power Corporation Ltd.",
+      "region": "斯里兰卡",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-25",
+      "last": "2026-09-22",
+      "raw": "iweera@yahoo.com",
+      "emails": [
+        "iweera@yahoo.com"
+      ],
+      "sent_last": "2026-09-22",
+      "sent_n": 3,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 45,
+      "sheet": "开发信跟进表",
+      "name": "R.A. Electrical High Voltage Ltd.",
+      "region": "加拿大 · 安省 Cookstown",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "info@raelectrical.ca",
+      "emails": [
+        "info@raelectrical.ca"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 46,
+      "sheet": "开发信跟进表",
+      "name": "Ross Morrison Electrical Ltd.",
+      "region": "加拿大 · BC Burnaby",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "rme@rmelectric.com",
+      "emails": [
+        "rme@rmelectric.com"
+      ],
+      "sent_last": "2026-09-25",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 48,
+      "sheet": "开发信跟进表",
+      "name": "Fletcher-Reinhardt Company",
+      "region": "美国 · 密苏里州",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "sales@fr-electric.com",
+      "emails": [
+        "sales@fr-electric.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 49,
+      "sheet": "开发信跟进表",
+      "name": "KBS Electrical Distributors Inc.",
+      "region": "美国 · 德州 Bryan",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "info@kbselectric.com",
+      "emails": [
+        "info@kbselectric.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 50,
+      "sheet": "开发信跟进表",
+      "name": "K2 Electric Ltd.",
+      "region": "加拿大 · BC Prince George",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "info@k2electric.com",
+      "emails": [
+        "info@k2electric.com"
+      ],
+      "sent_last": "2026-09-25",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 51,
+      "sheet": "开发信跟进表",
+      "name": "Valley Electrical Suppliers, Inc.",
+      "region": "美国 · 加州 Visalia",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "customerservice@vesuppliers.com",
+      "emails": [
+        "customerservice@vesuppliers.com"
+      ],
+      "sent_last": "2026-09-25",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 52,
+      "sheet": "开发信跟进表",
+      "name": "Border States Electric",
+      "region": "美国 · 北达科他州 Fargo",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-10-01",
+      "last": "2026-09-24",
+      "raw": "pnovak@borderstates.com",
+      "emails": [
+        "pnovak@borderstates.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 54,
+      "sheet": "开发信跟进表",
+      "name": "Power Substation Services LLC",
+      "region": "美国 · 西弗吉尼亚州 Wheeling",
+      "status": "已回复",
+      "cnt": 1,
+      "nxt": "2026-09-25",
+      "last": "2026-09-22",
+      "raw": "joe.holler@epsonline.com",
+      "emails": [
+        "joe.holler@epsonline.com"
+      ],
+      "sent_last": "2026-09-23",
+      "sent_n": 1,
+      "sent_re": 1,
+      "overdue": true
+    },
+    {
+      "num": 60,
+      "sheet": "开发信跟进表",
+      "name": "BV Electric Ltd.",
+      "region": "加拿大 · BC Telkwa",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-25",
+      "last": "2026-09-22",
+      "raw": "gary@bvelectric.ca",
+      "emails": [
+        "gary@bvelectric.ca"
+      ],
+      "sent_last": null,
+      "sent_n": 0,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 79,
+      "sheet": "开发信跟进表",
+      "name": "Electrozad Supply (Sonepar Canada)",
+      "region": "加拿大 · ON London",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-28",
+      "last": "2026-09-23",
+      "raw": "lonsales@electrozad.com",
+      "emails": [
+        "lonsales@electrozad.com"
+      ],
+      "sent_last": null,
+      "sent_n": 0,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 117,
+      "sheet": "开发信跟进表",
+      "name": "HS Energy System LLC",
+      "region": "美国 · MD",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-28",
+      "last": "2026-09-23",
+      "raw": "info@hsenergyusa.com（B档角色，仅点名转交，不可主送）",
+      "emails": [
+        "info@hsenergyusa.com"
+      ],
+      "sent_last": "2026-09-23",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 118,
+      "sheet": "开发信跟进表",
+      "name": "Universal Electric Services Inc.",
+      "region": "加拿大 · ON",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-28",
+      "last": "2026-09-23",
+      "raw": "info@universalelectricservices.ca（官网全站唯一，B档角色邮箱，仅点名转交）",
+      "emails": [
+        "info@universalelectricservices.ca"
+      ],
+      "sent_last": "2026-09-23",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 120,
+      "sheet": "开发信跟进表",
+      "name": "Wesco Distribution Canada Inc / LP（母公司 Wesco International, NYSE:WCC）",
+      "region": "加拿大 · ON",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-28",
+      "last": "2026-09-23",
+      "raw": "ecommhd@wesco.com（主送，B档）/ ecommca@wesco.com（备选，待验证）",
+      "emails": [
+        "ecommhd@wesco.com",
+        "ecommca@wesco.com"
+      ],
+      "sent_last": "2026-09-23",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 121,
+      "sheet": "开发信跟进表",
+      "name": "Killmer Electric Co.（Killmer Electric Co., Inc.；Killmer家族1920创办，Palmer家族1975年收购）",
+      "region": "美国 · MN",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-28",
+      "last": "2026-09-23",
+      "raw": "bpalmer@killmerelectric.com（主送） + cresner@killmerelectric.com（主送，中压口） / info@killmerelectric.com（备选）",
+      "emails": [
+        "bpalmer@killmerelectric.com",
+        "cresner@killmerelectric.com",
+        "info@killmerelectric.com"
+      ],
+      "sent_last": "2026-09-23",
+      "sent_n": 2,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 122,
+      "sheet": "开发信跟进表",
+      "name": "Northern High Voltage",
+      "region": "加拿大 · ON",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-28",
+      "last": "2026-09-23",
+      "raw": "northernhighvoltage@gmail.com（C档免费邮箱，官网Cloudflare解码实取）",
+      "emails": [
+        "northernhighvoltage@gmail.com"
+      ],
+      "sent_last": "2026-09-23",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 123,
+      "sheet": "开发信跟进表",
+      "name": "Moody's Electric, Inc.",
+      "region": "美国 · AL",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-28",
+      "last": "2026-09-23",
+      "raw": "lmoody@moodyelectric.net（主送，A档）/ smoody@moodyelectric.net（备选，A档）/ bbryars@moodyelectric.net（备选，A档）；估算师 rwebb@/rsmith@/sstewart@/kmanzanilla@/dcapps@/jrobinson@moodyelectric.net（项目级备选）",
+      "emails": [
+        "lmoody@moodyelectric.net",
+        "smoody@moodyelectric.net",
+        "bbryars@moodyelectric.net",
+        "jrobinson@moodyelectric.net"
+      ],
+      "sent_last": "2026-09-23",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 124,
+      "sheet": "开发信跟进表",
+      "name": "Rhododendron Electric, LLC",
+      "region": "美国 · OH",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "Brandon@rhododendronelectric.com（主送，A档）",
+      "emails": [
+        "brandon@rhododendronelectric.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 127,
+      "sheet": "开发信跟进表",
+      "name": "Robert's Electrical Contractors, Inc.",
+      "region": "美国 · AL",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "ashley@roberts-ec.com（B档点名转交Robert Young）",
+      "emails": [
+        "ashley@roberts-ec.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 129,
+      "sheet": "开发信跟进表",
+      "name": "Aurum Electric Inc",
+      "region": "加拿大 · ON",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "projects@aurumelectric.ca（主送转交，项目口，Attn Justin Pequeno）",
+      "emails": [
+        "projects@aurumelectric.ca"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 131,
+      "sheet": "开发信跟进表",
+      "name": "Elliott Electric Supply（Elliott Electric Supply Co., Inc.；1972年Bill Elliott创办）",
+      "region": "美国 · AZ",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "HelpDesk@elliottelectric.com（主送转交，官网Contact页24/7技术口，Attn Stephen Paul）",
+      "emails": [
+        "helpdesk@elliottelectric.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 132,
+      "sheet": "开发信跟进表",
+      "name": "Yale Electric Supply Co.（USESI成员；Yale Lighting Concepts示展厅关联）",
+      "region": "美国 · NJ",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "scalvarese@yaleelectricsupply.com（主送，开关柜部） + customersupport@yaleelectricsupply.com（备选，7:30–19:30在线客服）",
+      "emails": [
+        "scalvarese@yaleelectricsupply.com",
+        "customersupport@yaleelectricsupply.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 133,
+      "sheet": "开发信跟进表",
+      "name": "Solectric Energy Solutions Nova Scotia Inc.",
+      "region": "加拿大 · NS",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "hello@solectricenergy.ca（B档，官网+公司页明示，转交Louis）",
+      "emails": [
+        "hello@solectricenergy.ca"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 138,
+      "sheet": "开发信跟进表",
+      "name": "J. Ranck Electric, Inc.（JRE；1986年Roy & Ranck Electric起家，Coleman→Mt Pleasant）",
+      "region": "美国 · MI",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "ajranck@jranck.com（主送，A档总裁直邮） / info@jranck.com（备选通用）",
+      "emails": [
+        "ajranck@jranck.com",
+        "info@jranck.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 139,
+      "sheet": "开发信跟进表",
+      "name": "Agilix Solutions（2021年French Gerleman+IAC Supply Solutions合并；French系1923，IAC系1895）",
+      "region": "美国 · MO",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "stlouis@goagilix.com（STL分支，B档转交）",
+      "emails": [
+        "stlouis@goagilix.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 141,
+      "sheet": "开发信跟进表",
+      "name": "Lumen（Lumen, Division de Sonepar Canada Inc.；A Sonepar Company）",
+      "region": "加拿大 · QC",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "derek.arsenault@lumen.ca（主送，Laval分支直邮） / maxime.paquette-jean@lumen.ca（备选，Laval配送中心）",
+      "emails": [
+        "derek.arsenault@lumen.ca",
+        "maxime.paquette-jean@lumen.ca"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 142,
+      "sheet": "开发信跟进表",
+      "name": "Sargent Electric Company",
+      "region": "美国 · IN",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "info@sargentelectric.com（B档点名转交）",
+      "emails": [
+        "info@sargentelectric.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 145,
+      "sheet": "开发信跟进表",
+      "name": "Lapp Electrical Service, Inc.（Lapp Electric；1969年Manny+Flossie Lapp创办）",
+      "region": "美国 · PA",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "customercare@lappelectric.com（主送转交，Attn Greg/Tim Lapp；官网全站明文）",
+      "emails": [
+        "customercare@lappelectric.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 147,
+      "sheet": "开发信跟进表",
+      "name": "Van Ert Electric Company, Inc.",
+      "region": "美国 · WI",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "info@vanert.com（B档转交Mike/Jeff）",
+      "emails": [
+        "info@vanert.com"
+      ],
+      "sent_last": "2026-09-24",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 153,
+      "sheet": "开发信跟进表-batch5+6",
+      "name": "Montgomery Industrial Services Limited",
+      "region": "加拿大 · ON",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-10-01",
+      "last": "2026-09-28",
+      "raw": "pmontgomery@montgomeryindustrial.com",
+      "emails": [
+        "pmontgomery@montgomeryindustrial.com"
+      ],
+      "sent_last": "2026-09-28",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 154,
+      "sheet": "开发信跟进表-batch5+6",
+      "name": "K.P.C. Power Electrical Ltd.",
+      "region": "加拿大 · ON",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-10-01",
+      "last": "2026-09-28",
+      "raw": "akif@kpcpower.com",
+      "emails": [
+        "akif@kpcpower.com"
+      ],
+      "sent_last": "2026-09-28",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 155,
+      "sheet": "开发信跟进表-batch5+6",
+      "name": "ABCO Supply & Service Ltd.",
+      "region": "加拿大 · MB",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-10-01",
+      "last": "2026-09-28",
+      "raw": "brian.cabral@abcosupply.com",
+      "emails": [
+        "brian.cabral@abcosupply.com"
+      ],
+      "sent_last": "2026-09-28",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 156,
+      "sheet": "开发信跟进表-batch5+6",
+      "name": "RIES Equipment & Utility Distribution",
+      "region": "加拿大 · ON",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-10-01",
+      "last": "2026-09-28",
+      "raw": "shane@riesequipment.ca",
+      "emails": [
+        "shane@riesequipment.ca"
+      ],
+      "sent_last": "2026-09-28",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 159,
+      "sheet": "开发信跟进表-batch5+6",
+      "name": "Alliance Engineering & Construction Ltd.",
+      "region": "加拿大 · ON",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-10-01",
+      "last": "2026-09-28",
+      "raw": "peter@allianceengineering.ca",
+      "emails": [
+        "peter@allianceengineering.ca"
+      ],
+      "sent_last": "2026-09-28",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 160,
+      "sheet": "开发信跟进表-batch5+6",
+      "name": "Ardoch Electric Inc.",
+      "region": "加拿大 · ON",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-10-01",
+      "last": "2026-09-28",
+      "raw": "sross@ardoch.ca",
+      "emails": [
+        "sross@ardoch.ca"
+      ],
+      "sent_last": "2026-09-28",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 161,
+      "sheet": "开发信跟进表-batch5+6",
+      "name": "Bradmoore Electric Co. Ltd.",
+      "region": "加拿大 · ON",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-10-01",
+      "last": "2026-09-28",
+      "raw": "bradmoore@live.ca",
+      "emails": [
+        "bradmoore@live.ca"
+      ],
+      "sent_last": "2026-09-28",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 165,
+      "sheet": "开发信跟进表-batch5+6",
+      "name": "Nor-Tec Group Ltd.",
+      "region": "加拿大 · MB",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-10-01",
+      "last": "2026-09-28",
+      "raw": "mzajac@nortecgroup.com（✅ 已验证）／ sshack@nortecgroup.com（⚠️ 官网明文，未 SMTP 实测）",
+      "emails": [
+        "mzajac@nortecgroup.com",
+        "sshack@nortecgroup.com"
+      ],
+      "sent_last": "2026-09-28",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 166,
+      "sheet": "开发信跟进表-batch5+6",
+      "name": "Shermco Industries, Inc.",
+      "region": "美国 · TX",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-10-01",
+      "last": "2026-09-28",
+      "raw": "phil.petrocelli@shermco.com",
+      "emails": [
+        "phil.petrocelli@shermco.com"
+      ],
+      "sent_last": "2026-09-28",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 172,
+      "sheet": "开发信跟进表-batch5+6",
+      "name": "Trotter & Morton Group of Companies",
+      "region": "加拿大 · AB",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-10-01",
+      "last": "2026-09-28",
+      "raw": "dryan@tmlgroup.com ／ cmaclellan@tmlgroup.com",
+      "emails": [
+        "dryan@tmlgroup.com",
+        "cmaclellan@tmlgroup.com"
+      ],
+      "sent_last": "2026-09-28",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 176,
+      "sheet": "开发信跟进表-batch5+6",
+      "name": "JRS Industrial & Power Solutions",
+      "region": "加拿大 · MB",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-10-01",
+      "last": "2026-09-28",
+      "raw": "bretr@jrs.ca",
+      "emails": [
+        "bretr@jrs.ca"
+      ],
+      "sent_last": "2026-09-28",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 180,
+      "sheet": "开发信跟进表-batch5+6",
+      "name": "Pro Energy Inc.",
+      "region": "加拿大 · AB",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-10-01",
+      "last": "2026-09-28",
+      "raw": "allen.sawchuk@proenergy.ca",
+      "emails": [
+        "allen.sawchuk@proenergy.ca"
+      ],
+      "sent_last": "2026-09-28",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 181,
+      "sheet": "开发信跟进表-batch5+6",
+      "name": "Prairie Central Line Supply Ltd.",
+      "region": "加拿大 · MB",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-10-01",
+      "last": "2026-09-28",
+      "raw": "hmcnicolljr@pclsupply.mb.ca",
+      "emails": [
+        "hmcnicolljr@pclsupply.mb.ca"
+      ],
+      "sent_last": "2026-09-28",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 183,
+      "sheet": "开发信跟进表-batch5+6",
+      "name": "RS Breakers & Controls",
+      "region": "加拿大 · ON",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-10-01",
+      "last": "2026-09-28",
+      "raw": "daniel.munro@rsbreakers.com",
+      "emails": [
+        "daniel.munro@rsbreakers.com"
+      ],
+      "sent_last": "2026-09-28",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    },
+    {
+      "num": 186,
+      "sheet": "开发信跟进表-batch5+6",
+      "name": "Access Electrical Supply Ltd.",
+      "region": "加拿大 · MB",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-10-01",
+      "last": "2026-09-28",
+      "raw": "Danny@accesselectricalsupply.ca",
+      "emails": [
+        "danny@accesselectricalsupply.ca"
+      ],
+      "sent_last": "2026-09-28",
+      "sent_n": 1,
+      "sent_re": 0,
+      "overdue": true
+    }
+  ],
+  "done": [
+    {
+      "num": 2,
+      "sheet": "开发信跟进表",
+      "name": "Ontario High Voltage Services Ltd.",
+      "region": "加拿大 · 安大略省",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-09-25",
+      "last": "2026-09-18",
+      "raw": "taylor@ontariohighvoltage.com",
+      "emails": [
+        "taylor@ontariohighvoltage.com"
+      ],
+      "sent_last": "2026-09-29",
+      "sent_n": 3,
+      "sent_re": 2,
+      "overdue": false
+    },
+    {
+      "num": 3,
+      "sheet": "开发信跟进表",
+      "name": "ISCOCA Ltd. (Iscoca Electrical Services Ltd.)",
+      "region": "加拿大 · 安大略省密西沙加",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-09-25",
+      "last": "2026-09-18",
+      "raw": "iscoca@iscoca.ca",
+      "emails": [
+        "iscoca@iscoca.ca"
+      ],
+      "sent_last": "2026-09-29",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": false
+    },
+    {
+      "num": 4,
+      "sheet": "开发信跟进表",
+      "name": "Williams Electric & Line Construction Inc. (DBA Lake Area Elec & Tech Ser LLC)",
+      "region": "美国 · 阿拉巴马州 Tuscumbia",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-09-28",
+      "last": "2026-09-21",
+      "raw": "keith@williamsele.com",
+      "emails": [
+        "keith@williamsele.com"
+      ],
+      "sent_last": "2026-09-29",
+      "sent_n": 3,
+      "sent_re": 2,
+      "overdue": false
+    },
+    {
+      "num": 12,
+      "sheet": "开发信跟进表",
+      "name": "Aequitas Power Company, LLC",
+      "region": "美国 · 肯塔基州 Shelbyville（服务 IN/KY/TN）",
+      "status": "已发送",
+      "cnt": 1,
+      "nxt": "2026-09-29",
+      "last": "2026-09-22",
+      "raw": "owners@aequitaspower.com",
+      "emails": [
+        "owners@aequitaspower.com"
+      ],
+      "sent_last": "2026-09-29",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": false
+    },
+    {
+      "num": 57,
+      "sheet": "开发信跟进表",
+      "name": "Iconic Power Systems Inc.",
+      "region": "加拿大 · 阿省 Calgary",
+      "status": "已回复",
+      "cnt": 1,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "wmyers@iconicpowersystems.com",
+      "emails": [
+        "wmyers@iconicpowersystems.com"
+      ],
+      "sent_last": "2026-09-29",
+      "sent_n": 3,
+      "sent_re": 2,
+      "overdue": false
+    },
+    {
+      "num": 83,
+      "sheet": "开发信跟进表",
+      "name": "Van Meter Inc.",
+      "region": "美国 · IA Cedar Rapids",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "CedarRapids@vanmeterinc.com",
+      "emails": [
+        "cedarrapids@vanmeterinc.com"
+      ],
+      "sent_last": "2026-09-29",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": false
+    },
+    {
+      "num": 95,
+      "sheet": "开发信跟进表",
+      "name": "Megawatt Electric, LLC",
+      "region": "美国 · AK Anchorage/Wasilla",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "info@megawattelectric.com",
+      "emails": [
+        "info@megawattelectric.com"
+      ],
+      "sent_last": "2026-09-30",
+      "sent_n": 1,
+      "sent_re": 1,
+      "overdue": false
+    },
+    {
+      "num": 99,
+      "sheet": "开发信跟进表",
+      "name": "Walters Wholesale Electric Co.",
+      "region": "美国 · CA Fontana/Brea",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "utilitydivision@walterswholesale.com",
+      "emails": [
+        "utilitydivision@walterswholesale.com"
+      ],
+      "sent_last": "2026-09-30",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": false
+    },
+    {
+      "num": 102,
+      "sheet": "开发信跟进表",
+      "name": "Valard Construction",
+      "region": "加拿大 · AB Edmonton",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "ksones@valard.com",
+      "emails": [
+        "ksones@valard.com"
+      ],
+      "sent_last": "2026-09-29",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": false
+    },
+    {
+      "num": 105,
+      "sheet": "开发信跟进表",
+      "name": "Cache Valley Electric Co.",
+      "region": "美国 · UT Logan",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "businessdevelopment@cve.com",
+      "emails": [
+        "businessdevelopment@cve.com"
+      ],
+      "sent_last": "2026-09-29",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": false
+    },
+    {
+      "num": 108,
+      "sheet": "开发信跟进表",
+      "name": "Echo Electric",
+      "region": "美国 · IL Springfield",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "info@echoelectric.com",
+      "emails": [
+        "info@echoelectric.com"
+      ],
+      "sent_last": "2026-09-29",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": false
+    },
+    {
+      "num": 110,
+      "sheet": "开发信跟进表",
+      "name": "Egan Company",
+      "region": "美国 · MN Champlin",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "info@eganco.com",
+      "emails": [
+        "info@eganco.com"
+      ],
+      "sent_last": "2026-09-29",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": false
+    },
+    {
+      "num": 113,
+      "sheet": "开发信跟进表",
+      "name": "Summit Electric Supply",
+      "region": "美国 · NM Albuquerque",
+      "status": "已发送",
+      "cnt": 0,
+      "nxt": "2026-09-29",
+      "last": "2026-09-24",
+      "raw": "help@summit.com",
+      "emails": [
+        "help@summit.com"
+      ],
+      "sent_last": "2026-09-29",
+      "sent_n": 2,
+      "sent_re": 1,
+      "overdue": false
+    }
+  ],
+  "generated": "2026-10-01 21:51"
+}

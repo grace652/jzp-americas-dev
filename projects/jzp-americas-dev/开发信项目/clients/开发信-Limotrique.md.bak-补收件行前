@@ -1,0 +1,83 @@
+# 开发信 — Limotrique（Distributions Limotrique）· 买家 358
+
+> 名单来源：batch9 名单（limotrique.com，加拿大 QC Sherbrooke）· B 类（高压/中压电气产品分销商）
+> 交接单：`交接单/batch9_new_324plus/买家358_Limotrique_开发信交接单.md`
+> 骨架：**A（通用首触 —— 官网 Puissance 产品页 + 油浸变压器经营品类）**
+> 收件人：**Alain Beaudette · Directeur de Succursale（分店总监）** ｜ `alainb@limotrique.com`（A 档 · 官网一手 mailto + SMTP 实测命中 + LinkedIn 现职）
+> 发信资格：✅ 通过 ｜ 邮箱档位：**A（主送）**
+> 拟发送时段：QC = **ET（东部时区）**｜当地工作日 09:00–10:00 = **北京 21:00–22:00（夏令时）**
+
+> 🔴 **本封特殊说明（必读）**：魁北克法语区公司 → **正文仍写英文**（用户指定），不使用法语。
+> 官网首页明写 *"VOTRE **DISTRIBUTEUR** DE PRODUITS ÉLECTRIQUES DE **HAUTE ET MOYENNE TENSION**"*，
+> Puissance 产品页明列 **"Transformateurs – À l'huile"（油浸变压器）** —— 油浸变压器是其**正式经营品类**，
+> 与我方 **E541627 / E541626** 直接对口。
+> ⚠️ **不提其 2024-11 被 LineStar 收购、不提集团/主体沿革**（避免尴尬）；
+> ⚠️ **不宣称"你不制造"**（其有代理与集成职能，易冒犯）；
+> ⚠️ **不点名其独家代理品牌**（红线：不点名对方独家品牌）。
+
+---
+
+## 一、主题行（3 选 1）
+
+1. `Oil-immersed transformer supply for Quebec`
+2. `A supply line behind your transformers`
+3. `Liquid-immersed transformers — a direct source`
+
+> 选型说明：
+> - 主题行 1 直接落在其**官网正式经营品类**（油浸变压器）+ 区域（Quebec），与 E541627/E541626 呼应。
+> - 三条均 **3–6 词**、无全大写、无感叹号、无 spam 词。
+> - **未出现**容量、电压、价格、交期数字，**未出现**其独家代理品牌名。
+
+---
+
+## 二、正文（119 词）
+
+```
+Hi Alain,
+
+Your Puissance division lists oil-immersed transformers alongside switchgear,
+breakers and arresters — a full high- and medium-voltage range for utility and
+industrial projects. A range that broad usually depends on a steady transformer
+supply line behind it.
+
+We're JZPE Power Transformer, a manufacturer in Suzhou, China. Our three-phase
+liquid-immersed line is UL listed — E541627 for distribution and pad-mount,
+45–5,000 kVA; E541626 for power transformers, 750–110,000 kVA — and built to
+CSA/IEEE standards.
+
+Which transformer ranges do you source most — distribution and pad-mount, or
+the larger power units? Reply "SPECS" and I'll send the matching spec sheets,
+UL certificates and factory test reports.
+
+If this isn't useful, reply "stop" and I won't write again.
+
+Best regards,
+
+Ian Chou
+```
+
+---
+
+## 三、中文注解（8 项）
+
+1. **发信资格**：✅ **通过** —— 域名 `limotrique.com` MX = M365（非 NXDOMAIN、非双域）；公司活跃分销商（官网现行 + LinkedIn 现职）；收件人不在「不再联系名单」。
+2. **邮箱档位**：**A（具名决策人邮箱，已验证，可主送）** —— 满足 H3/H5（官网一手 mailto + SMTP 实测 250 控制地址协议全通过 + LinkedIn 现任 "Directeur Succursale Limotrique/LineStar"）。⚠️ M365 域有 Spamhaus 反制史 → **首封密切盯退信**；若退信改走 `info@limotrique.com` 点名转交 Alain Beaudette。
+3. **骨架**：**A（通用首触）** —— 接触路径源自官网 home / contact / puissance 产品页 + LinkedIn。
+4. **钩子**：**「分销商补线 + 品类对口」类** —— 落点事实（官网，一手源）：① Puissance 页明列 **"Transformateurs – À l'huile"** 与开关柜/断路器/避雷器并列 → 油浸变压器是正式经营品类；② 客户为**电力/公用/工业项目** → 项目型采购、需持续供货；③ 其代理的线路金具/绝缘子类品牌**不造配电变压器** → 我方产品**可补其变压器线**。逻辑链：**品类明列 + 项目型采购 + 补线无竞争** → 落点收在**资料**。⚠️ **未断言对方缺货**；**未宣称"你不制造"**；**未点名其独家品牌**。
+5. **刻意未用的内容**：
+   - ⛔ **成立年份 1995** —— 交接单虽标"可提"，但本批硬红线 8「成立年份不引用具体数字」→ **不写年份**。
+   - ⛔ **员工数 / 营收 / 规模数字** —— 红线，正文零数字。
+   - ⛔ **LineStar 收购 / 集团 / 主体沿革** —— 交接单明示"不提被收购/集团事宜"，避免尴尬。
+   - ⛔ **Crunchbase 的 "manufacturer" 标签** —— 属库自动归类且自相矛盾，**不作论据**；正文不宣称对方"不制造"。
+   - ⛔ **单相柱上变（E544629）** —— 仅 ECD 计划函、**不可称 certified** → 首封不提。
+   - ⛔ **干变** —— 加拿大虽可谈但官网未突出、且须人工确认 → 首封不落此项。
+   - ⛔ **具体 kV / kVA / 品牌 / 是否已固定中国供应商** —— 交接单「信息缺口清单」字段，**连模糊表述都不写**；正文只以**提问**落点。
+   - ⛔ **交期 / 价格 / 附件 / 链接** —— 红线。
+6. **待确认 / 存疑**：
+   - ⚠️ **集团（LineStar）采购权是否已上移** —— 交接单标为"关键不确定性"；正文按"分店层可触达"写，**未断言采购权归属**。
+   - ⚠️ **`alainb@` 系 SMTP 实测命中**（非证书式确证）→ 已按"实测 + 官网一手 + LinkedIn 现职"三重口径处理，**不谎称已验证到人**。
+   - ⚠️ **Alain Beaudette 任职时长未获取** → 正文不指称任职年限，仅以 Directeur de Succursale 身份直呼其名。
+   - ⚠️ **CSV 城市原值 Québec（市）≠ 实测 Sherbrooke** → 正文只用"Quebec"作省区指向，**不碰具体城市/街道**。
+   - ⚠️ **其自述 "Leader du domaine électrique en province"** —— 营销语，**未引用**（避免转述对方自夸）。
+7. **发送时段**：**北京 21:00–22:00**（= QC 东部时间当地 09:00–10:00，夏令时 EDT）。换算依据：ET 夏令 UTC−4，北京 UTC+8，9:00 → 13:00 UTC → 21:00 北京。🔴 **冬令时起（2026-11-01）改为 22:00–23:00**。
+8. **避开发送日**：**周六 / 周日**（加拿大周末）；建议**周二–周四**投递。⚠️ 送达：MX = M365，**用正规 ESP 投递**，首封注意退信监控。

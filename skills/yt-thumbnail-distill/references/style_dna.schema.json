@@ -1,0 +1,167 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Style DNA",
+  "description": "Distilled visual style of a YouTube channel's thumbnails. Pixel-anchored fields come from pixel_stats.json; qualitative fields are authored by the agent during Stage 3.",
+  "type": "object",
+  "required": ["meta", "format", "palette", "signature_move", "invariants", "avoid", "prompt_anchor_paragraph"],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "properties": {
+        "channel": { "type": "string" },
+        "handle": { "type": "string" },
+        "sample_size": { "type": "integer" },
+        "date_range": { "type": "string" },
+        "confidence": { "enum": ["high", "medium", "low"] },
+        "confidence_note": { "type": "string" }
+      }
+    },
+    "format": {
+      "type": "object",
+      "properties": {
+        "aspect_ratio": { "type": "string", "default": "16:9" },
+        "canvas": { "type": "string", "default": "1280x720 (deliver 1920x1080)" },
+        "letterbox_cropped": { "type": "boolean" },
+        "safe_area_note": { "type": "string" }
+      }
+    },
+    "palette": {
+      "type": "object",
+      "properties": {
+        "dominant": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "hex": { "type": "string" },
+              "role": { "enum": ["background", "subject", "text", "accent", "skin", "unassigned"] },
+              "coverage_pct": { "type": "number" },
+              "consistency_pct": { "type": "number" }
+            }
+          }
+        },
+        "accent_small_area": { "type": "array", "items": { "type": "object" } },
+        "background_hex": {
+          "type": "string",
+          "description": "What the background reads as. May be a hex code, or a short descriptive phrase when the channel varies its backgrounds per video (e.g. 'a saturated environment keyed to the video premise, common dark base #322C25')."
+        },
+        "background_luminance": { "type": "number" },
+        "palette_archetype": { "type": "string" },
+        "grading_note": {
+          "type": "string",
+          "description": "Human-facing commentary for the style guide only. Never enters a prompt."
+        }
+      }
+    },
+    "contrast": {
+      "type": "object",
+      "properties": {
+        "subject_bg_delta_e": { "type": "number" },
+        "saturation_mean": { "type": "number" },
+        "pct_pixels_high_sat": { "type": "number" },
+        "value_mean": { "type": "number" },
+        "global_luma_std": { "type": "number" },
+        "colorfulness": { "type": "number" }
+      }
+    },
+    "layout": {
+      "type": "object",
+      "properties": {
+        "subject_position": { "type": "string" },
+        "subject_area_pct": { "type": "number" },
+        "text_zone": { "type": "string" },
+        "text_area_pct": { "type": "number" },
+        "split_rule": { "type": "string" },
+        "negative_space_pct": { "type": "number" }
+      }
+    },
+    "subject": {
+      "type": "object",
+      "properties": {
+        "type": { "type": "string" },
+        "framing": { "type": "string" },
+        "gaze": { "type": "string" },
+        "expression": { "type": "string" },
+        "emotion_intensity": { "type": "integer", "minimum": 0, "maximum": 5 },
+        "cutout_style": { "type": "string" },
+        "outline": {
+          "type": "object",
+          "properties": { "color": { "type": "string" }, "width_px": { "type": "number" } }
+        }
+      }
+    },
+    "typography": {
+      "type": "object",
+      "properties": {
+        "headline": {
+          "type": "object",
+          "properties": {
+            "case": { "type": "string" },
+            "max_words": { "type": "integer" },
+            "font_class": { "type": "string" },
+            "weight": { "type": "string" },
+            "fill_hex": { "type": "string" },
+            "stroke": { "type": "object", "properties": { "color": { "type": "string" }, "width_px": { "type": "number" } } },
+            "shadow": { "type": "object", "properties": { "type": { "type": "string" }, "offset": { "type": "string" } } },
+            "position": { "type": "string" },
+            "lines": { "type": "integer" },
+            "size_pct_of_canvas_height": { "type": "number" }
+          }
+        },
+        "secondary": { "type": "object" },
+        "badge": { "type": "object" }
+      }
+    },
+    "lighting": {
+      "type": "object",
+      "properties": {
+        "key": { "type": "string" },
+        "direction": { "type": "string" },
+        "color_temp": { "type": "string" },
+        "glow": { "type": "string" }
+      }
+    },
+    "background": {
+      "type": "object",
+      "properties": {
+        "type": { "type": "string" },
+        "depth_of_field": { "type": "string" },
+        "elements": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "motifs": {
+      "type": "object",
+      "properties": {
+        "recurring": { "type": "array", "items": { "type": "string" } },
+        "consistency_pct": { "type": "number" }
+      }
+    },
+    "grade": {
+      "type": "object",
+      "properties": {
+        "lut_feel": { "type": "string" },
+        "grain": { "type": "string" },
+        "vignette": { "type": "string" }
+      }
+    },
+    "signature_move": {
+      "type": "string",
+      "description": "One sentence naming the single most recognisable device of this channel."
+    },
+    "invariants": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Features present in >=60% of the sample. These go into every prompt as hard requirements."
+    },
+    "avoid": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Things this channel never does. These become the negative constraints."
+    },
+    "prompt_anchor_paragraph": {
+      "type": "string",
+      "description": "Reusable style-anchoring paragraph prepended to any prompt."
+    },
+    "per_image": { "type": "array", "items": { "type": "object" } }
+  }
+}

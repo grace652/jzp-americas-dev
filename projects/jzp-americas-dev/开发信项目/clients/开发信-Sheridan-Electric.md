@@ -1,0 +1,76 @@
+# 开发信 — Sheridan Electric Services Ltd.（买家 326）
+
+> 名单来源：batch9 名单（sheridanelectric.ca，ON）· B 类（工业电气 + 自动化承包商，含控制盘集成）
+> 交接单：`交接单/batch9_new_324plus/买家326_Sheridan_Electric_开发信交接单.md`
+> 骨架：**A（通用首触 —— 官网 "Critical Substation Failure Case Study" + 工业电气/控制盘集成定位）**
+> 收件人：**Paul Nightingale · President** ｜ `pauln@sheridanelectric.ca`（A 档 · SMTP 实测命中 + LinkedIn 现任交叉）
+> 发信资格：✅ 通过 ｜ 邮箱档位：**A（主送）**
+> 拟发送时段：ON = **东部时区（ET）**｜当地工作日 09:00–10:00 = **北京 21:00–22:00（夏令时）**
+> 🔴 域名提醒：邮箱域 = 官网域 = **`sheridanelectric.ca`**（一致）｜⛔ 绝不可写成 `sheridanelectric.com`
+
+---
+
+## 一、主题行（3 选 1）
+
+1. `Substation and pad-mount transformer supply`
+2. `A supply line behind your substation work`
+3. `Liquid-immersed transformers — a direct source`
+
+> 选型说明：主题 1 覆盖其**变电站 + 工业配电**两类场景，与 E541626 / E541627 双区间呼应；
+> 三条均 **3–6 词**、无全大写、无感叹号、无 spam 词；**未出现**容量、电压、价格、交期数字。
+
+---
+
+## 二、正文（104 词）
+
+```
+Hi Paul,
+
+A critical-substation-failure case study in your resources — that points to
+change-out work rather than one-off jobs, and change-out work usually wants a
+transformer source already on file.
+
+We're JZPE Power Transformer, a manufacturer in Suzhou, China. Our three-phase
+liquid-immersed line is UL listed — E541627 for distribution and pad-mount,
+45–5,000 kVA; E541626 for power transformers, 750–110,000 kVA — and built to
+CSA/IEEE standards.
+
+For the industrial and substation work you cover, which kVA ranges are hardest
+to source? Reply "SPECS" and I'll send the matching spec sheets, UL
+certificates and factory test reports.
+
+If this isn't useful, reply "stop" and I won't write again.
+
+Best regards,
+
+Ian Chou
+```
+
+---
+
+## 三、中文注解（8 项）
+
+- **收件人**：**Paul Nightingale · President**（`pauln@sheridanelectric.ca`）
+1. **发信资格**：✅ **通过** —— 域名 `sheridanelectric.ca` MX = M365（非 NXDOMAIN、非双域）；收件人不在「不再联系名单」；官网 2026-10 抓取在营。
+2. **邮箱档位**：**A（具名决策人邮箱，已验证，可主送）** —— `pauln@sheridanelectric.ca`（SMTP 实测 250，控制地址协议全通过 + LinkedIn 现任 President 交叉）。⚠️ M365 域有 Spamhaus 反制史 → 首封密切盯退信；若退信改走 `info@sheridanelectric.ca` 点名转交 Paul Nightingale。
+3. **骨架**：**A（通用首触）** —— 接触路径源自官网 About / Resources 页 + 官网在营事实。
+4. **钩子**：**「变电站场景 + 资料」类** —— 落点事实（官网，一手源）：**"Critical Substation Failure Case Study"** → 指向**更换/抢修管线**而非一次性项目 → 需要"常备的变压器供应源" → 落点收在**资料**。⚠️ **未断言对方缺货**；**未提及其 Control Panel Shop / 设备 CSA 认可**（属控制盘/现场评估，非变压器制造，提及易被误读为"你在造变压器"）。
+5. **刻意未用的内容**：
+   - ⛔ **成立年限**（官网 "over 50 years" vs CSV "over 60 years" **口径冲突**）—— 红线，正文不提年份。
+   - ⛔ **员工数 / 营收** —— 未获取，红线，不引用任何数字。
+   - ⛔ **Control Panel Shop / "CSA Approval of Equipment"** —— 属控制盘制造 + 现场评估，**非变压器制造**；提它或暗示"你们不制造"都可能冒犯 → 完全不碰。
+   - ⛔ **干变** —— 加拿大可谈，但首封**不作首推**（需人工确认）→ 不提。
+   - ⛔ **单相柱上变（E544629）** —— 仅 ECD 计划函、**不可称 certified** → 不提。
+   - ⛔ **ECRA/ESA 执照号 / 三处网点 / 24/7 应急** —— 非必要，首封不堆情报。
+   - ⛔ **具体 kV / kVA / 认证要求 / 是否已固定海外供应商** —— 「信息缺口清单」字段，**连模糊表述都不写**；正文只以**提问**落点。
+   - ⛔ **交期 / 价格 / 附件 / 链接** —— 红线。
+6. **待确认 / 存疑**：
+   - ⚠️ **`pauln@` 为 SMTP 实测命中**（非证书式确证）→ 已按"实测 + 交叉"口径处理，**不谎称已验证到人**。
+   - ⚠️ **命名规则单点命中**（`{first}{lastinitial}@` 仅由 `pauln@` 证实）→ **不据规则推演 Michael / Kevin 的邮箱**。
+   - ⚠️ **Paul Nightingale 的完整职责范围（是否管采购）未获取** → 正文不指称其采购职能，仅以 President 身份直呼其名。
+   - ⚠️ **Michael Nightingale（GM）/ Kevin Malcolmson（Dir. Strategic Accounts）邮箱未获取** → 不作触达对象，仅列后续电话补人线索。
+   - ⚠️ **官网页脚 ©2026** → 页面信息应为最新。
+7. **发送时段**：**北京 21:00–22:00**（= ON 东部时间当地 09:00–10:00，夏令时 EDT）。换算依据：ET 夏令 UTC−4，北京 UTC+8，9:00 → 13:00 UTC → 21:00 北京。🔴 **冬令时起（2026-11-01）改为 22:00–23:00**。
+8. **避开发送日**：**周六 / 周日**（加拿大周末）；建议**周二–周四**投递（其办公时间 8:00–17:00 EST + 24/7 应急）。⚠️ 送达：MX = M365，**用正规 ESP 投递**，首封注意退信监控。
+
+> ⚠️ **发信前建议先做的动作**：`pauln@` 为实测命中、M365 域有反制史 —— 首封发出后**密切监控退信**；并行电话 **1-800-517-8512**。

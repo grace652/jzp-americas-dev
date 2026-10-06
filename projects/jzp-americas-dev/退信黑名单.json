@@ -1,0 +1,263 @@
+[
+  {
+    "address": "aenich@swbell.net",
+    "category": "硬退信-地址不存在",
+    "reason": "收件人邮件地址（aenich@swbell.net）不存在，邮件无法送达。 host mx-att.mail.am0.yahoodns.net[74.6.144.41] said: 552 1 Requested mail action aborted, mailbox not found (in reply to end of DATA command)",
+    "first_date": "Wed, 23 Sep 2026 22:15:22 +0800",
+    "count": 1,
+    "seen_dates": [
+      "2026-09-23 14:15"
+    ],
+    "last_date": "Wed, 23 Sep 2026 22:15:22 +0800"
+  },
+  {
+    "address": "hugh@kvaelectric.com",
+    "category": "硬退信-地址不存在",
+    "reason": "收件人邮件地址（hugh@kvaelectric.com）不存在，邮件无法送达。 host mx1.emailsrvr.com[184.106.54.1] said: 550 5.1.1 <hugh@kvaelectric.com>: Email address could not be found, or was misspelled (G8) (in reply to RCPT TO command)",
+    "first_date": "Fri, 18 Sep 2026 01:00:15 +0800",
+    "count": 1,
+    "domain": "kvaelectric.com",
+    "block_scope": "domain",
+    "domain_note": "该域已累计 2 个地址退信，整域封锁",
+    "seen_dates": [
+      "2026-09-17 17:00"
+    ],
+    "last_date": "Fri, 18 Sep 2026 01:00:15 +0800"
+  },
+  {
+    "address": "info@intel-electric.com",
+    "category": "硬退信-地址不存在",
+    "reason": "said: 550-5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information, go to https://suppo",
+    "first_date": "Fri, 25 Sep 2026 00:25:15 +0800",
+    "count": 1,
+    "seen_dates": [
+      "2026-09-24 16:25"
+    ],
+    "last_date": "Fri, 25 Sep 2026 00:25:15 +0800"
+  },
+  {
+    "address": "info@kvaelectric.com",
+    "category": "硬退信-地址不存在",
+    "reason": "收件人邮件地址（info@kvaelectric.com）不存在，邮件无法送达。 host mx1.emailsrvr.com[146.20.161.1] said: 550 5.1.1 <info@kvaelectric.com>: Email address could not be found, or was misspelled (G8) (in reply to RCPT TO command)",
+    "first_date": "Wed, 23 Sep 2026 00:35:38 +0800",
+    "count": 1,
+    "domain": "kvaelectric.com",
+    "block_scope": "domain",
+    "domain_note": "该域已累计 2 个地址退信，整域封锁",
+    "seen_dates": [
+      "2026-09-22 16:35"
+    ],
+    "last_date": "Wed, 23 Sep 2026 00:35:38 +0800"
+  },
+  {
+    "address": "jrav@heicontractors.com",
+    "category": "硬退信-地址不存在",
+    "reason": "The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information, go to https://support.google.com/mail/?p=NoSuch",
+    "first_date": "Wed, 23 Sep 2026 07:05:34 -0700",
+    "count": 1,
+    "seen_dates": [
+      "2026-09-23 14:05"
+    ],
+    "last_date": "Wed, 23 Sep 2026 07:05:34 -0700"
+  },
+  {
+    "address": "supplier@aequitaspower.com",
+    "category": "硬退信-地址不存在",
+    "reason": "The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information, go to https://support.google.com/mail/?p=NoSuch",
+    "first_date": "Thu, 17 Sep 2026 07:00:16 -0700",
+    "count": 1,
+    "seen_dates": [
+      "2026-09-17 14:00"
+    ],
+    "last_date": "Thu, 17 Sep 2026 07:00:16 -0700"
+  },
+  {
+    "address": "feedback@bartlegibson.com",
+    "category": "软退信-服务商拒收",
+    "reason": "said: 550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [YT1PEPF00001E8C.CANPRD01.PROD.OUTLOOK.COM 2026-09-24T16:40:39.967Z 08DF153E89AD795D] (in re",
+    "first_date": "Fri, 25 Sep 2026 00:40:41 +0800",
+    "count": 1,
+    "seen_dates": [
+      "2026-09-24 16:40"
+    ],
+    "last_date": "Fri, 25 Sep 2026 00:40:41 +0800"
+  },
+  {
+    "address": "info@advanceelectrical.net",
+    "category": "软退信-服务商拒收",
+    "reason": "Transformer-and-gear packages for Atlanta projects ––––––––––––––––––––––––––––––––––––––––––––––––––– Further Information 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [DB1PEPF000509F9.eurprd02.prod.outlook.com 2026-09-24T14:41:38.196Z 08DF14811C84D47C] –––––––––––––––––––––––––––––––––––––––––––––",
+    "first_date": "Thu, 24 Sep 2026 16:41:39 +0200",
+    "count": 1,
+    "seen_dates": [
+      "2026-09-24 14:41"
+    ],
+    "last_date": "Thu, 24 Sep 2026 16:41:39 +0200"
+  },
+  {
+    "address": "info@codale.com",
+    "category": "软退信-服务商拒收",
+    "reason": "Transformer supply, Salt Lake City ––––––––––––––––––––––––––––––––––––––––––––––––––– Further Information 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [MAD0EPF000008AD.eurprd04.prod.outlook.com 2026-09-30T15:42:10.541Z 08DF1C7A27666013] –––––––––––––––––––––––––––––––––––––––––––––",
+    "first_date": "Wed, 30 Sep 2026 17:42:12 +0200",
+    "count": 1,
+    "last_date": "Wed, 30 Sep 2026 17:42:12 +0200",
+    "seen_dates": [
+      "2026-09-30 15:42"
+    ],
+    "orig_subject": "Transformer supply, Salt Lake City"
+  },
+  {
+    "address": "info@iscoca.ca",
+    "category": "软退信-服务商拒收",
+    "reason": "said: 550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [QB1PEPF00004E0F.CANPRD01.PROD.OUTLOOK.COM 2026-09-15T14:00:19.412Z 08DF10456F02523C] (in re",
+    "first_date": "Tue, 15 Sep 2026 22:00:25 +0800",
+    "count": 2,
+    "seen_dates": [
+      "2026-09-15 14:00"
+    ],
+    "last_date": "Tue, 15 Sep 2026 22:00:25 +0800"
+  },
+  {
+    "address": "j.miller@williamsele.com",
+    "category": "软退信-服务商拒收",
+    "reason": "said: 550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [BN3PEPF00022BD0.namprd03.prod.outlook.com 2026-09-21T17:00:31.108Z 08DF14854770082F] (in re",
+    "first_date": "Tue, 22 Sep 2026 01:00:35 +0800",
+    "count": 1,
+    "seen_dates": [
+      "2026-09-21 17:00"
+    ],
+    "last_date": "Tue, 22 Sep 2026 01:00:35 +0800"
+  },
+  {
+    "address": "jchamblee@birminghamec.com",
+    "category": "软退信-服务商拒收",
+    "reason": "said: 550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [SJ1PEPF00001CE0.namprd05.prod.outlook.com 2026-09-23T13:50:35.665Z 08DF147C4A505DF4] (in re",
+    "first_date": "Wed, 23 Sep 2026 21:50:41 +0800",
+    "count": 1,
+    "domain": "birminghamec.com",
+    "block_scope": "domain",
+    "domain_note": "该域已累计 2 个地址退信，整域封锁",
+    "seen_dates": [
+      "2026-09-23 13:50"
+    ],
+    "last_date": "Wed, 23 Sep 2026 21:50:41 +0800"
+  },
+  {
+    "address": "jfcovington@integratedps.com",
+    "category": "软退信-服务商拒收",
+    "reason": "com）或其所在服务商拒绝接收来自你邮箱（ian@jiezougroup.com）的邮件。 host integratedps-com.mail.protection.outlook.com[52.101.50.1] said: 550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [CO1PEPF00012E61.namprd05.prod.outlook.com 2026-10-05T15:30:13.858Z 08DF22DE05541F0C] (",
+    "first_date": "Mon, 05 Oct 2026 23:30:15 +0800",
+    "count": 1,
+    "last_date": "Mon, 05 Oct 2026 23:30:15 +0800",
+    "seen_dates": [
+      "2026-10-05 15:30"
+    ],
+    "orig_subject": "Supply for your new and surplus transformer line"
+  },
+  {
+    "address": "mateodiscorpio@gmail.com",
+    "category": "软退信-服务商拒收",
+    "reason": "com/mail/?p=RfcMessageNonCompliant and review <<< 550 5.7.1 RFC 5322 specifications. 956f58d0204a3-677abd08bbbsi39953d50.269 - gsmtp 554 5.0.0 Service unavailable Reporting-MTA: dns; atl4mhob01.registeredsite.com Received-From-MTA: DNS; [10.30.71.86] Arrival-Date: Thu, 1 Oct 2026 13:43:00 -0400 Final-Recipient: RFC822; mateodiscorp",
+    "first_date": "Thu, 1 Oct 2026 13:43:02 -0400",
+    "count": 1,
+    "last_date": "Thu, 1 Oct 2026 13:43:02 -0400",
+    "seen_dates": [
+      "2026-10-01 17:43"
+    ],
+    "orig_subject": ""
+  },
+  {
+    "address": "mlamoureux@westerntechnical.ca",
+    "category": "软退信-服务商拒收",
+    "reason": "550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [QB1PEPF00004E0D.CANPRD01.PROD.OUTLOOK.COM]（batch5 首封，2026-09-29 01:11 投递后 5 秒退信）",
+    "first_date": "Tue, 29 Sep 2026 01:11:59 +0800",
+    "count": 1,
+    "seen_dates": [
+      "2026-09-28 17:11"
+    ],
+    "last_date": "Tue, 29 Sep 2026 01:11:59 +0800"
+  },
+  {
+    "address": "sonny.frazier@powerxfmrservices.com",
+    "category": "软退信-服务商拒收",
+    "reason": "said: 550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [SJ5PEPF00000206.namprd05.prod.outlook.com 2026-09-24T16:15:20.721Z 08DF152E03601E31] (in re",
+    "first_date": "Fri, 25 Sep 2026 00:15:22 +0800",
+    "count": 1,
+    "seen_dates": [
+      "2026-09-24 16:15"
+    ],
+    "last_date": "Fri, 25 Sep 2026 00:15:22 +0800"
+  },
+  {
+    "address": "svitlana@apghvengineering.ca",
+    "category": "软退信-服务商拒收",
+    "reason": "ca）或其所在服务商拒绝接收来自你邮箱（ian@jiezougroup.com）的邮件。 host apghvengineering-ca.mail.protection.outlook.com[52.101.192.1] said: 550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [QB1PEPF00004E0D.CANPRD01.PROD.OUTLOOK.COM 2026-10-05T15:05:10.318Z 08DF22EC31E4DDAA] (",
+    "first_date": "Mon, 05 Oct 2026 23:05:12 +0800",
+    "count": 1,
+    "last_date": "Mon, 05 Oct 2026 23:05:12 +0800",
+    "seen_dates": [
+      "2026-10-05 15:05"
+    ],
+    "orig_subject": "Spec sheets for your transformer specifications"
+  },
+  {
+    "address": "walt@birminghamec.com",
+    "category": "软退信-服务商拒收",
+    "reason": "550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [CH1PEPF0000AD78.namprd04.prod.outlook.com]（跟进信 walt@，2026-09-29 00:54 投递后 6 秒退信）",
+    "first_date": "Wed, 23 Sep 2026 21:50:41 +0800",
+    "count": 2,
+    "domain": "birminghamec.com",
+    "block_scope": "domain",
+    "domain_note": "该域已累计 2 个地址退信，整域封锁",
+    "seen_dates": [
+      "2026-09-28 16:54",
+      "2026-09-23 13:50"
+    ],
+    "last_date": "Tue, 29 Sep 2026 00:54:09 +0800"
+  },
+  {
+    "address": "bwilliams@nrec.net",
+    "category": "软退信-暂时停用",
+    "reason": "net 退信原因 收件人邮件地址（bwilliams@nrec.net）被所在服务商暂时停用，对方不予接收。 host d262512a.ess.barracudanetworks.com[209.222.82.253] said: 550 permanent failure for one or more recipients (bwilliams@nrec.net:blocked) (in reply to end of DATA command) 解决方案 请联系你的收件人，重新核实邮箱地址，或发送到其他收信邮箱。 此外，您还可以 点击这里 获取更多关于退信的帮助信息。 Hi Barry, Your site",
+    "first_date": "Sat, 03 Oct 2026 02:21:23 +0800",
+    "count": 1,
+    "last_date": "Sat, 03 Oct 2026 02:21:23 +0800",
+    "seen_dates": [
+      "2026-10-02 18:21"
+    ],
+    "orig_subject": "Transformers for substation and distribution work"
+  },
+  {
+    "address": "jimmypitts@bellsouth.net",
+    "category": "软退信-暂时停用",
+    "reason": "收件人邮件地址（jimmypitts@bellsouth.net）被所在服务商暂时停用，对方不予接收。 host mx-att.mail.am0.yahoodns.net[98.137.26.68] said: 554 30 Sorry, your message to jimmypitts@bellsouth.net cannot be delivered. This mailbox is disabled (554.30). (in",
+    "first_date": "Thu, 17 Sep 2026 22:00:18 +0800",
+    "count": 1,
+    "seen_dates": [
+      "2026-09-17 14:00"
+    ],
+    "last_date": "Thu, 17 Sep 2026 22:00:18 +0800"
+  },
+  {
+    "address": "tmyers@hotlineconstructioninc.com",
+    "category": "软退信-暂时停用",
+    "reason": "com 退信原因 收件人邮件地址（tmyers@hotlineconstructioninc.com）被所在服务商暂时停用，对方不予接收。 host d172324a.ess.barracudanetworks.com[209.222.82.252] said: 550 permanent failure for one or more recipients (tmyers@hotlineconstructioninc.com:blocked) (in reply to end of DATA command) 解决方案 请联系你的收件人，重新核实邮箱地址，或发送到其他收信邮箱。 此外，您还可以 点击这里 获取更多关于退信的帮助信息。 Hi T",
+    "first_date": "Wed, 30 Sep 2026 00:10:07 +0800",
+    "count": 1,
+    "last_date": "Wed, 30 Sep 2026 00:10:07 +0800",
+    "seen_dates": [
+      "2026-09-29 16:10"
+    ],
+    "orig_subject": "Transformers for your substation projects"
+  },
+  {
+    "address": "contact@scientechnic.ae",
+    "category": "待人工判定",
+    "reason": "定时邮件退信通知 尊敬的用户，您好 很抱歉您预约的定时邮件被退回，以下是该邮件的相关信息： 发送时间： 2026-09-23 13:25:00 收件人：contact@scientechnic.ae 主题：Supplier partnership enquiry — transformer line for your PTD business 请联系你的系统管理员或 点击这里 获取更多关于退信的帮助信息。 腾讯企业邮团队",
+    "first_date": "Wed, 23 Sep 2026 13:27:37 +0800",
+    "count": 1,
+    "seen_dates": [
+      "2026-09-23 05:27"
+    ],
+    "last_date": "Wed, 23 Sep 2026 13:27:37 +0800"
+  }
+]

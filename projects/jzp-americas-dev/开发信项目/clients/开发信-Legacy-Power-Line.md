@@ -1,0 +1,73 @@
+# 开发信 — Legacy Power Line, Inc.（买家 391）
+
+> 名单来源：batch10 名单（legacypowerline.com，美国 MN Wadena）· B 类电力承包商（架空线路 + 变电站维护 + 风暴抢修，服务 co-op / municipal）
+> 交接单：`交接单/batch10_new_374plus/买家391_Legacy_Power_Line_开发信交接单.md`
+> 骨架：**A（通用首触 —— 官网 "Who We Are" 现所有人 + 服务 co-op/municipal 主业）**
+> 收件人：**Beth（职务未确认）** ｜ `beth@legacypowerline.com`（A 档具名 · FMCSA 承运人登记 DOT 1722307 企业自报 = 一手政府源）
+> 发信资格：✅ 通过（⚠️ 收件人职务未确认 → **正文不预设其为决策人，用中性称呼 + 点名转交共同所有人**）
+> 拟发送时段：MN = **中部时区（CT）**｜当地工作日 09:00–10:00 = **北京 22:00–23:00（夏令时）**
+
+> 🔴 **本封特殊说明（必读）**：`beth@legacypowerline.com` 来自 FMCSA 登记，**收件人 Beth 的姓氏与职务均未确认**（官网未列此人，疑办公室/账务岗）。
+> **决策人为共同所有人 Bill Roggenkamp / Ethan Loock（2023 年收购公司），但二人本人邮箱未找到。**
+> → 故本封 **① 称呼用中性 `Hello,`（不写 `Hi Beth,` 预设其为决策人）；② 首句点名请转交共同所有人**。
+
+---
+
+## 一、主题行（3 选 1）
+
+1. `Transformers for co-op line work`
+2. `A transformer source for co-op projects`
+3. `UL listed transformers for overhead crews`
+
+> 选型说明：三条均 3–6 词、无全大写、无感叹号、无 spam 词；未出现容量 / 电压 / 价格 / 交期数字。主题行 1 直接呼应其服务 **co-op / municipal** 的架空线路主业。
+
+---
+
+## 二、正文（137 词）
+
+```
+Hello,
+
+Could you forward this to Bill Roggenkamp or Ethan Loock?
+
+Your site notes they took over Legacy Power Line in 2023, and that you serve rural electric cooperatives and municipals across Minnesota and the surrounding states, with overhead line work and substation maintenance at the core. New ownership like that is often when the supplier list gets a second look.
+
+We're JZPE Power Transformer, a manufacturer in Suzhou, China. Our three-phase liquid-immersed line is UL listed — E541627 for distribution and pad-mount, 45–5,000 kVA; E541626 for power transformers, 750–110,000 kVA — and built to IEEE C57.12.
+
+For your co-op and municipal work, which kVA and kV do you specify most? Reply "SPECS" and I'll send the matching spec sheets, UL certificates and factory test reports.
+
+If this isn't useful, reply "stop" and I won't write again.
+
+Best regards,
+
+Ian Chou
+```
+
+---
+
+## 三、中文注解（8 项）
+
+- **收件人**：**Beth（职务未确认）**（`beth@legacypowerline.com`）
+1. **发信资格**：✅ **通过** —— 域名 `legacypowerline.com` 有 MX（Google Workspace，非 NXDOMAIN、非双域）；收件人不在「不再联系名单」；FMCSA 登记 2026-09-06 更新、官网现行。
+2. **邮箱档位**：**A（具名个人邮箱，一手政府源）** —— `beth@legacypowerline.com`（FMCSA DOT 1722307 企业自报）。⚠️ **收件人职务未确认**（官网未列此人）→ **按「点名转交」使用，不作决策人直邮**；称呼用中性 `Hello,`。⚠️ 缺 SMTP 第二源 → 首封密切监控退信；并行电话 **(218) 632-5888**。
+3. **骨架**：**A（通用首触）** —— 接触路径源自官网 "Who We Are" 页 + FMCSA 登记。
+4. **钩子**：**「新老板接手窗口 + co-op/municipal 主业」类** —— 落点事实（官网一手源）：首页原句 *"build relationships with **Cooperatives and municipals** in MN and surrounding states … specialize in **overhead installation and maintenance, as well as substation maintenance and storm restoration**"*；"Who We Are" 页明列 **Bill Roggenkamp 与 Ethan Loock 于 2023 年收购公司**。逻辑链：**新所有人接手（投入期）+ 架空线路/变电站维护主业** → 供应商切入窗口 → 落点收在**资料**。⚠️ **未断言其自采变压器 / 现有供应商**（交接单列为关键缺口 → 以 CTA 提问落点）。
+5. **刻意未用的内容**：
+   - ⛔ **`Hi Beth,` 决策人式称呼** —— 收件人职务未确认，**改中性 `Hello,`**。
+   - ⛔ **成立年份（2008）** —— 正文不提年份。
+   - ⛔ **车队数（55 trucks / 31 drivers）/ 员工数 / 营收** —— 红线，正文不引用任何数字。
+   - ⛔ **创始人 Jim Koranda** —— 2023 年已出售退出，**非现联系人**，不提。
+   - ⛔ **单相柱上变（E544629）** —— 其杆上变需求虽强，但**仅 ECD 计划函、不可称 certified** → 首封不提。
+   - ⛔ **干变** —— 对美国客户完全不谈（无 UL）。
+   - ⛔ **具体 kV / kVA / 现有供应商 / 是否进口** —— 交接单「信息缺口清单」字段，正文只以提问落点。
+   - ⛔ **交期 / 价格 / 附件 / 链接** —— 红线。
+6. **待确认 / 存疑**：
+   - ⚠️ **收件人 Beth 身份未知**（官网未列；疑办公室/账务岗）→ **不可当决策人直呼**，本封以「中性称呼 + 点名转交」处理。
+   - ⚠️ **决策人本人邮箱未找到**（Bill Roggenkamp / Ethan Loock）→ 只能经 `beth@` 转交；**若首封无回应，不得**对同域 `contact@` / `ar@` / `ap@` 再各发一封（一家只发 1 人）。
+   - ⚠️ **`beth@` 未经 SMTP 复核**（本轮 SMTP 不可用）→ 已按「一手政府登记」口径处理，**不谎称已验证到人**。
+   - ⚠️ **「2023 年收购」为官网明写事实** → 属 ① 级可直接写；**任职时长未获取**，正文不指称年限。
+   - ⚠️ **其项目是否自采变压器未获取** → CTA 直接问其规格，避免切入落空。
+7. **发送时段**：**北京 22:00–23:00**（= MN 中部时间当地 09:00–10:00，夏令时 CDT）。换算依据：CT 夏令 UTC−5，北京 UTC+8，9:00 → 14:00 UTC → 22:00 北京。🔴 **冬令时起（2026-11-01）改为 23:00–24:00**。
+8. **避开发送日**：**周六 / 周日**（美国周末）；建议**周二–周四**投递。⚠️ 送达：MX = **Google Workspace**（对枚举探测不友好）→ 用正规 ESP 投递，**首封密切监控退信**。
+
+> ⚠️ **发信前建议先做的动作**：`beth@` 收件人职务未确认 → 首封发出后**密切监控退信**；并行电话 **(218) 632-5888** 确认 Beth 职务并请求转交 Bill Roggenkamp / Ethan Loock。

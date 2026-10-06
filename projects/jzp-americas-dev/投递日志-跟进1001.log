@@ -1,0 +1,48 @@
+队列文件（覆盖）：发信队列-跟进1001.json
+🔒 已加锁 .daemon.lock（PID 57092）
+守候模式启动：待发 33 封
+  最早 2026-10-01 22:12  /  最晚 2026-10-02 00:58（北京时间）
+  （中断后重跑此命令可续发，已发的不会重复）
+
+  ✅ [2026-10-01 22:12:21] 开发信-跟进-CW-Galle.md → cwgallecontracting@gmail.com
+  ✅ [2026-10-01 22:15:24] 开发信-跟进-Romar-Electrical.md → info@romar.ca
+  ✅ [2026-10-01 22:18:28] 开发信-跟进-Hillfort.md → info@hillfort.us
+  ✅ [2026-10-01 22:21:31] 开发信-跟进-MVA-Power.md → tender@mvapower.com
+  ✅ [2026-10-01 22:24:34] 开发信-跟进-Tri-State-Utility.md → rbatch@tsup.com
+  ✅ [2026-10-01 22:27:38] 开发信-跟进-Irby-Utilities.md → irbyonline@irby.com
+  ✅ [2026-10-01 22:30:41] 开发信-跟进-Amped-Electric.md → ampedelectricllc01@gmail.com
+  ✅ [2026-10-01 22:33:44] 开发信-跟进-Brownstown-Electric.md → ggoshorn@brownstown.com
+  ✅ [2026-10-01 22:36:47] 开发信-跟进-Fletcher-Reinhardt.md → sales@fr-electric.com
+  ✅ [2026-10-01 22:39:51] 开发信-跟进-Power-Line-Supply.md → jeff_carls@uscco.com
+  ✅ [2026-10-01 22:42:54] 开发信-跟进-RA-Electrical.md → info@raelectrical.ca
+  ✅ [2026-10-01 22:45:57] 开发信-跟进-KBS-Electrical.md → info@kbselectric.com
+  ✅ [2026-10-01 22:49:00] 开发信-跟进-Montgomery-Industrial.md → pmontgomery@montgomeryindustrial.com
+  ✅ [2026-10-01 22:52:04] 开发信-跟进-KPC-Power.md → akif@kpcpower.com
+  ✅ [2026-10-01 22:55:07] 开发信-跟进-Border-States.md → pnovak@borderstates.com
+  ✅ [2026-10-01 22:58:11] 开发信-跟进-RIES-Equipment.md → shane@riesequipment.ca
+  ✅ [2026-10-01 23:01:14] 开发信-跟进-ABCO-Supply.md → brian.cabral@abcosupply.com
+  ✅ [2026-10-01 23:04:17] 开发信-跟进-Alliance-Engineering.md → peter@allianceengineering.ca
+  ✅ [2026-10-01 23:07:21] 开发信-跟进-Ardoch-Electric.md → sross@ardoch.ca
+  ✅ [2026-10-01 23:10:24] 开发信-跟进-NorTec-Group.md → mzajac@nortecgroup.com
+  ✅ [2026-10-01 23:13:27] 开发信-跟进-Bradmoore-Electric.md → bradmoore@live.ca
+  ✅ [2026-10-01 23:16:31] 开发信-跟进-RS-Breakers.md → daniel.munro@rsbreakers.com
+  ✅ [2026-10-01 23:19:34] 开发信-跟进-Shermco-Industries.md → phil.petrocelli@shermco.com
+  ✅ [2026-10-01 23:22:37] 开发信-跟进-JRS-Industrial.md → bretr@jrs.ca
+  ✅ [2026-10-01 23:25:41] 开发信-跟进-Prairie-Central.md → hmcnicolljr@pclsupply.mb.ca
+  ✅ [2026-10-01 23:28:44] 开发信-跟进-Access-Electrical.md → danny@accesselectricalsupply.ca
+  ✅ [2026-10-01 23:31:47] 开发信-跟进-Purcee-Industrial-Power.md → les@purceepower.com
+  ✅ [2026-10-01 23:34:51] 开发信-跟进-Trotter-and-Morton.md → dryan@tmlgroup.com
+  ✅ [2026-10-01 23:58:03] 开发信-跟进-Pro-Energy.md → allen.sawchuk@proenergy.ca
+  ✅ [2026-10-02 00:02:03] 开发信-跟进-Vancouver-Industrial-Electric.md → info@vie-bc.com
+  ✅ [2026-10-02 00:21:03] 开发信-跟进-Ross-Morrison.md → rme@rmelectric.com
+  ✅ [2026-10-02 00:39:03] 开发信-跟进-K2-Electric.md → info@k2electric.com
+队列文件（覆盖）：发信队列-跟进1001.json
+⚠️  发现过期锁（PID 57092 已不存在），继续启动。
+🔒 已加锁 .daemon.lock（PID 74770）
+守候模式启动：待发 1 封
+  最早 2026-10-02 00:58  /  最晚 2026-10-02 00:58（北京时间）
+  （中断后重跑此命令可续发，已发的不会重复）
+
+  ✅ [2026-10-02 00:58:03] 开发信-跟进-Valley-Electrical.md → customerservice@vesuppliers.com
+
+守候结束：成功 1 封 / 失败 0 封

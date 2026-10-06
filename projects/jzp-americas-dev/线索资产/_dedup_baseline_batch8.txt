@@ -1,0 +1,698 @@
+# batch8 排重基线（自动生成，勿手改）
+# 来源：v2 基线 + batch6 名单 + batch7 名单 + 成交客户 16 家 + 我方代理
+# 生成：scripts/build_baseline_batch8.py
+3e distribution inc	batch7
+3edistribution ca	batch7
+abcosupply	v2
+abcosupplyandservice	v2
+abcosupplyandserviceltd	v2
+ac tesla	成交客户
+accesselectricalsupply	v2
+accesselectricalsupplyltd	v2
+advanceelectrical	v2
+aeci	v2
+aecon	v2
+aecon com	batch6
+aecon power	batch6
+aecon power services	batch6
+aeconpowerservices	v2
+aequitaspower	v2
+aescoelectricalsales	v2
+aescoelectricalsalesltd	v2
+aeselectric	v2
+agent	v2
+agilix	v2
+ainsworth	v2
+ainsworth com	batch6
+ainsworth inc	batch6
+ainsworthinc	v2
+alamo	batch7
+alamo transformer	batch7
+alamotransformer com	batch7
+alaskalinebuilders	v2
+alberta breaker	batch6
+alberta breaker and supply	batch6
+albertabreaker	v2
+albertabreaker net	batch6
+albertabreakerandsupply	v2
+alcanelectric	v2
+alcoelectric	v2
+aldan	batch7
+aldan electric supply inc	batch7
+aldanelectric com	batch7
+allianceengineering	v2
+allianceengineeringandconstruction	v2
+allianceengineeringconstruction	v2
+allianceme	v2
+allied projects	batch6
+allied projects ltd	batch6
+alliedprojects	v2
+alliedprojects ca	batch6
+alliedprojectsltd	v2
+ameleco	v2
+ameleco com	batch6
+american line	batch6
+american line construction	batch6
+americanlineconstruction	v2
+americanlineconstruction com	batch6
+amex electrical	batch6
+amex electrical ltd	batch6
+amexelectrical	v2
+amexelectrical ca	batch6
+amexelectricalltd	v2
+ampedelectric	v2
+ampko electric	batch6
+ampko electric 2006 inc	batch6
+ampkoelectric	v2
+ampkoelectric ca	batch6
+ampkoelectric2006inc	v2
+ampspowerline	v2
+amtek	v2
+anguilla electricity company limited	成交客户
+ardoch	v2
+ardochelectric	v2
+ardochelectricinc	v2
+atd power solutions	成交客户
+atek	batch7
+atek distribution	batch7
+atekdistribution com	batch7
+aurumelectric	v2
+awhighvoltage	v2
+b and m	batch7
+bartlegibson	v2
+beamslighting	v2
+beaverelectricalmachinery	v2
+besco	batch7
+besco qc ca	batch7
+betronelectric	v2
+bghighvoltage	v2
+bibico electric inc	成交客户
+bigstateelectric	v2
+birminghamelectric	v2
+black and mcdonald limited	batch7
+blackandmcdonald com	batch7
+borderstates	v2
+bossieelectric	v2
+boundary electric	成交客户
+bradmoore	v2
+bradmooreelectric	v2
+bradmooreelectriccompanyltd	v2
+broadhead construction	batch6
+broadheadconstruction	v2
+broadheadconstruction ca	batch6
+brownstownelectric	v2
+butler supply	batch6
+butler supply inc	batch6
+butlersupply	v2
+butlersupply com	batch6
+butlersupplyinc	v2
+bvelectric	v2
+cachevalley	v2
+cachevalleyelectric	v2
+canadian industrial electrical supply	batch7
+canadianindustrial net	batch7
+canem	v2
+cava electric	batch6
+cavaelectric	v2
+cavaelectric com	batch6
+cayer	batch7
+cayer transformateurs lectriques	batch7
+cayertransformateurs com	batch7
+ceeus	v2
+central island powerline ltd	batch7
+centralmoloney	v2
+centralutility ca	batch7
+cescityelectricsupply	v2
+chancellor	batch7
+chancellor inc	batch7
+chancellorinc com	batch7
+chathamelectric	v2
+cies	batch7
+cityelectricsupply	v2
+cityelectricsupplycanada	v2
+codale	v2
+codaleelectricsupply	v2
+colonial electric	batch6
+colonialelectric	v2
+colonialelectric com	batch6
+compass electric	batch6
+compass electric ltd	batch6
+compasselectric	v2
+compasselectric net	batch6
+compasselectricltd	v2
+continentalpower	v2
+cooperelectric	v2
+cqselectric	v2
+crownmountain	v2
+crownmountainsolutions	v2
+crownmtns	v2
+cwgalle	v2
+danapower	v2
+danapowerandpoles	v2
+dechhighvoltage	v2
+dejackson	v2
+desch nes and fils	batch6
+deschenes	v2
+deschenes ca	batch6
+deschenesandfils	v2
+distributeck	v2
+dixonelectric	v2
+domino highvoltage	成交客户
+drunken moose enterprises inc	成交客户
+drycore	v2
+drycore2002	v2
+drycoreelectric	v2
+drycoreelectric2002inc	v2
+drycoreinc	v2
+dulles electric	batch6
+dulles electric supply corp	batch6
+dulleselectric	v2
+dulleselectric com	batch6
+dulleselectricsupplycorp	v2
+duplexelectrical	v2
+duplexenterprises	v2
+duplexenterpriseslimited	v2
+dynagrid	v2
+dynagrid com	batch6
+earlcarrelectric	v2
+earlcarrelectriccanadaltd	v2
+ebhorsman	v2
+ececl	v2
+ecelectric	v2
+echoelectric	v2
+egan	v2
+egancompany	v2
+elecan	batch7
+elecan ca	batch7
+electric motor supply company	batch7
+electric south	成交客户
+electrical wholesale supply co inc	batch7
+electricalwholesale com	batch7
+electricalwholesalers	v2
+electricalwholesalersincnewengland	v2
+electricalwholesalersne	v2
+electrozadsupply	v2
+elliottelectric	v2
+emsco	batch7
+emscomn com	batch7
+entogo	v2
+epetransformers	v2
+etac	v2
+etacserviceandsupply	v2
+etacserviceandsupplyinc	v2
+etcinc	v2
+etcinc net	batch6
+everlastelectric	v2
+every thing construction etc	batch6
+everythingconstructionetc	v2
+evolt	batch7
+evolt ca	batch7
+ewelelectricalwholesale	v2
+ewelelectricalwholesalers	v2
+ewinc	v2
+expanse electrical	batch6
+expanseelectrical	v2
+expanseelectrical com	batch6
+federalpacific	v2
+firefly power	batch6
+firefly power and energy	batch6
+fireflypowerandenergy	v2
+fireflypowerenergy	v2
+fireflypowerenergy com	batch6
+fletcherreinhardt	v2
+franklinempire	v2
+fullfordelectric	v2
+fusion ind com	batch7
+fusion power	batch7
+futech	v2
+futech ca	batch6
+gdiainsworth	v2
+generalpacific	v2
+genpac	v2
+gerrie	v2
+gerrie com	batch6
+gerrie electric	batch6
+gerrie electric wholesale	batch6
+gerrieelectricwholesale	v2
+gescansonepar	v2
+gimpel electric	batch6
+gimpel electric supply	batch6
+gimpelelectric	v2
+gimpelelectric com	batch6
+gimpelelectricsupply	v2
+globe	batch7
+globe electric supply co inc	batch7
+globeelec com	batch7
+glselectric	v2
+gnstechnologies	v2
+grae	batch7
+grae power products	batch7
+graeltd ca	batch7
+gray	batch7
+gray construction ltd	batch7
+gray lectrique	batch7
+graybarcanadaoshawa	v2
+grayelectrique com	batch7
+graypowerline ca	batch7
+green mountain	batch6
+green mountain electric supply	batch6
+greenmountainelectric	v2
+greenmountainelectric com	batch6
+greenmountainelectricsupply	v2
+gresco	v2
+grescoutilitysupply	v2
+gridlink	v2
+gross electric	batch7
+gross electric supply	batch7
+grosselectric com	batch7
+groupedeschenes	v2
+guerryelectrical	v2
+guillevin	v2
+heiutilitycontractors	v2
+helberg	batch7
+helberg power supply	batch7
+helbergpowersupply com	batch7
+hertzengineering	v2
+hertzengineeringinc	v2
+high side electric	batch7
+high side electric llc	batch7
+high voltage specialists	batch7
+highsideelectric com	batch7
+hightolowvoltage	v2
+highvoltagespecialists com	batch7
+hillfort	v2
+hollandindustrial	v2
+hoopercorp	v2
+hoopercorporation	v2
+hot line construction	batch6
+hotlineconstruction	v2
+hotlineconstructioninc	v2
+hotlineconstructioninc com	batch6
+houleelectric	v2
+hsenergysystem	v2
+hudco	batch7
+hudco ca	batch7
+hudco electric supply ltd	batch7
+iconic	v2
+iconicpower	v2
+iesbuy	v2
+incom electric	batch6
+incom electric corp	batch6
+incomelectric	v2
+incomelectric com	batch6
+incomelectriccorp	v2
+independentelectricsupply	v2
+index	v2
+industrialtests	v2
+inline electric	batch6
+inline electric supply co	batch6
+inlineelectric	v2
+inlineelectric com	batch6
+inlineelectricsupplyco	v2
+intelelectric	v2
+intellogic engineering inc	成交客户
+irbyutilities	v2
+iscoca	v2
+isginc	v2
+ispice foods	成交客户
+jdd electrical wholesale	batch6
+jddelectricalsupply	v2
+jddelectricalwholesale	v2
+jddelectricalwholesale com	batch6
+jebcoagencies	v2
+jebcoagenciesinc	v2
+jhlarson	v2
+jranck	v2
+jranckelectric	v2
+jrsindustrialandpowersolutions	v2
+js energy ltd	成交客户
+jungbunzlauer canada inc	成交客户
+k line	batch7
+k line ca	batch7
+k line maintenance and construction ltd	batch7
+k2electric	v2
+k2kpowersystems	v2
+kbselectrical	v2
+kendallelectric	v2
+killmerelectric	v2
+kirbyelectric	v2
+kodionenergy	v2
+kpcpower	v2
+kpcpowerelectrical	v2
+kpcpowerelectricalltd	v2
+kraunelectric	v2
+kvaelectric	v2
+lappelectric	v2
+leadingedge	v2
+lembergelectric	v2
+linestarutilitysupply	v2
+linestarutilitysupplyinc	v2
+lizco	batch7
+lizco sales and rentals	batch7
+lizcosales com	batch7
+loeb electric	batch6
+loebelectric	v2
+loebelectric com	batch6
+lumen	v2
+maddox	v2
+maddoxtransformer	v2
+magnaiv	v2
+main electric	batch6
+main electric supply	batch6
+mainelectric	v2
+mainelectric com	batch6
+mainelectricsupply	v2
+marchand	batch6
+marchand electric	batch6
+marchandelectric	v2
+marchandelectric com	batch6
+marchandelectricalcompany	v2
+mars	batch7
+mars electric	batch6
+mars transformers llc	batch7
+marselectric	v2
+marselectric com	batch6
+marstransformers com	batch7
+martech	v2
+martechelectrical	v2
+martechelectricalsystemsltd	v2
+martin	v2
+maximapowergroup	v2
+mccaine	v2
+mccaineelectric	v2
+mccaineelectricltd	v2
+mcloughlan	batch6
+mcloughlan supplies	batch6
+mcloughlans	v2
+mcloughlansupplies	v2
+mcloughlansupplies com	batch6
+mcnaughtonmckay	v2
+megagrid	batch7
+megagrid supply llc	batch7
+megagridsupply com	batch7
+megawattelectric	v2
+metro wire	batch7
+metro wire and cable corporation	batch7
+metrowire net	batch7
+midlite	batch7
+midlite ca	batch7
+midlite powerline construction	batch7
+midway	batch7
+midway power line services ltd	batch7
+midwaypower com	batch7
+montgomeryindustrial	v2
+montgomeryindustrialservices	v2
+monvalleyintegration	v2
+moodyelectric	v2
+mottelectric	v2
+mvapower	v2
+mvimonvalleyintegration	v2
+nationalconductor	v2
+nationalconductorinc	v2
+needco	v2
+nesco	batch7
+nesco electric	batch7
+nescoelectric com	batch7
+netwes	v2
+noramco	v2
+nortec	v2
+nortecgroup	v2
+nortecgroupltd	v2
+northcoast	v2
+northeast	v2
+northeastelectrical	v2
+northeastelectricalnedco	v2
+northernhighvoltage	v2
+o connell electric	batch6
+oconnellelectric	v2
+oconnellelectric com	batch6
+onesourcedistributors	v2
+ontariohighvoltage	v2
+oregonelectricservice	v2
+packpower	v2
+packpowerco	v2
+penco electrical	batch6
+penco electrical contractors	batch6
+pencoelectric	v2
+pencoelectric com	batch6
+pencoelectricalcontractors	v2
+pengcorp	batch7
+pengcorp ca	batch7
+pengcorp ltd	batch7
+pfmtechnical	v2
+pfmtechnicalsolutions	v2
+pfmts	v2
+phasorengineering	v2
+pittselectric	v2
+pnh engineering	batch7
+pnhengineering com	batch7
+power electronics	成交客户
+powerelectronics	v2
+powerguardian	v2
+powerguardiansolutions	v2
+powerlinesupply	v2
+powersolutionsgroup	v2
+powersubstationservices	v2
+powertecelectric	v2
+powertel	batch7
+powertel ca	batch7
+powertel utilities contractors limited	batch7
+prairiecentrallinesupply	v2
+prairiecentrallinesupplyltd	v2
+premierelectric	v2
+priester	v2
+priestermellnicholson	v2
+prime power	batch6
+prime power services	batch6
+primepower	v2
+primepower services	batch6
+primepowerservices	v2
+pritchardelectric	v2
+pritchardpowersystems	v2
+pro 1 electric inc	成交客户
+proenergy	v2
+progressiveelectric	v2
+progressiveelectricwv	v2
+province electric	batch6
+province electric com	batch6
+province electric supply ltd	batch6
+provinceelectric	v2
+provinceelectricsupplyltd	v2
+ps technologies inc	batch7
+psti	batch7
+psti ca	batch7
+ptitransformers	v2
+ptspowertransformerservices	v2
+purceeindustrialpower	v2
+queco	v2
+queco ca	batch6
+queco lectrique lt e	batch6
+quecoelectriqueltee	v2
+r e warner	batch6
+r e warner and associates	batch6
+raelectrical	v2
+rec supply	batch6
+recsupply	v2
+recsupply com	batch6
+reeveelectric	v2
+renegade	batch7
+renegade electric supply	batch7
+renegadeelectricsupply com	batch7
+resapower	v2
+resapowercomponents	v2
+resco	v2
+rev amp	batch7
+rev amp electrical equipment ltd	batch7
+revampelectrical com	batch7
+rewarner	v2
+rewarner com	batch6
+rewarnerandassociates	v2
+rexel	v2
+rexelutility	v2
+rhododendronelectric	v2
+riesequipment	v2
+riesutilitysupply	v2
+riesutilitysupplyriesequipmentandutilitydistribution	v2
+rionexenergy	v2
+risingedge	v2
+rms energy	batch7
+rmsenergy com	batch7
+robertselectrical	v2
+robertselectricalmobile	v2
+robertson	v2
+rogerselectrical	v2
+romarelectrical	v2
+rossmorrison	v2
+rsbreakersandcontrols	v2
+rural electric supply cooperative	batch6
+ruralelectricsupplycooperative	v2
+saa consulting ltd	batch7
+saaconsulting ca	batch7
+sargentelectric	v2
+sasco contractors	batch6
+sasco contractors ltd	batch6
+sascocontractors	v2
+sascocontractors com	batch6
+sascocontractorsltd	v2
+schaedleryesco	v2
+scientechnic	v2
+scott electric	batch6
+scottelectric	v2
+scottelectric com	batch6
+seco	batch7
+sescoelectrozad	v2
+shermco	v2
+shermcoindustries	v2
+shermcoindustriescanadainc	v2
+solectric	v2
+solomoncorp	v2
+sonepar	v2
+source atlantic	batch6
+sourceatlantic	v2
+sourceatlantic ca	batch6
+sourcesupply	v2
+southcharleston	v2
+southcharlestonelectric	v2
+southeast power	batch7
+southeast power corporation	batch7
+southeastpower com	batch7
+spark power	batch6
+spark power corp	batch6
+sparkpowercorp	v2
+sparkpowercorp com	batch6
+standardelectricsupply	v2
+stanion	v2
+stanion com	batch6
+stanion wholesale electric co	batch6
+stanionwholesaleelectricco	v2
+stateelectric	v2
+station power	batch6
+station power construction	batch6
+stationpowerconstruction	v2
+stationpowerconstruction com	batch6
+stationpwr	v2
+steinmetz	v2
+steinmetzcorp	v2
+steinmetzcorporation	v2
+stewartelectric	v2
+struthersengineering	v2
+sturgeon electric	batch6
+sturgeonelectric	v2
+sturgeonelectric com	batch6
+subengco com	batch7
+substation engineering company	batch7
+summit	v2
+summitelectric	v2
+sunbeltsolomon	v2
+sunbelttransformer	v2
+surplec	batch7
+surplec com	batch7
+swelectricsupply	v2
+switchgear us	batch7
+switchgearus	batch7
+switchgearus llc	batch7
+tandnelectricalcontractingltd	v2
+tech energy america llc	batch7
+techenergyamerica com	batch7
+techline	v2
+technicalpowerservices	v2
+tenergy	batch7
+tenergy nm	batch7
+tenergynm com	batch7
+texaselectriccooperatives	v2
+tidal electrical	batch6
+tidal electrical inc	batch6
+tidalelectrical	v2
+tidalelectrical ca	batch6
+tidalelectricalinc	v2
+titanelectricalgroup	v2
+titanqualitypower	v2
+tmlgroup	v2
+tnelectrical	v2
+torbram electric	batch6
+torbram electric supply	batch6
+torbramelectric	v2
+torbramelectric com	batch6
+torbramelectricsupply	v2
+trans power	batch7
+trans power construction 1999 ltd	batch7
+transformer exchange	batch7
+transformer exchange inc	batch7
+transformer network	batch7
+transformer network inc	batch7
+transformerengineeringservices	v2
+transformerexchange com	batch7
+transformernet com	batch7
+transformertechnologies	v2
+transpowerconstruction com	batch7
+trinitypower	v2
+trinitypowercorp	v2
+tristateutility	v2
+trotterandmorton	v2
+trotterandmortongroupofcompanies	v2
+truelinepower	v2
+tryggr	v2
+tryggrtechnicalservices	v2
+turtlehughes	v2
+united electric	batch6
+united electric supply co	batch6
+unitedelectric	v2
+unitedelectric com	batch6
+unitedelectricsupplyco	v2
+universal utility supply co	batch7
+universalelectricservices	v2
+usesi	v2
+utbtransformers	v2
+utilitytransformerbrokers	v2
+uusco	batch7
+uusco com	batch7
+valardconstruction	v2
+valleyelectrical	v2
+valleyelectricalsuppliers	v2
+valleytransformer	v2
+vancouverindustrialelectric	v2
+vanert	v2
+vanmeter	v2
+virginiatransformer	v2
+voltcoreelectrical	v2
+walterswholesale	v2
+ward electric	batch7
+ward electric company	batch7
+wardelectriccompany com	batch7
+washingtonstatepower	v2
+webb electric	batch7
+webb electric company of florida inc	batch7
+webbelectric com	batch7
+wescodistributioncanada	v2
+western line builders	batch7
+western pacific enterprises ltd	batch7
+westernlinebuilders com	batch7
+westerntechnical	v2
+westerntechnicalinstallations	v2
+westerntechnicalinstallationsltd	v2
+westmoreland	v2
+whitmore	batch7
+whitmore construction	batch7
+whitmoreconstruction net	batch7
+wholesale electric	batch6
+wholesale electric supply	batch6
+wholesaleelectric	v2
+wholesaleelectric com	batch6
+wholesaleelectricsupply	v2
+wil surge	batch7
+wil surge electric	batch7
+williamselectric	v2
+wilson high voltage inc	成交客户
+wilsurge com	batch7
+winasiapower	v2
+winasiapowercorporation	v2
+wolfetraviselectric	v2
+worldelectric	v2
+worldelectricsupply	v2
+wpe ca	batch7
+wues	v2
+xentric	batch7
+xentric ca	batch7
+xentric engineering ltd	batch7
+yaleelectric	v2
+zeuselectric	v2

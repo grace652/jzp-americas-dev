@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JZPE Email Signature — Text Only</title>
+<style>
+  :root{ --ink:#1f2937; --muted:#6b7280; --line:#dfe3e8; --navy:#0f3d63; --accent:#c8102e; --bg:#f4f6f8; }
+  *{box-sizing:border-box}
+  body{margin:0;padding:40px 24px 80px;background:var(--bg);color:var(--ink);
+       font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+       -webkit-font-smoothing:antialiased;}
+  .wrap{max-width:760px;margin:0 auto}
+  h1{font-size:22px;font-weight:700;margin:0 0 6px;letter-spacing:-.01em}
+  .sub{font-size:13.5px;color:var(--muted);margin:0 0 20px;line-height:1.6}
+  .note{background:#fff;border:1px solid var(--line);border-left:3px solid var(--navy);
+        border-radius:6px;padding:14px 18px;font-size:13px;color:#374151;line-height:1.7;margin:18px 0 30px;}
+  .note b{color:var(--navy)}
+  .note.warn{border-left-color:var(--accent)} .note.warn b{color:var(--accent)}
+  .card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:30px 34px;margin-bottom:24px;
+        box-shadow:0 1px 2px rgba(16,24,40,.04);}
+  .label{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;
+         color:#fff;background:var(--navy);padding:3px 10px;border-radius:4px;margin-bottom:6px;}
+  .label.alt{background:var(--accent)} .label.mute{background:#64748b}
+  .desc{font-size:12.5px;color:var(--muted);margin:8px 0 22px;line-height:1.65}
+  .stage{border:1px dashed #cbd5e1;border-radius:6px;padding:24px 20px;background:#fcfdfe;overflow-x:auto}
+  pre.plain{background:#0f172a;color:#e2e8f0;border-radius:8px;padding:18px 20px;font-size:12.5px;
+            line-height:1.65;overflow-x:auto;font-family:ui-monospace,SFMono-Regular,Consolas,monospace;}
+  code{background:#f1f5f9;border:1px solid #e2e8f0;border-radius:4px;padding:1px 5px;font-size:12px;
+       font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <h1>Text-Only Email Signature</h1>
+  <p class="sub">Ian Chou · Sales Manager · JZPE POWER TRANSFORMER CO., LTD.</p>
+
+  <div class="note">
+    <b>Why text-only works:</b> no images means nothing can break, nothing gets blocked,
+    the recipient can copy your email and phone number, and it renders identically in Gmail,
+    Outlook, QQ Mail, 163 and WeCom. This is the safest possible signature.
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- OPTION 1 — WITH DIVIDER RULE (designed, still no image)       -->
+  <!-- ============================================================ -->
+  <div class="card">
+    <span class="label">Option 1 · Recommended</span>
+    <p class="desc">
+      <b>Designed text block.</b> Uses a thin bottom border as a divider — this is pure CSS,
+      not an image, so it cannot break. Looks structured and professional while remaining
+      100% text. Best default.
+    </p>
+
+    <div class="stage">
+      <!-- ============ COPY FROM HERE ============ -->
+      <table cellpadding="0" cellspacing="0" border="0" style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#1f2937;line-height:1.5;border-collapse:collapse;">
+        <tr>
+          <td style="padding:0 0 4px 0;">
+            <div style="font-size:16px;font-weight:bold;color:#0f3d63;letter-spacing:.2px;">Ian Chou</div>
+            <div style="font-size:12px;color:#6b7280;padding-top:2px;">Sales Manager &nbsp;|&nbsp; JZPE POWER TRANSFORMER CO., LTD.</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:0 0 10px 0;border-bottom:2px solid #0f3d63;font-size:0;line-height:0;">&nbsp;</td>
+        </tr>
+        <tr>
+          <td style="padding:11px 0 0 0;">
+            <table cellpadding="0" cellspacing="0" border="0" style="font-family:Arial,Helvetica,sans-serif;font-size:12.5px;color:#374151;line-height:1.85;border-collapse:collapse;">
+              <tr>
+                <td style="padding:0 10px 0 0;color:#9aa4b2;">E</td>
+                <td style="padding:0;"><a href="mailto:ian@jiezougroup.com" style="color:#0f3d63;text-decoration:none;">ian@jiezougroup.com</a></td>
+              </tr>
+              <tr>
+                <td style="padding:0 10px 0 0;color:#9aa4b2;">M</td>
+                <td style="padding:0;">WhatsApp / WeChat: <a href="https://wa.me/8618756127603" style="color:#0f3d63;text-decoration:none;">+86 187 5612 7603</a></td>
+              </tr>
+              <tr>
+                <td style="padding:0 10px 0 0;color:#9aa4b2;">W</td>
+                <td style="padding:0;"><a href="https://www.jiezougroup.com" style="color:#0f3d63;text-decoration:none;font-weight:bold;">www.jiezougroup.com</a></td>
+              </tr>
+              <tr>
+                <td style="padding:0 10px 0 0;color:#9aa4b2;vertical-align:top;">A</td>
+                <td style="padding:0;color:#4b5563;">Building D, Suzhou Bay Center Plaza, Intersection of<br>Zeshan Road &amp; Junyi Road, Wuzhong District,<br>Suzhou City, Jiangsu Province, China</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:12px 0 0 0;border-top:1px solid #dfe3e8;font-family:Arial,Helvetica,sans-serif;font-size:10.5px;color:#9aa4b2;line-height:1.6;">
+            <div style="padding-top:9px;">Single &amp; Three-Phase Pad-Mount &nbsp;·&nbsp; Pole-Mount &nbsp;·&nbsp; Oil-Immersed Distribution &nbsp;·&nbsp; Substation Transformers</div>
+            <div style="padding-top:3px;">ISO 9001 / 14001 / 45001 &nbsp;·&nbsp; UL Certified &nbsp;·&nbsp; CE &nbsp;·&nbsp; Built to IEEE / CSA / IEC Standards</div>
+          </td>
+        </tr>
+      </table>
+      <!-- ============ TO HERE ============ -->
+    </div>
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- OPTION 2 — ULTRA SIMPLE (most robust)                         -->
+  <!-- ============================================================ -->
+  <div class="card">
+    <span class="label alt">Option 2 · Most robust</span>
+    <p class="desc">
+      <b>Ultra-simple.</b> No borders, no links, no colour — just plain lines. If your mail
+      editor mangles Option 1, use this. It survives literally every client, including
+      plain-text mode and mobile replies. Note I dropped auto-links here deliberately:
+      same text, fewer things that can be stripped.
+    </p>
+
+    <div class="stage">
+      <!-- ============ COPY FROM HERE ============ -->
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#1f2937;line-height:1.6;">
+        <div style="font-weight:bold;font-size:14px;">Ian Chou</div>
+        <div>Sales Manager | JZPE POWER TRANSFORMER CO., LTD.</div>
+        <div style="height:8px;font-size:0;line-height:0;">&nbsp;</div>
+        <div>Email: ian@jiezougroup.com</div>
+        <div>WhatsApp / WeChat: +86 187 5612 7603</div>
+        <div>Web: www.jiezougroup.com</div>
+        <div>Add: Building D, Suzhou Bay Center Plaza, Intersection of Zeshan Road &amp; Junyi Road, Wuzhong District, Suzhou City, Jiangsu Province, China</div>
+        <div style="height:8px;font-size:0;line-height:0;">&nbsp;</div>
+        <div style="font-size:11px;color:#6b7280;">Pad-Mount · Pole-Mount · Oil-Immersed · Substation Transformers</div>
+        <div style="font-size:11px;color:#6b7280;">ISO 9001/14001/45001 · UL Certified · CE · Built to IEEE / CSA / IEC Standards</div>
+      </div>
+      <!-- ============ TO HERE ============ -->
+    </div>
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- OPTION 3 — MINIMAL (for replies inside a thread)              -->
+  <!-- ============================================================ -->
+  <div class="card">
+    <span class="label mute">Option 3 · Short replies</span>
+    <p class="desc">
+      <b>Two lines.</b> For when you are already deep in an email thread or replying to a
+      colleague — a full 8-line signature repeated twelve times in a chain looks heavy.
+      Use the full version on first contact, this one afterwards.
+    </p>
+
+    <div class="stage">
+      <!-- ============ COPY FROM HERE ============ -->
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#1f2937;line-height:1.55;">
+        <div><b>Ian Chou</b> | Sales Manager, JZPE POWER TRANSFORMER CO., LTD.</div>
+        <div style="font-size:12px;color:#374151;">ian@jiezougroup.com &nbsp;|&nbsp; WhatsApp +86 187 5612 7603 &nbsp;|&nbsp; www.jiezougroup.com</div>
+      </div>
+      <!-- ============ TO HERE ============ -->
+    </div>
+  </div>
+
+  <hr style="border:0;border-top:1px solid #dfe3e8;margin:34px 0">
+
+  <h2 style="font-size:16px;margin:0 0 10px;">Plain-text version (copy this)</h2>
+  <p class="desc">For prospecting tools, CRM systems, or anywhere HTML gets stripped.</p>
+  <pre class="plain">Ian Chou
+Sales Manager | JZPE POWER TRANSFORMER CO., LTD.
+Email: ian@jiezougroup.com
+WhatsApp / WeChat: +86 187 5612 7603
+Web: www.jiezougroup.com
+Add: Building D, Suzhou Bay Center Plaza, Intersection of Zeshan Road & Junyi Road,
+     Wuzhong District, Suzhou City, Jiangsu Province, China
+
+Pad-Mount · Pole-Mount · Oil-Immersed · Substation Transformers
+ISO 9001/14001/45001 · UL Certified · CE · Built to IEEE / CSA / IEC Standards</pre>
+
+  <div class="note warn">
+    <b>Install:</b> select the block you want, copy, paste into your WeCom / QQ Mail / Outlook
+    signature editor, save, then send yourself one test email.<br><br>
+    <b>Certification lines are intentional — please don't "improve" them.</b> You hold
+    ISO 9001/14001/45001, UL (E541626 / E541627) and CE. You do <b>not</b> hold a CSA
+    certificate, so the text reads <i>"Built to IEEE / CSA / IEC Standards"</i> (technical
+    standard) and never <i>"CSA Certified"</i>. Likewise no SASO or SONCAP claims.
+    Canadian and US buyers do verify these.
+  </div>
+
+</div>
+</body>
+</html>

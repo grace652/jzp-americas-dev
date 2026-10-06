@@ -1,0 +1,49 @@
+🔒 已加锁 .daemon.lock（PID 69456）
+守候模式启动：待发 42 封
+  最早 2026-09-29 21:00  /  最晚 2026-09-30 01:45（北京时间）
+  （中断后重跑此命令可续发，已发的不会重复）
+
+  ✅ [2026-09-29 21:00:03] 开发信-Colonial-Electric.md → louis.vining@colonialelectricsupply.com
+  ✅ [2026-09-29 21:04:03] 开发信-Every-Thing-Construction.md → gwillis@etcinc.net
+  ✅ [2026-09-29 21:08:03] 开发信-Groupe-Deschenes.md → planthier@groupedeschenes.com
+  ✅ [2026-09-29 21:16:03] 开发信-Loeb-Electric.md → austin.sparks@loebelectric.com
+  ✅ [2026-09-29 21:20:03] 开发信-Province-Electric.md → jmole@province-electric.com
+  ✅ [2026-09-29 21:24:03] 开发信-RE-Warner-Associates.md → Frank.Johnson@ISGInc.com
+  ✅ [2026-09-29 21:28:03] 开发信-跟进-Aequitas-Power.md → owners@aequitaspower.com
+  ✅ [2026-09-29 21:32:03] 开发信-跟进-Franklin-Empire.md → cara.backman@franklinempire.com
+  ✅ [2026-09-29 21:36:02] 开发信-跟进-Guillevin.md → andre.odeh@guillevin.com
+  ✅ [2026-09-29 21:40:03] 开发信-跟进-Kraun-Electric.md → estimating@kraun.ca
+  ✅ [2026-09-29 21:48:02] 开发信-跟进-MVI-Mon-Valley.md → aaron.dlugos@monvalleyintegration.com
+  ✅ [2026-09-29 21:52:03] 开发信-跟进-Progressive-Electric.md → tbrady@wewireu.com
+  ✅ [2026-09-29 21:56:03] 开发信-跟进-State-Electric-Supply.md → act@stateelectric.com
+  ✅ [2026-09-29 22:00:02] 开发信-Butler-Supply.md → rkunkel@butlersupply.com
+  ✅ [2026-09-29 22:05:03] 开发信-Cava-Electric.md → ecavazos@cavaelectric.com
+  ✅ [2026-09-29 22:10:03] 开发信-DynaGrid.md → charlie.ferrara@dynagrid.com
+  ✅ [2026-09-29 22:15:03] 开发信-Expanse-Electrical.md → john.sutton@expanseelectrical.com
+  ✅ [2026-09-29 22:20:03] 开发信-Prime-Power-Services.md → lvillarreal@primepower.services
+  ✅ [2026-09-29 22:25:03] 开发信-Wholesale-Electric-Supply.md → david.dowd@netwes.com
+  ✅ [2026-09-29 22:30:03] 开发信-跟进-Echo-Electric.md → info@echoelectric.com
+  ✅ [2026-09-29 22:35:03] 开发信-跟进-Egan-Company.md → info@eganco.com
+  ✅ [2026-09-29 22:40:02] 开发信-跟进-Guerry-Electric.md → paul.guerryelectric@gmail.com
+  ✅ [2026-09-29 22:45:03] 开发信-跟进-Technical-Power-Services.md → Dave@technicalpowerservices.com
+  ✅ [2026-09-29 22:50:03] 开发信-跟进-Van-Meter.md → CedarRapids@vanmeterinc.com
+  ✅ [2026-09-29 22:55:03] 开发信-跟进-Wolfe-and-Travis-Electric.md → tpotts@wtei.us
+  ✅ [2026-09-29 23:05:03] 开发信-Alberta-Breaker.md → don@albertabreaker.net
+  ✅ [2026-09-29 23:15:03] 开发信-InCom-Electric.md → dowens@incomelectric.com
+  ✅ [2026-09-29 23:25:03] 开发信-跟进-Cache-Valley-Electric.md → businessdevelopment@cve.com
+  ✅ [2026-09-29 23:35:02] 开发信-跟进-Iconic-Power.md → wmyers@iconicpowersystems.com
+  ✅ [2026-09-29 23:45:03] 开发信-跟进-Summit-Electric.md → help@summit.com
+  ✅ [2026-09-29 23:55:03] 开发信-跟进-Valard-Construction.md → ksones@valard.com
+  ✅ [2026-09-30 00:00:03] 开发信-Compass-Electric.md → brian@compasselectric.net
+  ✅ [2026-09-30 00:10:03] 开发信-Hot-Line-Construction.md → tmyers@hotlineconstructioninc.com
+  ✅ [2026-09-30 00:15:03] 开发信-American-Line-Construction.md → eistanbouly@americanlineconstruction.com
+  ✅ [2026-09-30 00:20:02] 开发信-Main-Electric-Supply.md → kmalouf@mainelectricsupply.com
+  ✅ [2026-09-30 00:30:03] 开发信-Sasco-Contractors.md → cpaquin@sascocontractors.com
+  ✅ [2026-09-30 00:35:03] 开发信-Tidal-Electrical.md → drew@tidalelectrical.ca
+  ✅ [2026-09-30 00:45:03] 开发信-Station-Power-Construction.md → jbarriger@stationpwr.com
+  ✅ [2026-09-30 00:50:03] 开发信-跟进-Walters-Wholesale.md → utilitydivision@walterswholesale.com
+  ✅ [2026-09-30 00:55:03] 开发信-跟进-Zeus-Electric.md → zac.kady@zeuselectric.ca
+  ✅ [2026-09-30 01:15:03] 开发信-跟进-Chatham-Electric.md → jamesz@northernpowerline.com
+  ✅ [2026-09-30 01:45:03] 开发信-跟进-Megawatt-Electric.md → info@megawattelectric.com
+
+守候结束：成功 42 封 / 失败 0 封

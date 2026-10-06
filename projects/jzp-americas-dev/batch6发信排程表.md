@@ -1,0 +1,63 @@
+# batch6 发信排程表（2026-09-29 晚 → 09-30 凌晨）
+
+> 生成：`定时发送.py --build --batch6` ｜ 队列：`发信队列.json`
+> 目标：客户**当地工作日 09:00–10:00** 送达 ｜ **窗口内分散**（非同一时刻）
+> 定时任务：`batch6 开发信定时投递（今晚→明晨）`（每小时唤醒 + 小时内循环驱动）
+
+| # | 北京发送 | 当地送达 | 时区 | 收件人 | 公司（买家）|
+|---|---|---|---|---|---|
+| 1 | **09-29 20:15** | 09-29 09:15 | AT 大西洋 | `gwoodman@mcloughlans.ca` | McLoughlan Supplies（206）|
+| 2 | **09-29 20:45** | 09-29 09:45 | AT 大西洋 | `barattod@sourceatlantic.ca` | Source Atlantic（207）|
+| 3 | **09-29 21:05** | 09-29 09:05 | ET 美东 | `louis.vining@colonialelectricsupply.com` | Colonial Electric（222）|
+| 4 | **09-29 21:15** | 09-29 09:15 | ET 美东 | `gwillis@etcinc.net` | Every Thing Construction（193）|
+| 5 | **09-29 21:25** | 09-29 09:25 | ET 美东 | `planthier@groupedeschenes.com` | Groupe Deschenes（209）|
+| 6 | **09-29 21:35** | 09-29 09:35 | ET 美东 | `austin.sparks@loebelectric.com` | Loeb Electric（219）|
+| 7 | **09-29 21:45** | 09-29 09:45 | ET 美东 | `jmole@province-electric.com` | Province Electric（201）|
+| 8 | **09-29 21:55** | 09-29 09:55 | ET 美东 | `Frank.Johnson@ISGInc.com` | R.E. Warner (ISG)（191）|
+| 9 | **09-29 22:05** | 09-29 09:05 | CT 美中 | `rkunkel@butlersupply.com` | Butler Supply（221）|
+| 10 | **09-29 22:15** | 09-29 09:15 | CT 美中 | `ecavazos@cavaelectric.com` | Cava Electric（188）|
+| 11 | **09-29 22:25** | 09-29 09:25 | CT 美中 | `charlie.ferrara@dynagrid.com` | DynaGrid（187）|
+| 12 | **09-29 22:35** | 09-29 09:35 | CT 美中 | `john.sutton@expanseelectrical.com` | Expanse Electrical（190）|
+| 13 | **09-29 22:45** | 09-29 09:45 | CT 美中 | `lvillarreal@primepower.services` | Prime Power Services（189）|
+| 14 | **09-29 22:55** | 09-29 09:55 | CT 美中 | `david.dowd@netwes.com` | Wholesale Electric Supply（213）|
+| 15 | **09-29 23:15** | 09-29 09:15 | MT 美山 | `don@albertabreaker.net` | Alberta Breaker（204）|
+| 16 | **09-29 23:45** | 09-29 09:45 | MT 美山 | `dowens@incomelectric.com` | InCom Electric（178）|
+| 17 | **09-30 00:05** | 09-29 09:05 | PT 美西 | `brian@compasselectric.net` | Compass Electric（175）|
+| 18 | **09-30 00:15** | 09-29 09:15 | AZ 亚利桑那 | `eistanbouly@americanlineconstruction.com` | American Line Construction（194）|
+| 19 | **09-30 00:15** | 09-29 09:15 | PT 美西 | `tmyers@hotlineconstructioninc.com` | Hot Line Construction（196）|
+| 20 | **09-30 00:30** | 09-29 09:30 | PT 美西 | `kmalouf@mainelectricsupply.com` | Main Electric Supply（223）|
+| 21 | **09-30 00:40** | 09-29 09:40 | PT 美西 | `cpaquin@sascocontractors.com` | Sasco Contractors（174）|
+| 22 | **09-30 00:45** | 09-29 09:45 | AZ 亚利桑那 | `jbarriger@stationpwr.com` | Station Power Construction（197）|
+| 23 | **09-30 00:50** | 09-29 09:50 | PT 美西 | `drew@tidalelectrical.ca` | Tidal Electrical（176）|
+
+---
+
+## 按时区汇总
+
+| 时区 | 封数 | 北京窗口 | 当地送达 |
+|---|---|---|---|
+| AT 大西洋 | 2 | 09-29 20:15 – 20:45 | 09:15 – 09:45 |
+| ET 美东 | 6 | 09-29 21:05 – 21:55 | 09:05 – 09:55 |
+| CT 美中 | 6 | 09-29 22:05 – 22:55 | 09:05 – 09:55 |
+| MT 美山 | 2 | 09-29 23:15 – 23:45 | 09:15 – 09:45 |
+| PT 美西 | 5 | 09-30 00:05 – 00:50 | 09:05 – 09:50 |
+| AZ 亚利桑那 | 2 | 09-30 00:15 – 00:45 | 09:15 – 09:45 |
+
+**合计 23 封**，跨度 **北京 09-29 20:15 → 09-30 00:50**（当地均为 09:05–09:55）。
+
+## 发送前闸门（均已通过）
+
+| 闸门 | 结果 |
+|---|---|
+| 红线自检 | ✅ 23/23 通过（用项目真函数 compliance_check）|
+| 退信闸门 | ✅ 0 命中（含 2 个整域封锁）|
+| 时区体检 | ✅ 23 封当地送达**全部落在 09:05–09:55** |
+| 窗口内分散 | ✅ 同时区最多 6 封，间隔 10 分钟 |
+| 收件人档位 | ✅ 全部 A 档具名直邮 |
+
+## 发送后如何查看
+
+```bash
+cd "/Users/eric/WorkBuddy AI/2026-09-27-00-43-30/jzp-americas-dev"
+python3 定时发送.py --status      # 看还剩几封 pending
+```

@@ -1,0 +1,596 @@
+[
+  {
+    "letter": "开发信-跟进-CW-Galle.md",
+    "to": [
+      "cwgallecontracting@gmail.com"
+    ],
+    "cc": [],
+    "subject": "Re: Buck/boost transformers for 208/240/480V service work",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-01 22:12",
+    "scheduled_at_local": "2026-10-01 09:12",
+    "window_start_bj": "2026-10-01 22:12",
+    "window_end_bj": "2026-10-01 22:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 22:12:21"
+  },
+  {
+    "letter": "开发信-跟进-Romar-Electrical.md",
+    "to": [
+      "info@romar.ca"
+    ],
+    "cc": [],
+    "subject": "Re: Transformer upgrade support for substation service work",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-01 22:15",
+    "scheduled_at_local": "2026-10-01 10:15",
+    "window_start_bj": "2026-10-01 22:15",
+    "window_end_bj": "2026-10-01 22:45",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 22:15:24"
+  },
+  {
+    "letter": "开发信-跟进-Hillfort.md",
+    "to": [
+      "info@hillfort.us"
+    ],
+    "cc": [],
+    "subject": "Re: OEM transformer supply — padmount 45–5000kVA, UL + DOE 2024",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-01 22:16",
+    "scheduled_at_local": "2026-10-01 09:16",
+    "window_start_bj": "2026-10-01 22:12",
+    "window_end_bj": "2026-10-01 22:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 22:18:28"
+  },
+  {
+    "letter": "开发信-跟进-MVA-Power.md",
+    "to": [
+      "tender@mvapower.com"
+    ],
+    "cc": [],
+    "subject": "Re: Turnkey transformer supply — padmount + substation, UL + DOE 2024",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-01 22:17",
+    "scheduled_at_local": "2026-10-01 10:17",
+    "window_start_bj": "2026-10-01 22:15",
+    "window_end_bj": "2026-10-01 22:45",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 22:21:31"
+  },
+  {
+    "letter": "开发信-跟进-Tri-State-Utility.md",
+    "to": [
+      "rbatch@tsup.com"
+    ],
+    "cc": [],
+    "subject": "Re: Supplier partnership — complementary transformer source",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-01 22:20",
+    "scheduled_at_local": "2026-10-01 10:20",
+    "window_start_bj": "2026-10-01 22:15",
+    "window_end_bj": "2026-10-01 22:45",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 22:24:34"
+  },
+  {
+    "letter": "开发信-跟进-Irby-Utilities.md",
+    "to": [
+      "irbyonline@irby.com"
+    ],
+    "cc": [],
+    "subject": "Re: Second transformer source for national utility stock",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-01 22:21",
+    "scheduled_at_local": "2026-10-01 09:21",
+    "window_start_bj": "2026-10-01 22:12",
+    "window_end_bj": "2026-10-01 22:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 22:27:38"
+  },
+  {
+    "letter": "开发信-跟进-Amped-Electric.md",
+    "to": [
+      "ampedelectricllc01@gmail.com"
+    ],
+    "cc": [],
+    "subject": "Re: Quick fit check — transformers on your commercial work?",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-01 22:22",
+    "scheduled_at_local": "2026-10-01 10:22",
+    "window_start_bj": "2026-10-01 22:15",
+    "window_end_bj": "2026-10-01 22:45",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 22:30:41"
+  },
+  {
+    "letter": "开发信-跟进-Brownstown-Electric.md",
+    "to": [
+      "ggoshorn@brownstown.com"
+    ],
+    "cc": [],
+    "subject": "Re: Second transformer source for your utility stock — Gregg",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-01 22:24",
+    "scheduled_at_local": "2026-10-01 10:24",
+    "window_start_bj": "2026-10-01 22:15",
+    "window_end_bj": "2026-10-01 22:45",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 22:33:44"
+  },
+  {
+    "letter": "开发信-跟进-Fletcher-Reinhardt.md",
+    "to": [
+      "sales@fr-electric.com"
+    ],
+    "cc": [],
+    "subject": "Re: Approved vendor enquiry — transformers + repair units",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-01 22:25",
+    "scheduled_at_local": "2026-10-01 09:25",
+    "window_start_bj": "2026-10-01 22:12",
+    "window_end_bj": "2026-10-01 22:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 22:36:47"
+  },
+  {
+    "letter": "开发信-跟进-Power-Line-Supply.md",
+    "to": [
+      "jeff_carls@uscco.com"
+    ],
+    "cc": [],
+    "subject": "Re: Approved vendor enquiry — distribution transformers, UL",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-01 22:27",
+    "scheduled_at_local": "2026-10-01 10:27",
+    "window_start_bj": "2026-10-01 22:15",
+    "window_end_bj": "2026-10-01 22:45",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 22:39:51"
+  },
+  {
+    "letter": "开发信-跟进-RA-Electrical.md",
+    "to": [
+      "info@raelectrical.ca"
+    ],
+    "cc": [],
+    "subject": "Re: Substation transformers — installation and test support",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-01 22:29",
+    "scheduled_at_local": "2026-10-01 10:29",
+    "window_start_bj": "2026-10-01 22:15",
+    "window_end_bj": "2026-10-01 22:45",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 22:42:54"
+  },
+  {
+    "letter": "开发信-跟进-KBS-Electrical.md",
+    "to": [
+      "info@kbselectric.com"
+    ],
+    "cc": [],
+    "subject": "Re: Second transformer source for ten-warehouse utility stock",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-01 22:30",
+    "scheduled_at_local": "2026-10-01 09:30",
+    "window_start_bj": "2026-10-01 22:12",
+    "window_end_bj": "2026-10-01 22:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 22:45:57"
+  },
+  {
+    "letter": "开发信-跟进-Montgomery-Industrial.md",
+    "to": [
+      "pmontgomery@montgomeryindustrial.com"
+    ],
+    "cc": [],
+    "subject": "Re: Transformer supply for your HV installations",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-01 22:31",
+    "scheduled_at_local": "2026-10-01 10:31",
+    "window_start_bj": "2026-10-01 22:15",
+    "window_end_bj": "2026-10-01 22:45",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 22:49:00"
+  },
+  {
+    "letter": "开发信-跟进-KPC-Power.md",
+    "to": [
+      "akif@kpcpower.com"
+    ],
+    "cc": [],
+    "subject": "Re: Material procurement — transformer sourcing",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-01 22:33",
+    "scheduled_at_local": "2026-10-01 10:33",
+    "window_start_bj": "2026-10-01 22:15",
+    "window_end_bj": "2026-10-01 22:45",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 22:52:04"
+  },
+  {
+    "letter": "开发信-跟进-Border-States.md",
+    "to": [
+      "pnovak@borderstates.com"
+    ],
+    "cc": [],
+    "subject": "Re: Direct-supplier enquiry — utility transformers, UL",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-01 22:34",
+    "scheduled_at_local": "2026-10-01 09:34",
+    "window_start_bj": "2026-10-01 22:12",
+    "window_end_bj": "2026-10-01 22:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 22:55:07"
+  },
+  {
+    "letter": "开发信-跟进-RIES-Equipment.md",
+    "to": [
+      "shane@riesequipment.ca"
+    ],
+    "cc": [],
+    "subject": "Re: Station and distribution transformers — supply",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-01 22:36",
+    "scheduled_at_local": "2026-10-01 10:36",
+    "window_start_bj": "2026-10-01 22:15",
+    "window_end_bj": "2026-10-01 22:45",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 22:58:11"
+  },
+  {
+    "letter": "开发信-跟进-ABCO-Supply.md",
+    "to": [
+      "brian.cabral@abcosupply.com"
+    ],
+    "cc": [],
+    "subject": "Re: Distribution transformers for your projects",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-01 22:37",
+    "scheduled_at_local": "2026-10-01 09:37",
+    "window_start_bj": "2026-10-01 22:12",
+    "window_end_bj": "2026-10-01 22:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 23:01:14"
+  },
+  {
+    "letter": "开发信-跟进-Alliance-Engineering.md",
+    "to": [
+      "peter@allianceengineering.ca"
+    ],
+    "cc": [],
+    "subject": "Re: Distribution transformers for your design-build work",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-01 22:38",
+    "scheduled_at_local": "2026-10-01 10:38",
+    "window_start_bj": "2026-10-01 22:15",
+    "window_end_bj": "2026-10-01 22:45",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 23:04:17"
+  },
+  {
+    "letter": "开发信-跟进-Ardoch-Electric.md",
+    "to": [
+      "sross@ardoch.ca"
+    ],
+    "cc": [],
+    "subject": "Re: Distribution transformers for your electrical work",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-01 22:40",
+    "scheduled_at_local": "2026-10-01 10:40",
+    "window_start_bj": "2026-10-01 22:15",
+    "window_end_bj": "2026-10-01 22:45",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 23:07:21"
+  },
+  {
+    "letter": "开发信-跟进-NorTec-Group.md",
+    "to": [
+      "mzajac@nortecgroup.com"
+    ],
+    "cc": [],
+    "subject": "Re: Transformer supply — Winnipeg",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-01 22:41",
+    "scheduled_at_local": "2026-10-01 09:41",
+    "window_start_bj": "2026-10-01 22:12",
+    "window_end_bj": "2026-10-01 22:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 23:10:24"
+  },
+  {
+    "letter": "开发信-跟进-Bradmoore-Electric.md",
+    "to": [
+      "bradmoore@live.ca"
+    ],
+    "cc": [],
+    "subject": "Re: Transformer supply — Ottawa",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-01 22:43",
+    "scheduled_at_local": "2026-10-01 10:43",
+    "window_start_bj": "2026-10-01 22:15",
+    "window_end_bj": "2026-10-01 22:45",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 23:13:27"
+  },
+  {
+    "letter": "开发信-跟进-RS-Breakers.md",
+    "to": [
+      "daniel.munro@rsbreakers.com"
+    ],
+    "cc": [],
+    "subject": "Re: Transformer supply — a question",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-01 22:45",
+    "scheduled_at_local": "2026-10-01 10:45",
+    "window_start_bj": "2026-10-01 22:15",
+    "window_end_bj": "2026-10-01 22:45",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 23:16:31"
+  },
+  {
+    "letter": "开发信-跟进-Shermco-Industries.md",
+    "to": [
+      "phil.petrocelli@shermco.com"
+    ],
+    "cc": [],
+    "subject": "Re: Transformer supply — testing and repair work",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-01 22:46",
+    "scheduled_at_local": "2026-10-01 09:46",
+    "window_start_bj": "2026-10-01 22:12",
+    "window_end_bj": "2026-10-01 22:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 23:19:34"
+  },
+  {
+    "letter": "开发信-跟进-JRS-Industrial.md",
+    "to": [
+      "bretr@jrs.ca"
+    ],
+    "cc": [],
+    "subject": "Re: Transformer supply — Winnipeg",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-01 22:50",
+    "scheduled_at_local": "2026-10-01 09:50",
+    "window_start_bj": "2026-10-01 22:12",
+    "window_end_bj": "2026-10-01 22:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 23:22:37"
+  },
+  {
+    "letter": "开发信-跟进-Prairie-Central.md",
+    "to": [
+      "hmcnicolljr@pclsupply.mb.ca"
+    ],
+    "cc": [],
+    "subject": "Re: Transformer supply — Manitoba and Saskatchewan",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-01 22:54",
+    "scheduled_at_local": "2026-10-01 09:54",
+    "window_start_bj": "2026-10-01 22:12",
+    "window_end_bj": "2026-10-01 22:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 23:25:41"
+  },
+  {
+    "letter": "开发信-跟进-Access-Electrical.md",
+    "to": [
+      "danny@accesselectricalsupply.ca"
+    ],
+    "cc": [],
+    "subject": "Re: Transformers for your counter stock",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-01 22:58",
+    "scheduled_at_local": "2026-10-01 09:58",
+    "window_start_bj": "2026-10-01 22:12",
+    "window_end_bj": "2026-10-01 22:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 23:28:44"
+  },
+  {
+    "letter": "开发信-跟进-Purcee-Industrial-Power.md",
+    "to": [
+      "les@purceepower.com"
+    ],
+    "cc": [],
+    "subject": "Re: Second transformer source for your Canada stock",
+    "tz": "MT",
+    "local_label": "美山",
+    "scheduled_at_bj": "2026-10-01 23:02",
+    "scheduled_at_local": "2026-10-01 09:02",
+    "window_start_bj": "2026-10-01 23:02",
+    "window_end_bj": "2026-10-01 23:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 23:31:47"
+  },
+  {
+    "letter": "开发信-跟进-Trotter-and-Morton.md",
+    "to": [
+      "dryan@tmlgroup.com"
+    ],
+    "cc": [],
+    "subject": "Re: Transformer supply — Calgary industrial work",
+    "tz": "MT",
+    "local_label": "美山",
+    "scheduled_at_bj": "2026-10-01 23:30",
+    "scheduled_at_local": "2026-10-01 09:30",
+    "window_start_bj": "2026-10-01 23:02",
+    "window_end_bj": "2026-10-01 23:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 23:34:51"
+  },
+  {
+    "letter": "开发信-跟进-Pro-Energy.md",
+    "to": [
+      "allen.sawchuk@proenergy.ca"
+    ],
+    "cc": [],
+    "subject": "Re: Transformer supply — 150 to 1200 kVA",
+    "tz": "MT",
+    "local_label": "美山",
+    "scheduled_at_bj": "2026-10-01 23:58",
+    "scheduled_at_local": "2026-10-01 09:58",
+    "window_start_bj": "2026-10-01 23:02",
+    "window_end_bj": "2026-10-01 23:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-01 23:58:03"
+  },
+  {
+    "letter": "开发信-跟进-Vancouver-Industrial-Electric.md",
+    "to": [
+      "info@vie-bc.com"
+    ],
+    "cc": [],
+    "subject": "Re: Transformers with factory test reports — for testing and maintenance work",
+    "tz": "PT",
+    "local_label": "美西",
+    "scheduled_at_bj": "2026-10-02 00:02",
+    "scheduled_at_local": "2026-10-01 09:02",
+    "window_start_bj": "2026-10-02 00:02",
+    "window_end_bj": "2026-10-02 00:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-02 00:02:03"
+  },
+  {
+    "letter": "开发信-跟进-Ross-Morrison.md",
+    "to": [
+      "rme@rmelectric.com"
+    ],
+    "cc": [],
+    "subject": "Re: 69kV substation transformers — UL, test reports included",
+    "tz": "PT",
+    "local_label": "美西",
+    "scheduled_at_bj": "2026-10-02 00:21",
+    "scheduled_at_local": "2026-10-01 09:21",
+    "window_start_bj": "2026-10-02 00:02",
+    "window_end_bj": "2026-10-02 00:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-02 00:21:03"
+  },
+  {
+    "letter": "开发信-跟进-K2-Electric.md",
+    "to": [
+      "info@k2electric.com"
+    ],
+    "cc": [],
+    "subject": "Re: Substation transformers for BC Hydro work — test reports included",
+    "tz": "PT",
+    "local_label": "美西",
+    "scheduled_at_bj": "2026-10-02 00:39",
+    "scheduled_at_local": "2026-10-01 09:39",
+    "window_start_bj": "2026-10-02 00:02",
+    "window_end_bj": "2026-10-02 00:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-02 00:39:03"
+  },
+  {
+    "letter": "开发信-跟进-Valley-Electrical.md",
+    "to": [
+      "customerservice@vesuppliers.com"
+    ],
+    "cc": [],
+    "subject": "Re: Approved vendor enquiry — distribution transformers, UL",
+    "tz": "PT",
+    "local_label": "美西",
+    "scheduled_at_bj": "2026-10-02 00:58",
+    "scheduled_at_local": "2026-10-01 09:58",
+    "window_start_bj": "2026-10-02 00:02",
+    "window_end_bj": "2026-10-02 00:58",
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 22:11",
+    "sent_at": "2026-10-02 00:58:03"
+  }
+]

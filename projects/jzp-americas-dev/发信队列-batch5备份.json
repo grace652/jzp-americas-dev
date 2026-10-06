@@ -1,0 +1,422 @@
+[
+  {
+    "letter": "开发信-ABCO-Supply-and-Service.md",
+    "to": [
+      "brian.cabral@abcosupply.com"
+    ],
+    "subject": "Transformer supply — Winnipeg",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_start_local": "2026-09-28 09:00",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": "2026-09-28 22:00:03",
+    "scheduled_at_bj": "2026-09-28 22:00",
+    "scheduled_at_local": "2026-09-28 09:00"
+  },
+  {
+    "letter": "开发信-Access-Electrical-Supply.md",
+    "to": [
+      "Danny@accesselectricalsupply.ca"
+    ],
+    "subject": "Transformer supply — Winnipeg",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_start_local": "2026-09-28 09:00",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": "2026-09-28 22:10:03",
+    "scheduled_at_bj": "2026-09-28 22:10",
+    "scheduled_at_local": "2026-09-28 09:10"
+  },
+  {
+    "letter": "开发信-Alliance-Engineering-Construction.md",
+    "to": [
+      "peter@allianceengineering.ca"
+    ],
+    "subject": "Transformer supply — Ottawa projects",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:40",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_start_local": "2026-09-28 09:40",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": "2026-09-28 21:44:41",
+    "scheduled_at_bj": "2026-09-28 21:40",
+    "scheduled_at_local": "2026-09-28 09:40"
+  },
+  {
+    "letter": "开发信-Ardoch-Electric.md",
+    "to": [
+      "sross@ardoch.ca"
+    ],
+    "subject": "Transformer supply — Ottawa area",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:40",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_start_local": "2026-09-28 09:40",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": "2026-09-28 21:44:44",
+    "scheduled_at_bj": "2026-09-28 21:44",
+    "scheduled_at_local": "2026-09-28 09:44"
+  },
+  {
+    "letter": "开发信-Bradmoore-Electric.md",
+    "to": [
+      "bradmoore@live.ca"
+    ],
+    "subject": "Transformer supply — Ottawa",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:40",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_start_local": "2026-09-28 09:40",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": "2026-09-28 21:46:03",
+    "scheduled_at_bj": "2026-09-28 21:46",
+    "scheduled_at_local": "2026-09-28 09:46"
+  },
+  {
+    "letter": "开发信-JRS-Industrial-and-Power-Solutions.md",
+    "to": [
+      "bretr@jrs.ca"
+    ],
+    "subject": "Transformer supply — Winnipeg",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_start_local": "2026-09-28 09:00",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": "2026-09-28 22:20:03",
+    "scheduled_at_bj": "2026-09-28 22:20",
+    "scheduled_at_local": "2026-09-28 09:20"
+  },
+  {
+    "letter": "开发信-KPC-Power-Electrical.md",
+    "to": [
+      "akif@kpcpower.com"
+    ],
+    "subject": "Transformer supply for your substation builds",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:40",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_start_local": "2026-09-28 09:40",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": "2026-09-28 21:50:03",
+    "scheduled_at_bj": "2026-09-28 21:50",
+    "scheduled_at_local": "2026-09-28 09:50"
+  },
+  {
+    "letter": "开发信-Linestar-Utility-Supply.md",
+    "to": [
+      "salesmbsk@linestar.ca"
+    ],
+    "subject": "Distribution transformers — supply for your utility customers",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_start_local": "2026-09-28 09:00",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": "2026-09-28 22:30:02",
+    "scheduled_at_bj": "2026-09-28 22:30",
+    "scheduled_at_local": "2026-09-28 09:30"
+  },
+  {
+    "letter": "开发信-Martech-Electrical.md",
+    "to": [
+      "mario.dibella@martechelectrical.com"
+    ],
+    "subject": "Transformers for your substation projects",
+    "tz": "PT",
+    "window_start_bj": "2026-09-29 00:00",
+    "window_end_bj": "2026-09-29 01:00",
+    "window_start_local": "2026-09-28 09:00",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美西",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-09-29 00:05",
+    "scheduled_at_local": "2026-09-28 09:05"
+  },
+  {
+    "letter": "开发信-Montgomery-Industrial-Services.md",
+    "to": [
+      "pmontgomery@montgomeryindustrial.com"
+    ],
+    "subject": "Transformer supply for your HV installations",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:40",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_start_local": "2026-09-28 09:40",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": "2026-09-28 21:52:02",
+    "scheduled_at_bj": "2026-09-28 21:52",
+    "scheduled_at_local": "2026-09-28 09:52"
+  },
+  {
+    "letter": "开发信-NorTec-Group.md",
+    "to": [
+      "sshack@nortecgroup.com"
+    ],
+    "subject": "Transformer supply — Winnipeg",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_start_local": "2026-09-28 09:00",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": "2026-09-28 22:35:03",
+    "scheduled_at_bj": "2026-09-28 22:35",
+    "scheduled_at_local": "2026-09-28 09:35"
+  },
+  {
+    "letter": "开发信-PFM-Technical-Solutions.md",
+    "to": [
+      "rajan.gandhi@pfmts.com"
+    ],
+    "subject": "Equipment supply for your substation work",
+    "tz": "PT",
+    "window_start_bj": "2026-09-29 00:00",
+    "window_end_bj": "2026-09-29 01:00",
+    "window_start_local": "2026-09-28 09:00",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美西",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-09-29 00:20",
+    "scheduled_at_local": "2026-09-28 09:20"
+  },
+  {
+    "letter": "开发信-Prairie-Central-Line-Supply.md",
+    "to": [
+      "hmcnicolljr@pclsupply.mb.ca"
+    ],
+    "subject": "Transformer supply — Manitoba and Saskatchewan",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_start_local": "2026-09-28 09:00",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": "2026-09-28 22:45:03",
+    "scheduled_at_bj": "2026-09-28 22:45",
+    "scheduled_at_local": "2026-09-28 09:45"
+  },
+  {
+    "letter": "开发信-Pro-Energy.md",
+    "to": [
+      "allen.sawchuk@proenergy.ca"
+    ],
+    "subject": "Transformer supply — 150 to 1200 kVA",
+    "tz": "MT",
+    "window_start_bj": "2026-09-28 23:00",
+    "window_end_bj": "2026-09-29 00:00",
+    "window_start_local": "2026-09-28 09:00",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美山",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": "2026-09-28 23:10:03",
+    "scheduled_at_bj": "2026-09-28 23:10",
+    "scheduled_at_local": "2026-09-28 09:10"
+  },
+  {
+    "letter": "开发信-RIES-Utility-Supply.md",
+    "to": [
+      "shane@riesequipment.ca"
+    ],
+    "subject": "Transformer supply — Ontario lead times",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:40",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_start_local": "2026-09-28 09:40",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": "2026-09-28 21:54:03",
+    "scheduled_at_bj": "2026-09-28 21:54",
+    "scheduled_at_local": "2026-09-28 09:54"
+  },
+  {
+    "letter": "开发信-RS-Breakers-and-Controls.md",
+    "to": [
+      "daniel.munro@rsbreakers.com"
+    ],
+    "subject": "Transformer supply — a question",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:40",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_start_local": "2026-09-28 09:40",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": "2026-09-28 21:58:03",
+    "scheduled_at_bj": "2026-09-28 21:58",
+    "scheduled_at_local": "2026-09-28 09:58"
+  },
+  {
+    "letter": "开发信-Shermco-Industries.md",
+    "to": [
+      "phil.petrocelli@shermco.com"
+    ],
+    "subject": "Transformer supply — testing and repair work",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_start_local": "2026-09-28 09:00",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": "2026-09-28 22:55:03",
+    "scheduled_at_bj": "2026-09-28 22:55",
+    "scheduled_at_local": "2026-09-28 09:55"
+  },
+  {
+    "letter": "开发信-TN-Electrical.md",
+    "to": [
+      "terry.bennett@tnelectrical.ca"
+    ],
+    "subject": "Transformer supply for substation packages",
+    "tz": "PT",
+    "window_start_bj": "2026-09-29 00:00",
+    "window_end_bj": "2026-09-29 01:00",
+    "window_start_local": "2026-09-28 09:00",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美西",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-09-29 00:35",
+    "scheduled_at_local": "2026-09-28 09:35"
+  },
+  {
+    "letter": "开发信-Trotter-and-Morton.md",
+    "to": [
+      "cmaclellan@tmlgroup.com"
+    ],
+    "subject": "Transformer supply — Calgary industrial work",
+    "tz": "MT",
+    "window_start_bj": "2026-09-28 23:00",
+    "window_end_bj": "2026-09-29 00:00",
+    "window_start_local": "2026-09-28 09:00",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美山",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": "2026-09-28 23:30:02",
+    "scheduled_at_bj": "2026-09-28 23:30",
+    "scheduled_at_local": "2026-09-28 09:30"
+  },
+  {
+    "letter": "开发信-UTB-Transformers.md",
+    "to": [
+      "brett@utbtransformers.com"
+    ],
+    "subject": "New distribution transformers — direct supply",
+    "tz": "MT",
+    "window_start_bj": "2026-09-28 23:00",
+    "window_end_bj": "2026-09-29 00:00",
+    "window_start_local": "2026-09-28 09:00",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美山",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-09-28 23:50",
+    "scheduled_at_local": "2026-09-28 09:50"
+  },
+  {
+    "letter": "开发信-Western-Technical-Installations.md",
+    "to": [
+      "mlamoureux@westerntechnical.ca"
+    ],
+    "subject": "Transformer supply for BC substation work",
+    "tz": "PT",
+    "window_start_bj": "2026-09-29 00:00",
+    "window_end_bj": "2026-09-29 01:00",
+    "window_start_local": "2026-09-28 09:00",
+    "window_end_local": "2026-09-28 10:00",
+    "local_label": "美西",
+    "dst": true,
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 21:37",
+    "sent_at": null,
+    "scheduled_at_bj": "2026-09-29 00:50",
+    "scheduled_at_local": "2026-09-28 09:50"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "letter": "开发信-High-Side-Electric.md",
+    "to": [
+      "ryan@highsideelectric.com"
+    ],
+    "subject": "Transformers for your rental fleet",
+    "tz": "AZ",
+    "window_start_bj": "2026-10-01 01:11",
+    "window_end_bj": "2026-10-01 04:11",
+    "window_start_local": "2026-10-01 09:00",
+    "window_end_local": "2026-10-01 10:00",
+    "local_label": "亚利桑那",
+    "dst": false,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 01:11",
+    "sent_at": "2026-10-01 01:21",
+    "scheduled_at_bj": "2026-10-01 01:21",
+    "scheduled_at_local": "2026-10-01 01:21",
+    "forced": true
+  },
+  {
+    "letter": "开发信-PS-Technologies.md",
+    "to": [
+      "hui.zhang@eciusa.com"
+    ],
+    "subject": "Transformer data for your specifications",
+    "tz": "MT",
+    "window_start_bj": "2026-10-01 01:11",
+    "window_end_bj": "2026-10-01 04:11",
+    "window_start_local": "2026-10-01 09:00",
+    "window_end_local": "2026-10-01 10:00",
+    "local_label": "美山",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 01:11",
+    "sent_at": "2026-10-01 01:17",
+    "scheduled_at_bj": "2026-10-01 01:17",
+    "scheduled_at_local": "2026-10-01 01:17",
+    "forced": true
+  },
+  {
+    "letter": "开发信-Substation-Engineering-Company.md",
+    "to": [
+      "gklein@subengco.com"
+    ],
+    "subject": "Transformer data for your substation specs",
+    "tz": "ET",
+    "window_start_bj": "2026-10-01 01:11",
+    "window_end_bj": "2026-10-01 04:11",
+    "window_start_local": "2026-10-01 09:00",
+    "window_end_local": "2026-10-01 10:00",
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 01:11",
+    "sent_at": "2026-10-01 01:29",
+    "scheduled_at_bj": "2026-10-01 01:29",
+    "scheduled_at_local": "2026-10-01 01:29",
+    "forced": true
+  },
+  {
+    "letter": "开发信-WIL-Surge-Electric.md",
+    "to": [
+      "daryl@wilsurge.com"
+    ],
+    "subject": "Transformers for your substation work",
+    "tz": "CT",
+    "window_start_bj": "2026-10-01 01:11",
+    "window_end_bj": "2026-10-01 04:11",
+    "window_start_local": "2026-10-01 09:00",
+    "window_end_local": "2026-10-01 10:00",
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-01 01:11",
+    "sent_at": "2026-10-01 01:25",
+    "scheduled_at_bj": "2026-10-01 01:25",
+    "scheduled_at_local": "2026-10-01 01:25",
+    "forced": true
+  }
+]

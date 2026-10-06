@@ -1,0 +1,828 @@
+[
+  {
+    "letter": "开发信-跟进-Tryggr.md",
+    "slug": "Tryggr",
+    "to": [
+      "greg@tryggrtech.ca"
+    ],
+    "cc": [],
+    "subject": "Re: 69–500kV installation transformers — UL + oil support",
+    "tz": "MT",
+    "window_start_bj": "2026-09-28 23:00",
+    "window_end_bj": "2026-09-29 00:00",
+    "window_open": true,
+    "local_label": "美山",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-28 23:55:03",
+    "scheduled_at_bj": "2026-09-28 23:55",
+    "scheduled_at_local": "2026-09-28 09:55"
+  },
+  {
+    "letter": "开发信-跟进-WUE.md",
+    "slug": "WUE",
+    "to": [
+      "customerservice@wue.coop"
+    ],
+    "cc": [],
+    "subject": "Re: Substation transformers — W.E.S.T. packaging supply",
+    "tz": "MT",
+    "window_start_bj": "2026-09-28 23:00",
+    "window_end_bj": "2026-09-29 00:00",
+    "window_open": true,
+    "local_label": "美山",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-28 23:57:02",
+    "scheduled_at_bj": "2026-09-28 23:57",
+    "scheduled_at_local": "2026-09-28 09:57"
+  },
+  {
+    "letter": "开发信-跟进-ALCO-Electric.md",
+    "slug": "ALCO-Electric",
+    "to": [
+      "brian@alco-electric.com"
+    ],
+    "cc": [
+      "jason@alco-electric.com",
+      "kylie@alco-electric.com"
+    ],
+    "subject": "Re: UL-certified pad-mount and pole-mount transformers",
+    "tz": "PT",
+    "window_start_bj": "2026-09-29 00:00",
+    "window_end_bj": "2026-09-29 01:00",
+    "window_open": true,
+    "local_label": "美西",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 00:00:03",
+    "scheduled_at_bj": "2026-09-29 00:00",
+    "scheduled_at_local": "2026-09-28 09:00"
+  },
+  {
+    "letter": "开发信-跟进-Alaska-Line-Builders.md",
+    "slug": "Alaska-Line-Builders",
+    "to": [
+      "andyk@aklinebuilders.com"
+    ],
+    "cc": [
+      "amey@aklinebuilders.com",
+      "robby@aklinebuilders.com"
+    ],
+    "subject": "Re: Transformers for your substation and transmission work",
+    "tz": "AKT",
+    "window_start_bj": "2026-09-29 00:00",
+    "window_end_bj": "2026-09-29 01:00",
+    "window_open": true,
+    "local_label": "阿拉斯加",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 00:06:03",
+    "scheduled_at_bj": "2026-09-29 00:06",
+    "scheduled_at_local": "2026-09-28 08:06"
+  },
+  {
+    "letter": "开发信-跟进-Fullford-Electric.md",
+    "slug": "Fullford-Electric",
+    "to": [
+      "FEI@fullfordelectric.com"
+    ],
+    "cc": [
+      "lael@fullfordelectric.com"
+    ],
+    "subject": "Re: Substation transformers for LRDR-type remote sites",
+    "tz": "AKT",
+    "window_start_bj": "2026-09-29 00:00",
+    "window_end_bj": "2026-09-29 01:00",
+    "window_open": true,
+    "local_label": "阿拉斯加",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 00:12:03",
+    "scheduled_at_bj": "2026-09-29 00:12",
+    "scheduled_at_local": "2026-09-28 08:12"
+  },
+  {
+    "letter": "开发信-跟进-GNS-Technologies.md",
+    "slug": "GNS-Technologies",
+    "to": [
+      "robertg@gns-technologies.com"
+    ],
+    "cc": [],
+    "subject": "Re: UL padmount and substation transformers",
+    "tz": "PT",
+    "window_start_bj": "2026-09-29 00:00",
+    "window_end_bj": "2026-09-29 01:00",
+    "window_open": true,
+    "local_label": "美西",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 00:18:03",
+    "scheduled_at_bj": "2026-09-29 00:18",
+    "scheduled_at_local": "2026-09-28 09:18"
+  },
+  {
+    "letter": "开发信-跟进-General-Pacific.md",
+    "slug": "General-Pacific",
+    "to": [
+      "contractorsales@generalpacific.com"
+    ],
+    "cc": [],
+    "subject": "Re: Transformer supply outside current brands?",
+    "tz": "PT",
+    "window_start_bj": "2026-09-29 00:00",
+    "window_end_bj": "2026-09-29 01:00",
+    "window_open": true,
+    "local_label": "美西",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 00:24:02",
+    "scheduled_at_bj": "2026-09-29 00:24",
+    "scheduled_at_local": "2026-09-28 09:24"
+  },
+  {
+    "letter": "开发信-跟进-PowerTec-Electric.md",
+    "slug": "PowerTec-Electric",
+    "to": [
+      "info@ptellc.com"
+    ],
+    "cc": [],
+    "subject": "Re: Substation and 480V transformers — UL certified",
+    "tz": "AKT",
+    "window_start_bj": "2026-09-29 00:00",
+    "window_end_bj": "2026-09-29 01:00",
+    "window_open": true,
+    "local_label": "阿拉斯加",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 00:30:03",
+    "scheduled_at_bj": "2026-09-29 00:30",
+    "scheduled_at_local": "2026-09-28 08:30"
+  },
+  {
+    "letter": "开发信-跟进-Washington-State-Power.md",
+    "slug": "Washington-State-Power",
+    "to": [
+      "donna@wastatepower.com"
+    ],
+    "cc": [],
+    "subject": "Re: Pad-mount transformer changeouts — UL, test reports",
+    "tz": "PT",
+    "window_start_bj": "2026-09-29 00:00",
+    "window_end_bj": "2026-09-29 01:00",
+    "window_open": true,
+    "local_label": "美西",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 00:36:03",
+    "scheduled_at_bj": "2026-09-29 00:36",
+    "scheduled_at_local": "2026-09-28 09:36"
+  },
+  {
+    "letter": "开发信-跟进-AECI.md",
+    "slug": "AECI",
+    "to": [
+      "communications@aecc.com"
+    ],
+    "cc": [],
+    "subject": "Re: Power transformers for grid build-out — UL, spec-ready",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_open": false,
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 00:42:03",
+    "scheduled_at_bj": "2026-09-29 00:42",
+    "scheduled_at_local": "2026-09-28 11:42"
+  },
+  {
+    "letter": "开发信-跟进-Amps-Powerline.md",
+    "slug": "Amps-Powerline",
+    "to": [
+      "rnault@ampspowerline.ca"
+    ],
+    "cc": [
+      "knewman@ampspowerline.ca"
+    ],
+    "subject": "Re: Substation transformers — 6–14 hour outage supply",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_open": false,
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 00:48:03",
+    "scheduled_at_bj": "2026-09-29 00:48",
+    "scheduled_at_local": "2026-09-28 11:48"
+  },
+  {
+    "letter": "开发信-跟进-Birmingham-Electric.md",
+    "slug": "Birmingham-Electric",
+    "to": [
+      "walt@birminghamec.com"
+    ],
+    "cc": [],
+    "subject": "Re: MV transformer testing and replacement — UL supply",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_open": false,
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 00:54:03",
+    "scheduled_at_bj": "2026-09-29 00:54",
+    "scheduled_at_local": "2026-09-28 11:54"
+  },
+  {
+    "letter": "开发信-跟进-Priester.md",
+    "slug": "Priester",
+    "to": [
+      "sales@pmn-inc.com"
+    ],
+    "cc": [],
+    "subject": "Re: Second transformer source for Austin Energy supply",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_open": false,
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 01:00:03",
+    "scheduled_at_bj": "2026-09-29 01:00",
+    "scheduled_at_local": "2026-09-28 12:00"
+  },
+  {
+    "letter": "开发信-跟进-RESA-Power.md",
+    "slug": "RESA-Power",
+    "to": [
+      "sales@resapower.com"
+    ],
+    "cc": [],
+    "subject": "Re: Padmount gap ratings for Components East-West",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_open": false,
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 01:06:03",
+    "scheduled_at_bj": "2026-09-29 01:06",
+    "scheduled_at_local": "2026-09-28 12:06"
+  },
+  {
+    "letter": "开发信-跟进-Reeve-Electric.md",
+    "slug": "Reeve-Electric",
+    "to": [
+      "info@reeve-electric.com"
+    ],
+    "cc": [],
+    "subject": "Re: Transformers for your data center and substation work",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_open": false,
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 01:12:03",
+    "scheduled_at_bj": "2026-09-29 01:12",
+    "scheduled_at_local": "2026-09-28 12:12"
+  },
+  {
+    "letter": "开发信-跟进-Stewart-Electric.md",
+    "slug": "Stewart-Electric",
+    "to": [
+      "info@stewartelectricinc.com"
+    ],
+    "cc": [],
+    "subject": "Re: Substation transformers for HV and pole line work",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_open": false,
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 01:18:03",
+    "scheduled_at_bj": "2026-09-29 01:18",
+    "scheduled_at_local": "2026-09-28 12:18"
+  },
+  {
+    "letter": "开发信-跟进-Sunbelt-Solomon.md",
+    "slug": "Sunbelt-Solomon",
+    "to": [
+      "info@sunbeltsolomon.com"
+    ],
+    "cc": [],
+    "subject": "Re: OEM new transformers — padmount + substation, UL",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_open": false,
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 01:24:03",
+    "scheduled_at_bj": "2026-09-29 01:24",
+    "scheduled_at_local": "2026-09-28 12:24"
+  },
+  {
+    "letter": "开发信-跟进-TEC.md",
+    "slug": "TEC",
+    "to": [
+      "utilitysales@texas-ec.org"
+    ],
+    "cc": [
+      "directory@texas-ec.org"
+    ],
+    "subject": "Re: Transformer supply for co-op manufacturing and distribution",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_open": false,
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 01:30:03",
+    "scheduled_at_bj": "2026-09-29 01:30",
+    "scheduled_at_local": "2026-09-28 12:30"
+  },
+  {
+    "letter": "开发信-跟进-VoltCore-Electrical.md",
+    "slug": "VoltCore-Electrical",
+    "to": [
+      "william@voltcoreelectrical.com"
+    ],
+    "cc": [],
+    "subject": "Re: Substation 12.47kV–345kV — transformer installation supply",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_open": false,
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 01:36:03",
+    "scheduled_at_bj": "2026-09-29 01:36",
+    "scheduled_at_local": "2026-09-28 12:36"
+  },
+  {
+    "letter": "开发信-跟进-Williams-Electric.md",
+    "slug": "Williams-Electric",
+    "to": [
+      "keith@williamsele.com"
+    ],
+    "cc": [
+      "ron@williamsele.com"
+    ],
+    "subject": "Re: UL-listed transformers for your substation work",
+    "tz": "CT",
+    "window_start_bj": "2026-09-28 22:00",
+    "window_end_bj": "2026-09-28 23:00",
+    "window_open": false,
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 01:42:03",
+    "scheduled_at_bj": "2026-09-29 01:42",
+    "scheduled_at_local": "2026-09-28 12:42"
+  },
+  {
+    "letter": "开发信-跟进-BG-High-Voltage.md",
+    "slug": "BG-High-Voltage",
+    "to": [
+      "bberneche@bg-high-voltage.ca"
+    ],
+    "cc": [
+      "mail@bg-high-voltage.ca"
+    ],
+    "subject": "Re: Dry-type and liquid transformers — CSA/UL supply for Ontario",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:00",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_open": false,
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 01:48:03",
+    "scheduled_at_bj": "2026-09-29 01:48",
+    "scheduled_at_local": "2026-09-28 13:48"
+  },
+  {
+    "letter": "开发信-跟进-CEEUS.md",
+    "slug": "CEEUS",
+    "to": [
+      "tkyzer@ceeus.com"
+    ],
+    "cc": [
+      "tbrown@ceeus.com"
+    ],
+    "subject": "Re: One more approved transformer option — UL + DOE 2024",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:00",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_open": false,
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 01:54:03",
+    "scheduled_at_bj": "2026-09-29 01:54",
+    "scheduled_at_local": "2026-09-28 13:54"
+  },
+  {
+    "letter": "开发信-跟进-DECH-High-Voltage.md",
+    "slug": "DECH-High-Voltage",
+    "to": [
+      "office@dechhighvoltage.com"
+    ],
+    "cc": [],
+    "subject": "Re: Transformers with factory test data — for 480V+ test work",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:00",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_open": false,
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 02:00:03",
+    "scheduled_at_bj": "2026-09-29 02:00",
+    "scheduled_at_local": "2026-09-28 14:00"
+  },
+  {
+    "letter": "开发信-跟进-Dana-Power.md",
+    "slug": "Dana-Power",
+    "to": [
+      "danapowerpoles@gmail.com"
+    ],
+    "cc": [],
+    "subject": "Re: MV substation transformers — UL, test reports",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:00",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_open": false,
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 02:06:03",
+    "scheduled_at_bj": "2026-09-29 02:06",
+    "scheduled_at_local": "2026-09-28 14:06"
+  },
+  {
+    "letter": "开发信-跟进-GEC.md",
+    "slug": "GEC",
+    "to": [
+      "info@gecincorporated.com"
+    ],
+    "cc": [
+      "sypolt@gecincorporated.com"
+    ],
+    "subject": "Re: Substation and control transformers — UL, MSHA-grade work",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:00",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_open": false,
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 02:12:03",
+    "scheduled_at_bj": "2026-09-29 02:12",
+    "scheduled_at_local": "2026-09-28 14:12"
+  },
+  {
+    "letter": "开发信-跟进-GLS-Electric.md",
+    "slug": "GLS-Electric",
+    "to": [
+      "contact@glselectricinc.com"
+    ],
+    "cc": [],
+    "subject": "Re: Industrial power distribution transformers — high-quality build",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:00",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_open": false,
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 02:18:03",
+    "scheduled_at_bj": "2026-09-29 02:18",
+    "scheduled_at_local": "2026-09-28 14:18"
+  },
+  {
+    "letter": "开发信-跟进-GRIDLINK.md",
+    "slug": "GRIDLINK",
+    "to": [
+      "info@gridlink.ca"
+    ],
+    "cc": [
+      "jbernst@gridlink.ca"
+    ],
+    "subject": "Re: Substation transformers — 4–25kV retrofits and new builds",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:00",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_open": false,
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 02:24:03",
+    "scheduled_at_bj": "2026-09-29 02:24",
+    "scheduled_at_local": "2026-09-28 14:24"
+  },
+  {
+    "letter": "开发信-跟进-ISCOCA.md",
+    "slug": "ISCOCA",
+    "to": [
+      "iscoca@iscoca.ca"
+    ],
+    "cc": [],
+    "subject": "Re: Breakers, busbars and elbows — supply for your equipment page",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:00",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_open": false,
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 02:30:03",
+    "scheduled_at_bj": "2026-09-29 02:30",
+    "scheduled_at_local": "2026-09-28 14:30"
+  },
+  {
+    "letter": "开发信-跟进-Kirby-Electric.md",
+    "slug": "Kirby-Electric",
+    "to": [
+      "RMCMILLAN@KIRBYELECTRICINC.COM"
+    ],
+    "cc": [],
+    "subject": "Re: Distribution transformers for plant blanket-order work",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:00",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_open": false,
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 02:36:03",
+    "scheduled_at_bj": "2026-09-29 02:36",
+    "scheduled_at_local": "2026-09-28 14:36"
+  },
+  {
+    "letter": "开发信-跟进-Ontario-High-Voltage.md",
+    "slug": "Ontario-High-Voltage",
+    "to": [
+      "taylor@ontariohighvoltage.com"
+    ],
+    "cc": [
+      "Office@ontariohighvoltage.com"
+    ],
+    "subject": "Re: Transformers for your 4.8–115 kV projects",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:00",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_open": false,
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 02:42:03",
+    "scheduled_at_bj": "2026-09-29 02:42",
+    "scheduled_at_local": "2026-09-28 14:42"
+  },
+  {
+    "letter": "开发信-跟进-PSS.md",
+    "slug": "PSS",
+    "to": [
+      "joe.holler@epsonline.com"
+    ],
+    "cc": [],
+    "subject": "Re: Re: New transformers for installation and field warranty work",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:00",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_open": false,
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 02:48:03",
+    "scheduled_at_bj": "2026-09-29 02:48",
+    "scheduled_at_local": "2026-09-28 14:48"
+  },
+  {
+    "letter": "开发信-跟进-Rexel-Utility.md",
+    "slug": "Rexel-Utility",
+    "to": [
+      "UtilitySalesCanada@rexel.ca"
+    ],
+    "cc": [],
+    "subject": "Re: Supplier partnership — transformers for Utility T&D",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:00",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_open": false,
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 02:54:04",
+    "scheduled_at_bj": "2026-09-29 02:54",
+    "scheduled_at_local": "2026-09-28 14:54"
+  },
+  {
+    "letter": "开发信-跟进-Rogers-Electrical.md",
+    "slug": "Rogers-Electrical",
+    "to": [
+      "info@r-ecci.com"
+    ],
+    "cc": [
+      "kwalters@r-ecci.com"
+    ],
+    "subject": "Re: 138kV substation transformers — Philippi Mine Power scope",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:00",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_open": false,
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 03:00:03",
+    "scheduled_at_bj": "2026-09-29 03:00",
+    "scheduled_at_local": "2026-09-28 15:00"
+  },
+  {
+    "letter": "开发信-跟进-South-Charleston.md",
+    "slug": "South-Charleston",
+    "to": [
+      "sales@southcharlestonelectric.com"
+    ],
+    "cc": [],
+    "subject": "Re: Quick fit check — padmount units on commercial jobs?",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:00",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_open": false,
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 03:06:03",
+    "scheduled_at_bj": "2026-09-29 03:06",
+    "scheduled_at_local": "2026-09-28 15:06"
+  },
+  {
+    "letter": "开发信-跟进-TM3.md",
+    "slug": "TM3",
+    "to": [
+      "tmcswain@tm3inc.com"
+    ],
+    "cc": [],
+    "subject": "Re: Substation transformers for 5-230kV work",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:00",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_open": false,
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 03:12:03",
+    "scheduled_at_bj": "2026-09-29 03:12",
+    "scheduled_at_local": "2026-09-28 15:12"
+  },
+  {
+    "letter": "开发信-跟进-UUS.md",
+    "slug": "UUS",
+    "to": [
+      "etalley@uus.coop"
+    ],
+    "cc": [],
+    "subject": "Re: Substation transformers — outside exclusive lines?",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:00",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_open": false,
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 03:18:03",
+    "scheduled_at_bj": "2026-09-29 03:18",
+    "scheduled_at_local": "2026-09-28 15:18"
+  },
+  {
+    "letter": "开发信-跟进-Westmoreland.md",
+    "slug": "Westmoreland",
+    "to": [
+      "bowens@westmorelandelectric.com"
+    ],
+    "cc": [],
+    "subject": "Re: MV distribution transformers — Clarion-type project supply",
+    "tz": "ET",
+    "window_start_bj": "2026-09-28 21:00",
+    "window_end_bj": "2026-09-28 22:00",
+    "window_open": false,
+    "local_label": "美东",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 03:24:03",
+    "scheduled_at_bj": "2026-09-29 03:24",
+    "scheduled_at_local": "2026-09-28 15:24"
+  },
+  {
+    "letter": "开发信-跟进-Everlast-Electric.md",
+    "slug": "Everlast-Electric",
+    "to": [
+      "mike@everlastelectric.ca"
+    ],
+    "cc": [
+      "info@everlastelectric.ca"
+    ],
+    "subject": "Re: Small transformers for 600V service work?",
+    "tz": "AT",
+    "window_start_bj": "2026-09-28 20:00",
+    "window_end_bj": "2026-09-28 21:00",
+    "window_open": false,
+    "local_label": "大西洋",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-09-28 23:51",
+    "sent_at": "2026-09-29 03:30:03",
+    "scheduled_at_bj": "2026-09-29 03:30",
+    "scheduled_at_local": "2026-09-28 16:30"
+  }
+]

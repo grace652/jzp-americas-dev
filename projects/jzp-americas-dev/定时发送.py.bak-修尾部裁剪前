@@ -1,0 +1,516 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+定时发送队列
+============
+按收件人所在时区，把开发信分散到「对方当地上午 9:00–10:00」发出。
+
+为什么需要它
+------------
+SMTP 协议没有定时能力，IMAP 也没有调度扩展（实测能力列表已确认），
+Exchange EWS 端点在本账号不可用。所以「服务端定时」做不到。
+本脚本用**本机定时队列**实现等价效果：邮件先排好队，到点才投递。
+
+代价：**运行时段电脑需开机联网**。
+
+时区方法论（来自 `开发信项目/工作区/发送时间对照表.md`）
+------------------------------------------------------
+    目标时刻 = 对方当地上午 9:00–10:00
+    北京发信时间 = 9:00 − 对方时区偏移 + 8
+
+⚠️ **2026-11-01 北美夏令时结束**，所有美加窗口 +1 小时。
+   本脚本按日期自动判断夏令时（3 月第二个周日 → 11 月第一个周日）。
+
+用法
+----
+  python3 定时发送.py --build                  # 扫描信件，建立队列
+  python3 定时发送.py --status                 # 查看队列
+  python3 定时发送.py --run                    # 发送「窗口已到」的信（预演）
+  python3 定时发送.py --run --send --yes       # 真正发送
+  python3 定时发送.py --run --send --yes --to me@x.com   # 【测试】全部重定向
+  python3 定时发送.py --run --force-window     # 忽略窗口，立即发（调试用）
+
+配合定时器
+----------
+  每 30 分钟跑一次 `--run --send --yes` 即可（WorkBuddy 自动化 / launchd / 手动）。
+"""
+
+import argparse
+import importlib.util
+import json
+import re
+import sys
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+CLIENTS = ROOT / "开发信项目" / "clients"
+QUEUE = ROOT / "发信队列.json"
+BJ = timezone(timedelta(hours=8))
+
+# ============================================================
+# 🔴 只处理「本项目（本会话）产出的信件」
+# 用户 2026-09-27 明确：**不要动项目中已有的 130 封信**。
+# 已有信件是旧格式（正文带职务/邮箱/电话行、部分缺退订句），
+# 它们不在本项目管辖范围内。要看全部请加 --all。
+# ============================================================
+OWN_LETTERS = [
+    "开发信-MVI-Mon-Valley-Integration.md",
+    "开发信-AW-High-Voltage.md",
+    "开发信-Progressive-Electric-WV.md",
+    "开发信-Gresco-Utility-Supply.md",
+    "开发信-Codale-Electric-Supply.md",
+]
+
+# ============================================================
+# 退信闸门
+# 硬退信（地址不存在）→ 永久排除
+# 软退信（服务商拒收 / 暂时停用）→ 冷却期内排除，之后可重试
+# 冷却期按类别区分，见 COOLDOWN_DAYS
+# ============================================================
+BOUNCE_BLACKLIST = ROOT / "退信黑名单.json"
+COOLDOWN_DAYS = {
+    "硬退信-地址不存在": None,      # None = 永久
+    "软退信-暂时停用": 30,
+    "软退信-服务商拒收": 14,
+    "待人工判定": 30,
+}
+
+
+def load_blacklist() -> dict:
+    if not BOUNCE_BLACKLIST.exists():
+        return {}
+    try:
+        items = json.loads(BOUNCE_BLACKLIST.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+    return {i["address"].lower(): i for i in items if i.get("address")}
+
+
+def is_blocked(addr: str, now: datetime, bl: dict) -> tuple:
+    """返回 (是否拦截, 原因)。"""
+    rec = bl.get(addr.lower())
+    if not rec:
+        return False, ""
+    cat = rec.get("category", "待人工判定")
+    days = COOLDOWN_DAYS.get(cat, 30)
+    if days is None:
+        return True, f"硬退信永久排除（{rec.get('reason','')[:60]}）"
+    try:
+        d = datetime.strptime(rec.get("first_date", "")[:16].strip(),
+                              "%a, %d %b %Y")
+    except Exception:
+        return True, f"{cat}（冷却 {days} 天，日期无法解析，保守拦截）"
+    if now.replace(tzinfo=None) < d + timedelta(days=days):
+        return True, f"{cat}（冷却中，{d + timedelta(days=days):%Y-%m-%d} 后可重试）"
+    return False, ""
+
+# ---------------------------------------------------------------- 时区表
+# 美国州 → 时区代号；加拿大省 → 时区代号
+STATE_TZ = {}
+for code in "CT DE FL GA IN KY ME MD MA MI NH NJ NY NC OH PA RI SC VT VA WV DC".split():
+    STATE_TZ[code] = "ET"
+for code in "AL AR IL IA KS LA MN MS MO OK TN TX WI".split():
+    STATE_TZ[code] = "CT"
+for code in "AZ CO ID MT NM UT WY".split():
+    STATE_TZ[code] = "MT"
+for code in "CA NV OR WA".split():
+    STATE_TZ[code] = "PT"
+STATE_TZ.update({"AK": "AK", "HI": "HI"})
+for code in "ON QC NS NB PE NL".split():
+    STATE_TZ[code] = "ET"
+for code in "MB SK NT NU".split():
+    STATE_TZ[code] = "CT"
+for code in "AB".split():
+    STATE_TZ[code] = "MT"
+for code in "BC YT".split():
+    STATE_TZ[code] = "PT"
+
+# 时区代号 → 夏令时 UTC 偏移
+TZ_OFFSET_DST = {
+    "ET": -4, "CT": -5, "MT": -6, "PT": -7, "AK": -8, "HI": -10,
+    "BR": -3,          # 巴西 圣保罗
+    "MX": -6,          # 墨西哥（中部）
+}
+TZ_CN = {"ET": "美东", "CT": "美中", "MT": "美山", "PT": "美西",
+         "AK": "阿拉斯加", "HI": "夏威夷", "BR": "巴西", "MX": "墨西哥"}
+
+# 🔴 用户 2026-09-27 明确：**以送达时间为准**
+#    发送时刻用北京时间表示，目标是让客户**当地早上 8 点**收到。
+#    例：北京周一 22:00 发送 → 客户（美山 UTC−6）当地周一 08:00 送达
+TARGET_LOCAL_HOUR = 8
+WINDOW_SPAN = 2        # 窗口跨度（小时）：当地 08:00–10:00
+
+# 🔴 用户 2026-09-27 明确：**不要同一时间发出**
+#    同一时区的信要分散到窗口内的不同时刻 ——
+#    「同一秒/同一分钟批量发出」是最典型的垃圾邮件特征。
+#    spread=True 时，同一 (时区, 日期) 分组内的信会均匀铺开 + 加随机抖动。
+SPREAD_WITHIN_WINDOW = True
+SPREAD_JITTER = 0.25   # 抖动幅度 = 子间隔 × 该系数
+
+# 各时区的夏令时规则（北美统一：3月第2个周日 → 11月第1个周日）
+NORTH_AM = {"ET", "CT", "MT", "PT", "AK", "HI"}
+EU_DST = {"UK", "DE", "FR", "IT", "NL", "PL", "CZ", "HU"}
+
+
+def nth_weekday(year, month, weekday, n):
+    """某月第 n 个星期 weekday（0=周一）。"""
+    d = datetime(year, month, 1)
+    shift = (weekday - d.weekday()) % 7
+    return 1 + shift + (n - 1) * 7
+
+
+def in_dst(tzcode: str, when: datetime) -> bool:
+    """判断给定北京时刻是否落在该时区的夏令时区间内。
+
+    北美统一规则：3 月第二个周日 → 11 月第一个周日。
+    用 naive 比较（两边都去掉 tzinfo），避免 aware/naive 混用报错。
+    """
+    w = when.replace(tzinfo=None)
+    if tzcode in NORTH_AM:
+        start = datetime(w.year, 3, nth_weekday(w.year, 3, 6, 2))
+        end = datetime(w.year, 11, nth_weekday(w.year, 11, 6, 1))
+        return start <= w < end
+    if tzcode in EU_DST:
+        return True   # 简化：9 月欧洲仍是夏令时
+    return False      # 巴西/墨西哥等按不调处理
+
+
+# ---------------------------------------------------------------- 信件解析
+
+def load_sd():
+    spec = importlib.util.spec_from_file_location("sd", ROOT / "发送开发信.py")
+    mod = importlib.util.module_from_spec(spec)
+    sys.modules["sd"] = mod
+    spec.loader.exec_module(mod)
+    return mod
+
+
+def load_verifier():
+    """复用 地址验证.py 的 L1+L2（不探活，快且安全）。"""
+    spec = importlib.util.spec_from_file_location("av", ROOT / "地址验证.py")
+    mod = importlib.util.module_from_spec(spec)
+    sys.modules["av"] = mod
+    spec.loader.exec_module(mod)
+    return mod
+
+
+def tz_of_letter(notes: str, body: str) -> str:
+    """从批注推时区。
+
+    🔴 **优先级：州/省码 > 国家/地区名 > 窗口文字**
+      不能优先用窗口文字——批注里的「北京时间 HH:MM」可能是按旧目标小时写的，
+      用它反查时区会整体错位一格（实测：ET 被判成 CT、MT 被判成 PT）。
+    """
+    for code in re.findall(r"\b([A-Z]{2})\b", notes):
+        if code in STATE_TZ:
+            return STATE_TZ[code]
+    for kw, tz in (("魁北克", "ET"), ("安省", "ET"), ("安大略", "ET"), ("新斯科舍", "ET"),
+                   ("阿省", "MT"), ("曼省", "CT"),
+                   ("BC", "PT"), ("不列颠哥伦比亚", "PT"),
+                   ("巴西", "BR"), ("墨西哥", "MX"), ("秘鲁", "PE"),
+                   ("哥伦比亚", "CO"), ("智利", "CL")):
+        if kw in notes:
+            return tz
+    # 兜底：按当前目标小时反查
+    m = re.search(r"北京时间\s*(\d{1,2}):\d{2}", notes)
+    if m:
+        h = int(m.group(1))
+        for k, off in TZ_OFFSET_DST.items():
+            for dst in (True, False):
+                o = off if dst else off + 1
+                if (TARGET_LOCAL_HOUR - o + 8) % 24 == h:
+                    return k
+    return ""
+
+
+def tz_offset(tz: str, when: datetime) -> int:
+    """返回该时区在给定时刻的 UTC 偏移（夏令时/冬令时自动判断）。"""
+    off = TZ_OFFSET_DST.get(tz, -5)
+    if not in_dst(tz, when):
+        off += 1          # 冬令时偏移 −1
+    return off
+
+
+def next_window(tz: str, now: datetime) -> dict:
+    """算下一个发送窗口。
+
+    🔴 以**送达时间**为准：目标 = 客户当地工作日 08:00。
+       返回里同时给「北京发送时刻」和「客户当地送达时刻」。
+
+    实现：逐小时扫描未来 9 天，找第一个「当地 08:00 且当地为周一–周五」的时刻。
+    ⚠️ 周末判断必须用**当地星期**——北京周六 00:00 可能是当地周五 09:00（应当可发）。
+    """
+    off = tz_offset(tz, now)
+    delta = 8 - off                     # 北京 = 当地 + delta
+    cur = now.replace(minute=0, second=0, microsecond=0)
+    for i in range(0, 24 * 10):
+        bj = cur + timedelta(hours=i)
+        local = bj - timedelta(hours=delta)
+        if local.hour != TARGET_LOCAL_HOUR:
+            continue
+        if local.weekday() >= 5:        # 当地周末 → 跳过
+            continue
+        if bj < now:
+            continue
+        return {
+            "bj_start": bj,
+            "bj_end": bj + timedelta(hours=WINDOW_SPAN),
+            "local_start": local,
+            "local_end": local + timedelta(hours=WINDOW_SPAN),
+            "offset": off,
+            "dst": in_dst(tz, now),
+        }
+    # 兜底（不应发生）
+    return {"bj_start": now, "bj_end": now + timedelta(hours=2),
+            "local_start": now, "local_end": now + timedelta(hours=2),
+            "offset": off, "dst": True}
+
+
+def fmt_window(w: dict, tz: str) -> str:
+    """人类可读：北京发送 → 当地送达。"""
+    return (f"北京 {w['bj_start']:%m-%d %H:%M}–{w['bj_end']:%H:%M}"
+            f"  →  当地（{TZ_CN.get(tz, tz)}）{w['local_start']:%m-%d %H:%M}–{w['local_end']:%H:%M}")
+
+
+# ---------------------------------------------------------------- 队列
+
+def read_queue() -> list:
+    if not QUEUE.exists():
+        return []
+    return json.loads(QUEUE.read_text(encoding="utf-8"))
+
+
+def write_queue(items: list):
+    QUEUE.write_text(json.dumps(items, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def cmd_build(sd, args):
+    now = datetime.now(BJ)
+    items = []
+    scope = sorted(CLIENTS.glob("开发信-*.md"))
+    if not getattr(args, "all", False):
+        scope = [f for f in scope if f.name in OWN_LETTERS]
+    BL = load_blacklist()
+    print(f"扫描范围：{'全部信件' if getattr(args,'all',False) else f'仅本项目产出的 {len(OWN_LETTERS)} 封'}")
+    if BL:
+        print(f"退信闸门：已载入 {len(BL)} 个黑名单地址")
+    for f in scope:
+        _, body, notes = sd.parse_letter(f)
+        rc = sd.recipients_of(notes)
+        if not rc:
+            continue
+        problems = list(sd.compliance_check(body, sd.load_signature()))
+        # 退信闸门
+        for a in rc:
+            blocked, why = is_blocked(a, now, BL)
+            if blocked:
+                problems.append(f"退信闸门：{a} — {why}")
+                break
+        # 地址验证（L1+L2：语法 / 一次性邮箱 / MX 记录）
+        if not any(p.startswith("退信闸门") for p in problems):
+            for a in rc:
+                v = AV.verify(a, do_probe=False, polite_delay=0)
+                if v["verdict"].startswith("⛔"):
+                    problems.append(f"地址验证：{a} — {v['notes'][-1]}")
+                    break
+        tz = tz_of_letter(notes, body)
+        w = next_window(tz, now) if tz else None
+        subjects, _, _ = sd.parse_letter(f)
+        items.append({
+            "letter": f.name,
+            "to": rc,
+            "subject": subjects[0] if subjects else f.stem,
+            "tz": tz or "?",
+            "window_start_bj": w["bj_start"].strftime("%Y-%m-%d %H:%M") if w else "",
+            "window_end_bj": w["bj_end"].strftime("%Y-%m-%d %H:%M") if w else "",
+            "window_start_local": w["local_start"].strftime("%Y-%m-%d %H:%M") if w else "",
+            "window_end_local": w["local_end"].strftime("%Y-%m-%d %H:%M") if w else "",
+            "local_label": TZ_CN.get(tz, tz),
+            "dst": w["dst"] if w else None,
+            "status": "pending" if not problems else "blocked",
+            "blocked_reason": "; ".join(problems) if problems else "",
+            "queued_at": now.strftime("%Y-%m-%d %H:%M"),
+            "sent_at": None,
+        })
+    # ---- 窗口内分散：同一 (时区, 窗口日) 分组均匀铺开 ----
+    import random
+    groups = {}
+    for i in items:
+        if i["status"] != "pending" or not i.get("window_start_bj"):
+            continue
+        groups.setdefault(i["window_start_bj"][:10] + "|" + i["tz"], []).append(i)
+    for key, grp in groups.items():
+        n = len(grp)
+        span_min = WINDOW_SPAN * 60
+        slot = span_min / n
+        grp.sort(key=lambda x: x["letter"])
+        for idx, it in enumerate(grp):
+            base = datetime.strptime(it["window_start_bj"], "%Y-%m-%d %H:%M")
+            offset = slot * (idx + 0.5)
+            if SPREAD_WITHIN_WINDOW and n > 1:
+                jit = random.uniform(-1, 1) * slot * SPREAD_JITTER
+                offset = max(0, min(span_min - 1, offset + jit))
+            else:
+                offset = 0
+            sched = base + timedelta(minutes=offset)
+            it["scheduled_at_bj"] = sched.strftime("%Y-%m-%d %H:%M")
+            loc = sched - timedelta(hours=8 - TZ_OFFSET_DST.get(it["tz"], -5))
+            it["scheduled_at_local"] = loc.strftime("%Y-%m-%d %H:%M")
+        # 分组内按计划时刻排序展示
+        grp.sort(key=lambda x: x["scheduled_at_bj"])
+
+    write_queue(items)
+    ok = sum(1 for i in items if i["status"] == "pending")
+    bl = sum(1 for i in items if i["status"] == "blocked")
+    print(f"已建立队列：{QUEUE}")
+    print(f"  可发 {ok} 封 / 被红线拦截 {bl} 封 / 共 {len(items)} 封")
+    if bl:
+        print()
+        print("  被拦截的（红线自检未过）：")
+        for i in items:
+            if i["status"] == "blocked":
+                print(f"    {i['letter'][:42]:<44} {i['blocked_reason'][:60]}")
+    return 0
+
+
+def cmd_status(sd, args):
+    items = read_queue()
+    if not items:
+        print(f"队列为空。先跑：python3 定时发送.py --build")
+        return 0
+    now = datetime.now(BJ)
+    print(f"队列：{QUEUE}    当前北京时间 {now:%Y-%m-%d %H:%M}")
+    print()
+    print(f"{'状态':<8}{'时区':<11}{'发送（北京）':<17}{'送达（客户当地）':<17}{'收件人':<34}信件")
+    print("─" * 128)
+    for i in sorted(items, key=lambda x: x.get("scheduled_at_bj") or x.get("window_start_bj") or ""):
+        mark = ""
+        k = i.get("scheduled_at_bj") or i.get("window_start_bj") or ""
+        if i["status"] == "pending" and k and k <= now.strftime("%Y-%m-%d %H:%M"):
+            mark = "  ← 到点"
+        bj = (i.get("scheduled_at_bj") or i.get("window_start_bj", ""))[5:16]
+        lo = (i.get("scheduled_at_local") or i.get("window_start_local", ""))[5:16]
+        loc = i.get("local_label", "")
+        print(f"{i['status']:<8}{i['tz'] + ' ' + loc:<11}{bj:<17}{lo:<17}"
+              f"{(','.join(i['to']))[:32]:<34}{i['letter'][:32]}{mark}")
+    print()
+    p = sum(1 for i in items if i["status"] == "pending")
+    d = sum(1 for i in items if i["status"] == "pending"
+            and (i.get("scheduled_at_bj") or "") <= now.strftime("%Y-%m-%d %H:%M"))
+    print(f"待发 {p} 封，其中已到点 {d} 封")
+    print(f"（发送＝北京时间；送达＝客户当地。目标窗口：当地工作日 {TARGET_LOCAL_HOUR}:00–{TARGET_LOCAL_HOUR + WINDOW_SPAN}:00，窗口内分散发送）")
+    return 0
+
+
+def cmd_run(sd, args):
+    items = read_queue()
+    if not items:
+        print("队列为空。先跑：--build")
+        return 0
+    now = datetime.now(BJ)
+    nows = now.strftime("%Y-%m-%d %H:%M")
+
+    def _due_key(i):
+        return i.get("scheduled_at_bj") or i.get("window_start_bj") or ""
+    due = [i for i in items
+           if i["status"] == "pending"
+           and (args.force_window or _due_key(i) <= nows)]
+    if args.limit:
+        due = due[:args.limit]
+
+    if not due:
+        nxt = min((_due_key(i) for i in items if i["status"] == "pending"), default=None)
+        print(f"当前 {nows}，没有到点的信。")
+        if nxt:
+            print(f"下一封的窗口起点：{nxt}")
+        return 0
+
+    dry = not args.send
+    print(f"当前北京时间 {nows}　{'【预演】' if dry else '★ 真实发送 ★'}")
+    print(f"到点待发：{len(due)} 封")
+    print()
+    for i in due:
+        print(f"  发送 北京 {i.get('scheduled_at_bj','')[5:16]}  →  "
+              f"送达 {i.get('local_label','')} 当地 {i.get('scheduled_at_local','')[5:16]}"
+              f"   {(','.join(i['to']))[:28]:<30}{i['letter'][:30]}")
+    print()
+
+    if dry:
+        print("（未加 --send，仅预演）")
+        return 0
+    if not args.yes and input("确认发送请输入 yes：").strip().lower() != "yes":
+        print("已取消。")
+        return 1
+
+    mailer = sd.load_mailer()
+    cfg = mailer.load_config()
+    sig = sd.load_signature()
+    okn = badn = 0
+
+    BL = load_blacklist()
+    for i in due:
+        f = CLIENTS / i["letter"]
+        subjects, body, notes = sd.parse_letter(f)
+        skip = False
+        for a in i["to"]:
+            blocked, why = is_blocked(a, datetime.now(BJ), BL)
+            if blocked:
+                print(f"  ⛔ 跳过 {i['letter'][:40]}：{a} — {why}")
+                i["status"] = "skipped"
+                i["blocked_reason"] = why
+                skip = True
+                break
+        if skip:
+            write_queue(items)
+            continue
+        html = sd.build_html(body, sig)
+        to = [args.to] if args.to else i["to"]
+        if args.to:
+            print(f"  ⚠️  重定向：{i['to']} → {args.to}")
+        subject = subjects[0] if subjects else i["subject"]
+        msg = mailer.build_message(cfg, to, subject, html=html, inline=True)
+        ok, err = mailer.smtp_send(cfg, msg, to)
+        if ok:
+            print(f"  ✅ {i['letter'][:44]} → {', '.join(to)}")
+            i["status"] = "sent"
+            i["sent_at"] = datetime.now(BJ).strftime("%Y-%m-%d %H:%M")
+            okn += 1
+        else:
+            print(f"  ❌ {i['letter'][:44]}：{str(err)[:110]}")
+            i["status"] = "failed"
+            i["blocked_reason"] = str(err)[:200]
+            badn += 1
+        write_queue(items)      # 每封落盘，中断也不丢状态
+
+    print()
+    print(f"完成：成功 {okn} / 失败 {badn}")
+    return 0
+
+
+def main():
+    ap = argparse.ArgumentParser(description="开发信定时发送队列")
+    ap.add_argument("--build", action="store_true", help="扫描信件建立/重建队列")
+    ap.add_argument("--status", action="store_true", help="查看队列")
+    ap.add_argument("--run", action="store_true", help="发送窗口已到的信")
+    ap.add_argument("--send", action="store_true", help="--run 时真正发送")
+    ap.add_argument("--yes", action="store_true", help="跳过交互确认")
+    ap.add_argument("--to", help="【测试】重定向全部收件人")
+    ap.add_argument("--limit", type=int, help="本次最多发几封")
+    ap.add_argument("--force-window", action="store_true", help="忽略窗口，立即发（调试）")
+    ap.add_argument("--all", action="store_true",
+                    help="【慎用】连项目中已有的 130 封旧信一起处理（默认只处理本项目产出的信）")
+    args = ap.parse_args()
+
+    sd = load_sd()
+    if args.build:
+        global AV
+        AV = load_verifier()
+        return cmd_build(sd, args)
+    if args.status or (not args.run):
+        return cmd_status(sd, args)
+    return cmd_run(sd, args)
+
+
+if __name__ == "__main__":
+    sys.exit(main() or 0)

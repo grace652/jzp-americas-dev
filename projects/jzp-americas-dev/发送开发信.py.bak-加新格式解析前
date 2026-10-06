@@ -1,0 +1,251 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+开发信发送器（信件 → 正文 + 图片签名 → 发送）
+==============================================
+把 `开发信项目/clients/开发信-*.md` 里的【正文】抽出来，
+自动附加 `签名_内嵌版.html`（图片走 CID 内嵌），然后发送。
+
+正文格式依据：`开发信项目/正文格式规范.md`
+  - 正文止于 `Ian Chou`，不带职务/邮箱/电话行
+  - 签名由本脚本自动追加
+
+用法
+----
+  python3 发送开发信.py --list                    # 列出所有可用信件
+  python3 发送开发信.py --dry-run Codale          # 预演（不发送）
+  python3 发送开发信.py --send --to me@x.com Codale   # 【测试】重定向到自己
+  python3 发送开发信.py --send Codale             # 真正发送（发给信里指定收件人）
+  python3 发送开发信.py --send --subject-index 2 Codale
+
+安全闸
+------
+  1. 不加 --send 绝不发送
+  2. 加 --send 但不加 --yes 需输入 yes 确认
+  3. `--to` 重定向：测试时强制发到指定地址，绝不发给真实客户
+  4. 正文含【待填…】直接拒绝
+  5. 发送前跑红线自检（禁用认证 / YAWEI / spam 词 / 交期 / 价格 / 退订句）
+"""
+
+import argparse
+import html as html_mod
+import importlib.util
+import json
+import re
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+CLIENTS = ROOT / "开发信项目" / "clients"
+FORMAT_SPEC = ROOT / "开发信项目" / "正文格式规范.md"
+
+# 收件人从信件批注里读（`主送 \`xxx@yyy\``）
+RECIPIENT_RE = re.compile(r"主送\s*`([^`]+@[^`]+)`")
+
+# ---------------- 红线自检 ----------------
+BAD_CERT = ["CSA Certified", "SASO", "SONCAP", "cUL and CSA"]
+SPAM = ["free", "discount", "best price", "limited time", "click here",
+        "guarantee", "100%", "!!!"]
+UNSUB_MARKERS = ["won't write again", "close the loop", "won't follow up",
+                 # 🔴 2026-09-27 新增：本项目有西语/葡语模板，退订句是外文的，
+                 # 只列英文短语会把所有非英语信件误判为「缺退订句」。
+                 "no volvere a escribir",      # es
+                 "nao voltarei a escrever",    # pt（无重音写法，模板实际用这个）
+                 "não voltarei a escrever",    # pt（带重音，防日后改动）
+                 "won't write", "no volvere", "nao voltarei"]
+LEAD_RE = re.compile(r"\b\d+\s*(?:-|to|–)?\s*\d*\s*weeks?\b", re.I)
+PRICE_RE = re.compile(r"\b(price|quote|quotation|FOB|USD|discount|MOQ)\b", re.I)
+SIGN_LINE = "JZPE POWER TRANSFORMER CO., LTD."
+
+
+def load_mailer():
+    spec = importlib.util.spec_from_file_location("mailer", ROOT / "邮箱客户端.py")
+    mod = importlib.util.module_from_spec(spec)
+    sys.modules["mailer"] = mod
+    spec.loader.exec_module(mod)
+    return mod
+
+
+def load_signature():
+    f = ROOT / "签名_内嵌版.html"
+    if not f.exists():
+        f = ROOT / "签名.html"
+    return f.read_text(encoding="utf-8").strip() if f.exists() else ""
+
+
+def parse_letter(p: Path):
+    """返回 (subjects: list, body: str, notes: str)"""
+    t = p.read_text(encoding="utf-8")
+    m_sub = re.search(r"【Subject 备选】\n(.*?)\n【正文】", t, re.S)
+    m_body = re.search(r"【正文】\n(.*?)\n【中文批注】", t, re.S)
+    m_note = re.search(r"【中文批注】\n(.*)$", t, re.S)
+    subjects = []
+    if m_sub:
+        subjects = [re.sub(r"^\d+\.\s*", "", l).strip()
+                    for l in m_sub.group(1).strip().split("\n") if l.strip()]
+    body = m_body.group(1).strip() if m_body else ""
+    notes = m_note.group(1).strip() if m_note else ""
+    return subjects, body, notes
+
+
+def recipients_of(notes: str) -> list:
+    return [e.strip() for e in RECIPIENT_RE.findall(notes)]
+
+
+def body_to_html(body: str) -> str:
+    """把纯文本正文转 HTML：段落 + 软换行合并。"""
+    out = []
+    for block in body.split("\n\n"):
+        block = block.strip()
+        if not block:
+            continue
+        text = " ".join(l.strip() for l in block.split("\n") if l.strip())
+        text = (text.replace("&", "&amp;").replace("<", "&lt;")
+                    .replace(">", "&gt;"))
+        text = re.sub(r"&amp;(quot|#\d+);", r"&\1;", text)
+        out.append(f'<p style="margin:0 0 14px 0;">{text}</p>')
+    return "\n".join(out)
+
+
+def build_html(body: str, signature: str) -> str:
+    return (
+        '<div style="font-family: Arial, Helvetica, sans-serif; '
+        'font-size: 10pt; color: #3f3f3f; line-height: 1.65;">\n'
+        f"{body_to_html(body)}\n</div>\n"
+        '<div style="height:16px; line-height:16px; font-size:0;">&nbsp;</div>\n'
+        f"{signature}\n"
+    )
+
+
+def compliance_check(body: str, signature: str) -> list:
+    """返回问题列表，空 = 通过。
+
+    注意：署名主体检查放在**签名**上，不在正文里——
+    新格式下正文止于 `Ian Chou`，公司名由图片签名承担（见 正文格式规范 第 ⑥⑦ 段）。
+    """
+    problems = []
+    # 🔴 2026-09-27 修复：调用方传进来的 body 可能来自 HTML 抽取，撇号会被转义成
+    # `&#x27;` / `&#39;`（模板里写的是 `isn't` / `won't`）。不先解转义，
+    # 退订句检测会**必然漏判**，把每一封合规的信都误判成「缺退订承诺句」。
+    # 这里统一解一次，保证纯文本与 HTML 两条来源口径一致。
+    body = html_mod.unescape(body)
+    low = body.lower()
+    for b in BAD_CERT:
+        if b.lower() in low:
+            problems.append(f"出现禁用认证表述：{b}")
+    if "yawei" in low or "亚威" in body:
+        problems.append("出现禁用品牌 YAWEI")
+    if LEAD_RE.search(body):
+        problems.append("首封出现交期数字（红线：首封不报交期）")
+    if PRICE_RE.search(body):
+        problems.append("首封出现价格词（红线：首封不报价）")
+    for s in SPAM:
+        if re.search(rf"\b{re.escape(s)}\b", body, re.I):
+            problems.append(f"spam 触发词：{s}")
+    if not any(u in low for u in UNSUB_MARKERS):
+        problems.append("缺退订承诺句（CASL/CAN-SPAM 合规必带）")
+    # 正文不应再出现职务/邮箱/电话行（新格式）
+    if re.search(r"Sales Manager\s*\|\s*JZPE", body):
+        problems.append("正文里仍有旧式署名行（应只保留 `Ian Chou`）")
+    # 署名主体：查签名。
+    # 注：文档里出现过 JZPE POWER / JIEZOU POWER / JZPE POWER TRANSFORMER CO., LTD.
+    # 等写法，用户 2026-09-27 确认「都是同一家公司 JIEZOU POWER」，不作区分。
+    if not any(x in signature for x in ("JZPE POWER", "JIEZOU POWER")):
+        problems.append("签名里找不到署名主体（JIEZOU POWER）")
+    if "待填" in body:
+        problems.append("正文含【待填…】占位符")
+    wc = len(re.findall(r"[A-Za-z][A-Za-z'\-]*", body))
+    if not (60 <= wc <= 150):
+        problems.append(f"词数 {wc} 不在 60–150 区间")
+    return problems
+
+
+def main():
+    ap = argparse.ArgumentParser(description="开发信发送器")
+    ap.add_argument("letter", nargs="?", help="信件关键字（文件名包含即可），如 Codale")
+    ap.add_argument("--list", action="store_true", help="列出所有信件")
+    ap.add_argument("--send", action="store_true", help="真正发送")
+    ap.add_argument("--yes", action="store_true", help="跳过交互确认")
+    ap.add_argument("--to", help="【测试】重定向收件人，绝不发给真实客户")
+    ap.add_argument("--dry-run", action="store_true", help="预演，不发送")
+    ap.add_argument("--subject-index", type=int, default=1,
+                    help="用第几个 Subject 备选（默认 1）")
+    args = ap.parse_args()
+
+    files = sorted(CLIENTS.glob("开发信-*.md"))
+    if args.list or not args.letter:
+        print(f"可用信件（{len(files)} 封）：\n")
+        for f in files:
+            _, body, notes = parse_letter(f)
+            wc = len(re.findall(r"[A-Za-z][A-Za-z'\-]*", body))
+            rc = recipients_of(notes)
+            print(f"  {f.stem.replace('开发信-',''):<36} {wc:>4}词  → {rc or '（批注里未标主送）'}")
+        return 0
+
+    hit = [f for f in files if args.letter.lower() in f.name.lower()]
+    if not hit:
+        print(f"找不到匹配「{args.letter}」的信件。用 --list 看全部。")
+        return 1
+    if len(hit) > 1:
+        print(f"匹配到 {len(hit)} 封，请更精确：")
+        for f in hit:
+            print("  ", f.name)
+        return 1
+    letter = hit[0]
+
+    subjects, body, notes = parse_letter(letter)
+    signature = load_signature()
+    problems = compliance_check(body, signature)
+
+    print(f"信件：{letter.name}")
+    print(f"词数：{len(re.findall(r'[A-Za-z][A-Za-z_-]*', body))}")
+    print(f"主题：{subjects[args.subject_index-1] if len(subjects) >= args.subject_index else '（无）'}")
+    print()
+
+    if problems:
+        print("⛔ 红线自检未通过：")
+        for p in problems:
+            print("   -", p)
+        return 2
+    print("✅ 红线自检通过（无禁用认证 / 无 YAWEI / 无交期 / 无价格 / 无 spam / 含退订句 / 词数合规）")
+    print()
+
+    real_to = recipients_of(notes)
+    if not real_to and not args.to:
+        print("⚠️ 批注里没有标主送邮箱，且未提供 --to。无法发送。")
+        return 1
+
+    to = [args.to] if args.to else real_to
+    if args.to and real_to:
+        print(f"⚠️  重定向：原收件人 {real_to} → {args.to}（未发给真实客户）")
+    print(f"收件人：{to}")
+
+    html = build_html(body, signature)
+    print(f"正文 HTML：{len(html)} 字符；签名图片引用：{html.count('cid:')} 个")
+    print()
+
+    if args.dry_run or not args.send:
+        print("（未加 --send，仅预演。确认无误后加 --send 执行）")
+        return 0
+
+    if not args.yes:
+        if input("确认发送请输入 yes：").strip().lower() != "yes":
+            print("已取消。")
+            return 1
+
+    mailer = load_mailer()
+    cfg = mailer.load_config()
+    subject = subjects[args.subject_index-1] if len(subjects) >= args.subject_index else letter.stem
+    msg = mailer.build_message(cfg, to, subject, html=html, inline=True)
+    ok, err = mailer.smtp_send(cfg, msg, to)
+    if ok:
+        print("✅ 已发送")
+        print(f"   收件人：{to}")
+        print(f"   主题  ：{subject}")
+        return 0
+    print(f"❌ 发送失败：{err}")
+    return 1
+
+
+if __name__ == "__main__":
+    sys.exit(main() or 0)

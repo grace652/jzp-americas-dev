@@ -1,0 +1,262 @@
+[
+  {
+    "letter": "开发信-Southern-Transformer-Services.md",
+    "to": [
+      "gtaylor@sts-energy.com"
+    ],
+    "subject": "Liquid-filled transformers, from the maker",
+    "tz": "CT",
+    "window_start_bj": "2026-10-02 22:00",
+    "window_end_bj": "2026-10-02 23:00",
+    "window_start_local": "2026-10-02 09:00",
+    "window_end_local": "2026-10-02 10:00",
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-02 21:45",
+    "sent_at": "2026-10-02 21:47",
+    "scheduled_at_bj": "2026-10-02 21:47",
+    "scheduled_at_local": "2026-10-02 08:47"
+  },
+  {
+    "letter": "开发信-DDGrid.md",
+    "to": [
+      "daniel.connelly@ddgrid.com"
+    ],
+    "subject": "Transformers for your substation work",
+    "tz": "CT",
+    "window_start_bj": "2026-10-02 22:00",
+    "window_end_bj": "2026-10-02 23:00",
+    "window_start_local": "2026-10-02 09:00",
+    "window_end_local": "2026-10-02 10:00",
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-02 21:45",
+    "sent_at": "2026-10-02 21:48",
+    "scheduled_at_bj": "2026-10-02 21:48",
+    "scheduled_at_local": "2026-10-02 08:48"
+  },
+  {
+    "letter": "开发信-Westcor-Contracting.md",
+    "to": [
+      "ckish@westcorcontracting.ca"
+    ],
+    "subject": "Transformers for your Crown Corporation work",
+    "tz": "CT",
+    "window_start_bj": "2026-10-02 22:00",
+    "window_end_bj": "2026-10-02 23:00",
+    "window_start_local": "2026-10-02 09:00",
+    "window_end_local": "2026-10-02 10:00",
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-02 21:45",
+    "sent_at": "2026-10-02 21:51",
+    "scheduled_at_bj": "2026-10-02 21:51",
+    "scheduled_at_local": "2026-10-02 08:51"
+  },
+  {
+    "letter": "开发信-Interstate-Electrical.md",
+    "to": [
+      "joycec@interstateelectrical.net"
+    ],
+    "subject": "Transformer supply for your substation packages",
+    "tz": "MT",
+    "window_start_bj": "2026-10-02 23:00",
+    "window_end_bj": "2026-10-03 00:00",
+    "window_start_local": "2026-10-02 09:00",
+    "window_end_local": "2026-10-02 10:00",
+    "local_label": "美山",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-02 21:45",
+    "sent_at": "2026-10-02 22:03",
+    "scheduled_at_bj": "2026-10-02 22:03",
+    "scheduled_at_local": "2026-10-02 08:03"
+  },
+  {
+    "letter": "开发信-Lonestar-Electric.md",
+    "to": [
+      "smaertz@lonestarelectricsupply.com"
+    ],
+    "subject": "UL-listed transformers for your catalog",
+    "tz": "CT",
+    "window_start_bj": "2026-10-02 22:00",
+    "window_end_bj": "2026-10-02 23:00",
+    "window_start_local": "2026-10-02 09:00",
+    "window_end_local": "2026-10-02 10:00",
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-02 21:45",
+    "sent_at": "2026-10-02 22:24",
+    "scheduled_at_bj": "2026-10-02 22:24",
+    "scheduled_at_local": "2026-10-02 09:24"
+  },
+  {
+    "letter": "开发信-DFW-Breakers.md",
+    "to": [
+      "dorie@dfwbreakers.com"
+    ],
+    "subject": "Transformers alongside your breaker lineup",
+    "tz": "CT",
+    "window_start_bj": "2026-10-02 22:00",
+    "window_end_bj": "2026-10-02 23:00",
+    "window_start_local": "2026-10-02 09:00",
+    "window_end_local": "2026-10-02 10:00",
+    "local_label": "美中",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-02 21:45",
+    "sent_at": "2026-10-02 22:37",
+    "scheduled_at_bj": "2026-10-02 22:37",
+    "scheduled_at_local": "2026-10-02 09:37"
+  },
+  {
+    "letter": "开发信-High-Country-Line.md",
+    "to": [
+      "clay@highcountryline.com"
+    ],
+    "subject": "Transformer supply for your vendor program",
+    "tz": "MT",
+    "window_start_bj": "2026-10-02 23:00",
+    "window_end_bj": "2026-10-03 00:00",
+    "window_start_local": "2026-10-02 09:00",
+    "window_end_local": "2026-10-02 10:00",
+    "local_label": "美山",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-02 21:45",
+    "sent_at": "2026-10-02 22:43",
+    "scheduled_at_bj": "2026-10-02 22:43",
+    "scheduled_at_local": "2026-10-02 08:43"
+  },
+  {
+    "letter": "开发信-Potelco.md",
+    "to": [
+      "jlampman@potelco.net"
+    ],
+    "subject": "Substation and distribution transformer supply",
+    "tz": "PT",
+    "window_start_bj": "2026-10-03 00:00",
+    "window_end_bj": "2026-10-03 01:00",
+    "window_start_local": "2026-10-02 09:00",
+    "window_end_local": "2026-10-02 10:00",
+    "local_label": "美西",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-02 21:45",
+    "sent_at": "2026-10-02 23:13",
+    "scheduled_at_bj": "2026-10-02 23:13",
+    "scheduled_at_local": "2026-10-02 08:13"
+  },
+  {
+    "letter": "开发信-Civic-Recycling.md",
+    "to": [
+      "scott@civicrecycling.com"
+    ],
+    "subject": "A transformer supply line for Calgary",
+    "tz": "MT",
+    "window_start_bj": "2026-10-02 23:00",
+    "window_end_bj": "2026-10-03 00:00",
+    "window_start_local": "2026-10-02 09:00",
+    "window_end_local": "2026-10-02 10:00",
+    "local_label": "美山",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-02 21:45",
+    "sent_at": "2026-10-02 23:27",
+    "scheduled_at_bj": "2026-10-02 23:27",
+    "scheduled_at_local": "2026-10-02 09:27"
+  },
+  {
+    "letter": "开发信-Westgrid-Power.md",
+    "to": [
+      "don.sinclair@driftwoodcom.com"
+    ],
+    "subject": "New transformer supply for Westgrid",
+    "tz": "PT",
+    "window_start_bj": "2026-10-03 00:00",
+    "window_end_bj": "2026-10-03 01:00",
+    "window_start_local": "2026-10-02 09:00",
+    "window_end_local": "2026-10-02 10:00",
+    "local_label": "美西",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-02 21:45",
+    "sent_at": "2026-10-02 23:35",
+    "scheduled_at_bj": "2026-10-02 23:35",
+    "scheduled_at_local": "2026-10-02 08:35"
+  },
+  {
+    "letter": "开发信-Excess-Distributors.md",
+    "to": [
+      "bryan@excessdist.com"
+    ],
+    "subject": "A supply line for backorder fill",
+    "tz": "AZ",
+    "window_start_bj": "2026-10-03 00:00",
+    "window_end_bj": "2026-10-03 01:00",
+    "window_start_local": "2026-10-02 09:00",
+    "window_end_local": "2026-10-02 10:00",
+    "local_label": "亚利桑那",
+    "dst": false,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-02 21:45",
+    "sent_at": "2026-10-02 23:36",
+    "scheduled_at_bj": "2026-10-02 23:36",
+    "scheduled_at_local": "2026-10-02 08:36"
+  },
+  {
+    "letter": "开发信-ZE-Power-Engineering.md",
+    "to": [
+      "andres.briseno@zepe.ca"
+    ],
+    "subject": "Transformers for substation and distribution design",
+    "tz": "PT",
+    "window_start_bj": "2026-10-03 00:00",
+    "window_end_bj": "2026-10-03 01:00",
+    "window_start_local": "2026-10-02 09:00",
+    "window_end_local": "2026-10-02 10:00",
+    "local_label": "美西",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-02 21:45",
+    "sent_at": "2026-10-03 00:07",
+    "scheduled_at_bj": "2026-10-03 00:07",
+    "scheduled_at_local": "2026-10-02 09:07"
+  },
+  {
+    "letter": "开发信-Pacific-Powertech.md",
+    "to": [
+      "jkonkin@pacificpowertech.ca"
+    ],
+    "subject": "Transformers for high-voltage field service",
+    "tz": "PT",
+    "window_start_bj": "2026-10-03 00:00",
+    "window_end_bj": "2026-10-03 01:00",
+    "window_start_local": "2026-10-02 09:00",
+    "window_end_local": "2026-10-02 10:00",
+    "local_label": "美西",
+    "dst": true,
+    "status": "sent",
+    "blocked_reason": "",
+    "queued_at": "2026-10-02 21:45",
+    "sent_at": "2026-10-03 00:36",
+    "scheduled_at_bj": "2026-10-03 00:36",
+    "scheduled_at_local": "2026-10-02 09:36"
+  }
+]

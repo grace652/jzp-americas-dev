@@ -1,0 +1,178 @@
+[
+  {
+    "letter": "开发信-跟进-WinAsia-Power.md",
+    "to": [
+      "iweera@yahoo.com"
+    ],
+    "cc": [],
+    "subject": "Re: Partnership enquiry — renewable project equipment, Sri Lanka",
+    "tz": "LK",
+    "local_label": "斯里兰卡",
+    "scheduled_at_bj": "2026-10-06 12:00",
+    "scheduled_at_local": "2026-10-06 09:30",
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:54",
+    "sent_at": null
+  },
+  {
+    "letter": "开发信-跟进-HS-Energy-System.md",
+    "to": [
+      "info@hsenergyusa.com"
+    ],
+    "cc": [],
+    "subject": "Re: UL padmount stock gap support",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-06 21:08",
+    "scheduled_at_local": "2026-10-06 09:08",
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:54",
+    "sent_at": null
+  },
+  {
+    "letter": "开发信-跟进-Universal-Electric-Services.md",
+    "to": [
+      "info@universalelectricservices.ca"
+    ],
+    "cc": [],
+    "subject": "Re: UL transformers for Bericap-type jobs",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-06 21:17",
+    "scheduled_at_local": "2026-10-06 09:17",
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:54",
+    "sent_at": null
+  },
+  {
+    "letter": "开发信-跟进-Wesco-Distribution-Canada.md",
+    "to": [
+      "ecommhd@wesco.com"
+    ],
+    "cc": [],
+    "subject": "Re: UL padmount gaps outside current lineup",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-06 21:25",
+    "scheduled_at_local": "2026-10-06 09:25",
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:54",
+    "sent_at": null
+  },
+  {
+    "letter": "开发信-跟进-Northern-High-Voltage.md",
+    "to": [
+      "northernhighvoltage@gmail.com"
+    ],
+    "cc": [],
+    "subject": "Re: Small padmount transformers for Muskoka",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-06 21:34",
+    "scheduled_at_local": "2026-10-06 09:34",
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:54",
+    "sent_at": null
+  },
+  {
+    "letter": "开发信-跟进-Rhododendron-Electric.md",
+    "to": [
+      "brandon@rhododendronelectric.com"
+    ],
+    "cc": [],
+    "subject": "Re: Small transformers for service upgrades",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-06 21:42",
+    "scheduled_at_local": "2026-10-06 09:42",
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:54",
+    "sent_at": null
+  },
+  {
+    "letter": "开发信-跟进-Aurum-Electric.md",
+    "to": [
+      "projects@aurumelectric.ca"
+    ],
+    "cc": [],
+    "subject": "Re: Distribution transformers for Burlington upgrades",
+    "tz": "ET",
+    "local_label": "美东",
+    "scheduled_at_bj": "2026-10-06 21:51",
+    "scheduled_at_local": "2026-10-06 09:51",
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:54",
+    "sent_at": null
+  },
+  {
+    "letter": "开发信-跟进-Killmer-Electric.md",
+    "to": [
+      "bpalmer@killmerelectric.com"
+    ],
+    "cc": [],
+    "subject": "Re: Transformer replacements for MV upgrades",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-06 22:15",
+    "scheduled_at_local": "2026-10-06 09:15",
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:54",
+    "sent_at": null
+  },
+  {
+    "letter": "开发信-跟进-Moody-Electric.md",
+    "to": [
+      "lmoody@moodyelectric.com"
+    ],
+    "cc": [],
+    "subject": "Re: Transformer replacements for 23/15/5kV jobs",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-06 22:30",
+    "scheduled_at_local": "2026-10-06 09:30",
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:54",
+    "sent_at": null
+  },
+  {
+    "letter": "开发信-跟进-Roberts-Electrical-Mobile.md",
+    "to": [
+      "ashley@roberts-ec.com"
+    ],
+    "cc": [],
+    "subject": "Re: Transformers for Mobile HV feeder work",
+    "tz": "CT",
+    "local_label": "美中",
+    "scheduled_at_bj": "2026-10-06 22:45",
+    "scheduled_at_local": "2026-10-06 09:45",
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:54",
+    "sent_at": null
+  },
+  {
+    "letter": "开发信-跟进-Elliott-Electric.md",
+    "to": [
+      "HelpDesk@elliottelectric.com"
+    ],
+    "cc": [],
+    "subject": "Re: Transformer gaps — Attn Stephen Elliott",
+    "tz": "AZ",
+    "local_label": "亚利桑那",
+    "scheduled_at_bj": "2026-10-07 00:30",
+    "scheduled_at_local": "2026-10-06 09:30",
+    "status": "pending",
+    "blocked_reason": "",
+    "queued_at": "2026-10-05 15:54",
+    "sent_at": null
+  }
+]

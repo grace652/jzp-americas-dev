@@ -1,0 +1,69 @@
+# 开发信 — Westfield Electric, Inc.（买家 390）
+
+> 名单来源：batch10 名单（westfieldgroups.com，美国 OH Gibsonburg）· B 类电力承包商（电气 + 专设 High Voltage Division）
+> 交接单：`交接单/batch10_new_374plus/买家390_Westfield_Electric_开发信交接单.md`
+> 骨架：**A（通用首触 —— 官网 High Voltage Division 页 "substations / transmission lines"）**
+> 收件人：**Thomas Busdeker · Owner / President（Westfield Electric, Inc.）** ｜ `tbusdeker@westfieldgroups.com`（A 档 · 官网 Team 页 mailto 一手明文 + OH SoS 州登记 Officer/Director + LinkedIn 现职）
+> 发信资格：✅ 通过 ｜ 邮箱档位：**A（主送）**
+> 拟发送时段：OH = **东部时区（ET）**｜当地工作日 09:00–10:00 = **北京 21:00–22:00（夏令时）**
+
+> 🔴 **本封特殊说明**：Westfield Electric, Inc. **属家族集团 Westfield Groups**（含 Electric / Technologies / Development 三事业部）→ **集团内只发 1 人**（本封主送 Thomas Busdeker，不另发其他事业部）。正文以「贵司的 **High Voltage Division**」落点。
+
+---
+
+## 一、主题行（3 选 1）
+
+1. `Transformers for your high voltage division`
+2. `A source behind your substation rebuilds`
+3. `Transformers for substation and rebuild work`
+
+> 选型说明：三条均 3–6 词、无全大写、无感叹号、无 spam 词；未出现容量 / 电压 / 价格 / 交期数字。主题行 1 直接呼应其官网 **High Voltage Division**。
+
+---
+
+## 二、正文（116 词）
+
+```
+Hi Thomas,
+
+Your High Voltage Division page says your crews work on substations and transmission lines across the country, from demolition through rebuild. Work like that keeps a steady call for replacement transformers — often the hardest item to source on a rebuild schedule.
+
+We're JZPE Power Transformer, a manufacturer in Suzhou, China. Our three-phase liquid-immersed line is UL listed — E541627 for distribution and pad-mount, 45–5,000 kVA; E541626 for power transformers, 750–110,000 kVA — and built to IEEE C57.12.
+
+When a substation rebuild comes up, where do you source the transformers now? Reply "SPECS" and I'll send the matching spec sheets, UL certificates and factory test reports.
+
+If this isn't useful, reply "stop" and I won't write again.
+
+Best regards,
+
+Ian Chou
+```
+
+---
+
+## 三、中文注解（8 项）
+
+- **收件人**：**Thomas Busdeker · Owner / President（Westfield Electric, Inc.）**（`tbusdeker@westfieldgroups.com`）
+1. **发信资格**：✅ **通过** —— 域名 `westfieldgroups.com` 有 MX（Proofpoint，非 NXDOMAIN、非双域）；收件人不在「不再联系名单」；官网 ©2026 现行、LinkedIn 现职、OH SoS 登记三方一致。
+2. **邮箱档位**：**A（具名决策人邮箱，官网一手明文，可主送）** —— `tbusdeker@westfieldgroups.com`（Thomas Busdeker, Owner/President, Westfield Electric, Inc.）。依据：官网 Team 页 mailto 明文（一手源）+ **OH SoS 登记 Officer/Director = Thomas Busdeker**（一手政府源）+ LinkedIn "Owner, Westfield Electric, Inc."；同页另列 7 个同域具名邮箱（规则级佐证）。⚠️ 缺 SMTP 第二源 + MX 走 **Proofpoint** → **首封密切监控退信**，**勿在发送环节对 Proofpoint 域反复做 RCPT 探测**；并行电话 **(419) 862-0078 ext. 25**。
+3. **骨架**：**A（通用首触）** —— 接触路径源自官网 Team 页 + High Voltage Division 页 + OH SoS 登记。
+4. **钩子**：**「专设 HV 事业部 + 变电站重建」类** —— 落点事实（官网一手源）：High Voltage Division 页原句 *"Our crews have experience working in **several substations across the country**"*、*"from **complete demolition to rebuild** within"*；另持 **WBE / DBE / EDGE** 认证 + private & public（prime & sub）项目 → 政府/公用项目型采购。逻辑链：**专设 HV 事业部 + 变电站新建/重建 + 公共项目** → 变电站/配电变持续采购场景 → 落点收在**资料**。⚠️ **未断言其自采变压器**（交接单列为关键缺口 → 以 CTA 提问落点）。
+5. **刻意未用的内容**：
+   - ⛔ **成立年份** —— 官网 "27+ years" 与 OH 实体登记 2022-12-27 **口径冲突** → 红线，正文不提年份。
+   - ⛔ **员工数 / 营收** —— 未获取 → 正文不引用任何数字。
+   - ⛔ **集团 CEO Sheri Busdeker / 其他 7 名具名邮箱** —— 集团内只发 1 人，**不并发、不点名他人**。
+   - ⛔ **`anyitray@westfieldgroups.com`** —— Team 页 CMS 残留/前员工邮箱，**已剔除，绝不使用**。
+   - ⛔ **单相柱上变（E544629）** —— 仅 ECD 计划函、**不可称 certified** → 不提。
+   - ⛔ **干变** —— 对美国客户完全不谈（无 UL）；⚠️ 其项目含加拿大，但**本封按美国场景写**。
+   - ⛔ **具体 kV / kVA / 现有供应商 / 是否进口** —— 交接单「信息缺口清单」字段，正文只以提问落点。
+   - ⛔ **交期 / 价格 / 附件 / 链接** —— 红线。
+6. **待确认 / 存疑**：
+   - ⚠️ **集团归属**：属 Westfield Groups 家族集团（三事业部）→ **本单与 Technologies / Development 按 1 家处理**；若本项目另获其线索须归并，不得各发一封。
+   - ⚠️ **`tbusdeker@` 缺 SMTP 第二源**（本轮 SMTP 不可用 + Proofpoint 网关）→ 已按「官网一手明文 + 州登记」口径处理，**不谎称已验证到人**。
+   - ⚠️ **成立年份口径冲突**（"27+ years" vs 2022 实体登记）→ 正文回避年份。
+   - ⚠️ **其变电站项目是否自采变压器未获取** → CTA 直接问现有来源，避免切入落空。
+   - ⚠️ **Thomas Busdeker 任职时长未获取** → 正文不指称任职年限。
+7. **发送时段**：**北京 21:00–22:00**（= OH 东部时间当地 09:00–10:00，夏令时 EDT）。换算依据：ET 夏令 UTC−4，北京 UTC+8，9:00 → 13:00 UTC → 21:00 北京。🔴 **冬令时起（2026-11-01）改为 22:00–23:00**。
+8. **避开发送日**：**周六 / 周日**（美国周末）；建议**周二–周四**投递。⚠️ 送达：MX = **Proofpoint**（网关严格）→ 用正规 ESP 投递，**首封密切监控退信**。
+
+> ⚠️ **发信前建议先做的动作**：`tbusdeker@` 为官网一手明文 + 州登记、缺 SMTP 第二源 → 首封发出后**密切监控退信**；并行电话 **(419) 862-0078 ext. 25**。

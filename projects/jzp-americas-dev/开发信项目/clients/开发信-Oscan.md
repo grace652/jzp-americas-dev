@@ -1,0 +1,73 @@
+# 开发信 — Oscan Electrical Supplies Ltd.（买家 302）
+
+> 名单来源：`线索资产/目标客户清单-batch8.csv` 序号 302 · A 类（电气分销商）
+> 交接单：`交接单/batch8_new_274plus/买家302_Oscan_开发信交接单.md`
+> 骨架：**A（通用首触 —— 官网产品线与 Team 页来源）**
+> 收件人：**Enrico Osso · President** ｜ `eosso@oscan.ca`（A 档 · SMTP RCPT 250 实证）
+> 发信资格：✅ 通过 ｜ 邮箱档位：**A（主送）**
+- 邮箱档位：**A（主送）** → 收件 `eosso@oscan.ca`
+> 拟发送时段：ON Oshawa = **东部时区（EDT）**｜当地工作日 09:00–10:00 = **北京 21:00–22:00（夏令时）**
+
+> ⚠️ **禁用地址提醒**：`info@oscan.ca` **SMTP 550 不存在**（第三方目录所列为错）→ **绝对不发**；主送只用 `eosso@oscan.ca`。
+
+---
+
+## 一、主题行（3 选 1）
+
+1. `Liquid-immersed transformers for your stock`
+2. `A transformer source for your distribution line`
+3. `Distribution transformers — Oshawa`
+
+> 选型说明：
+> - 三条均 **3–6 词**、无全大写、无感叹号、无 spam 词。
+> - 咬住其**配电类主营（panels / breakers / transformers）+ 备货型分销**。
+> - **未出现**容量、电压、价格、交期数字。
+
+## 二、正文（112 词）
+
+```
+Hi Enrico,
+
+Your line runs panels, breakers, fuses and transformers, and you keep an
+on-site warehouse behind it — the profile of a distributor that stocks
+rather than brokers. That is where a liquid-immersed transformer source
+fits.
+
+We're JZPE Power Transformer, a manufacturer in Suzhou, China. We build
+three-phase liquid-immersed distribution and pad-mount transformers for
+60 Hz systems — UL certified (E541627, 45–5,000 kVA), built to
+CSA/IEEE/IEC standards, with a factory test report per unit.
+
+Which transformer ratings do your contractors ask for most? I'll send our
+UL certificate, spec sheets and test reports for that range.
+
+If this isn't useful, reply "stop" and I won't write again.
+
+Best regards,
+
+Ian Chou
+```
+
+## 三、中文注解（8 项）
+
+- **收件人**：**Enrico Osso · President**（`eosso@oscan.ca`）
+1. **发信资格**：✅ 通过 —— 纯分销商（非制造 / 非竞品）；A 档具名决策人邮箱；不在「不再联系名单」内。
+2. **邮箱档位**：**A（主送）** `eosso@oscan.ca` —— SMTP RCPT 250 实证（随机地址 550 + 3 种错误格式 550 负控通过）+ 官网 Team 页 + LinkedIn 现职 President 佐证。⚠️ MX = **Proofpoint Essentials**（本域为可探测「目录型」）→ **退信为最终反馈**。
+3. **骨架**：**A（通用首触 —— 官网产品线与 Team 页来源）**。
+4. **钩子**：**分销商「缺口 + 资料」类**。落点事实 = 官网/名录产品全线上明确含 `transformers`，主营 panels / breakers / fuses / conduit（①级）+ 自述有 onsite 仓库备货。逻辑链：**配电类经销商 + 备货型 = 有稳定进货需求** → 落点收在我方真有的**三相液浸配电变 / 三相美变（UL E541627）**。CTA 用「哪些容量段客户问得最多」探缺口。
+5. **刻意未用的内容**：
+   - ⛔ 不引用**员工数 / 营收 / 成立年份**（第三方口径且不一致，信息缺口清单）。
+   - ⛔ 不提其 **Team 页 11 人 / 无采购岗**（组织规模，首封不碰）。
+   - ⛔ 不提**分店经理 / CFO / 客户经理名单**（不堆人名）。
+   - ⛔ 不提**干变 / 单相柱上变**（首封不主动引入弱势品类）。
+   - ⛔ 不提第三方「Manufacturing」误标（疑分类错误，且我方不评对方属性）。
+   - ⛔ 不报**交期 / 价格**。
+6. **待确认 / 存疑**：
+   - ⚠️ **具体采购变压器 kV / kVA / 相数 未获取** → 正文以**提问方式**获取（未编造）。
+   - ⚠️ **A 档未取得官网一手明文邮箱**（官网 Team 页不挂邮箱）→ 依据为 SMTP 实证 + LinkedIn 佐证，**已如实标注**。
+   - ⚠️ 地址来自第三方（官网只列电话）→ 正文**未提地址**。
+   - ⚠️ 第三方分类含 "Manufacturing"（疑误标）→ 若后续发现其在运绕线/总装产能，**须立即改判**。
+7. **发送时段**：ON = **东部夏令时（EDT，UTC−4）**，与北京（UTC+8）差 12 小时 → 当地 09:00–10:00 = **北京 21:00–22:00**。🔴 **2026-11-01 夏令时结束后改北京 22:00–23:00**。
+8. **避开发送日**：北美周末 = 周六 + 周日 → 建议**周二至周四**发；避开加拿大感恩节 **2026-10-12（周一）**、国殇纪念日 **11-11**。
+
+> ⚠️ **发信前建议先做的动作**：电话 **(905) 728-3800** 并行跟进；控制地址须用实测为真的 `sales@`（**不可用已证伪的 `info@`**）。

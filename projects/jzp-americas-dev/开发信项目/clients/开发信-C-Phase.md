@@ -1,0 +1,71 @@
+# 开发信 — C-Phase Services, LLC（买家 396）
+
+> 名单来源：batch10 名单（c-phase.com，美国 NC Kinston）· B 类（中/高压电力公用事业承包商）
+> 交接单：`交接单/batch10_new_374plus/买家396_C_Phase_开发信交接单.md`
+> 骨架：**A（通用首触 —— 官网中压承包商定位 + Substations / T&D 业务）**
+> 收件人：**Gary Whaley · Owner / President** ｜ `gwhaley@c-phase.com`（A 档 · 官网 footer 一手明文 + 政府供应商登记 + 同域第二具名规则级确认）
+> 发信资格：✅ 通过 ｜ 邮箱档位：**A（主送）**
+> 🔴 **收件域 = `c-phase.com`（有 MX，Google Workspace）** —— ⛔ **绝不可发 `@cphaseservices.com`（官网域，无 MX，必退）**
+> 拟发送时段：NC = **东部时区（ET）**｜当地工作日 09:00–10:00 = **北京 21:00–22:00（夏令时）**
+
+---
+
+## 一、主题行（3 选 1）
+
+1. `Transformers for your substation and distribution work`
+2. `A direct source for utility-grade transformers`
+3. `Liquid-immersed units for your projects`
+
+> 选型说明：三条均 **3–6 词**、无全大写、无感叹号、无 spam 词；**未出现**容量、电压、价格、交期数字。
+
+---
+
+## 二、正文（102 词）
+
+```
+Hi Gary,
+
+A medium-voltage utility contractor whose work runs through substations,
+overhead and underground distribution, and transmission — that usually
+means the transformer spec changes with every project, not every quarter.
+
+We're JZPE Power Transformer, a manufacturer in Suzhou, China. Our
+three-phase liquid-immersed line is UL listed — E541627 for distribution
+and pad-mount, 45–5,000 kVA; E541626 for power transformers,
+750–110,000 kVA — and built to IEEE C57.12.
+
+Which kVA ranges come up most in your substation and distribution work?
+Reply "SPECS" and I'll send the matching spec sheets, UL certificates and
+factory test reports.
+
+If this isn't useful, reply "stop" and I won't write again.
+
+Best regards,
+
+Ian Chou
+```
+
+---
+
+## 三、中文注解（8 项）
+
+- **收件人**：**Gary Whaley · Owner / President**（`gwhaley@c-phase.com`）
+1. **发信资格**：✅ **通过** —— 域名 `c-phase.com` 有 MX（Google Workspace，非 NXDOMAIN）；官网一手具名邮箱 + 政府供应商登记 + 同域第二具名（`swhaley@c-phase.com`）三源一致；收件人不在「不再联系名单」。
+2. **邮箱档位**：**A（具名决策人邮箱，可主送）** —— `gwhaley@c-phase.com`（Gary Whaley，Owner/President）。⚠️ 本轮 SMTP 不可用，A 档依据为**官网一手明文 + 政府登记 + 规则级确认**，非 SMTP → 首封密切监控退信。
+3. **骨架**：**A（通用首触）** —— 接触路径源自官网（footer 具名邮箱）+ 政府供应商登记。
+4. **钩子**：**「中压承包商 + 变电站/T&D 业务 → 变电站设备直供」类** —— 落点事实（官网一手）：其自述 *"medium voltage and high voltage work as well as substations, lighting projects, underground and overhead distribution, transmission"*；其需求品类含三相美变（E541627）/ 电力变（E541626）**可直供**。逻辑链：**业务覆盖配电→输电全段 + 设备应用场景明确** → 制造商直供的规格资料正对位 → 落点收在**资料**。⚠️ **未断言对方缺货**；**未把创始人前雇主的 EPC 政府合同记到其名下**。
+5. **刻意未用的内容**：
+   - ⛔ **成立年份 2019**（虽交接单注明可写，仍按红线「成立年份不引用具体数字」**正文不提**）。
+   - ⛔ **41 年行业经验 / 员工数 / 营收** —— 红线，不引用任何数字。
+   - ⛔ **单相柱上变（E544629）与变电站小主变 SF 系列** —— 仅 ECD 计划函、**不可称 certified** → 首封不提。
+   - ⛔ **干变** —— 美国客户不谈干变（无 UL）。
+   - ⛔ **具体 kV / kVA / 品牌 / 是否直接采购 / 是否已固定海外供应商** —— 「信息缺口清单」字段，**一字不写**；正文只以**提问**落点。
+   - ⛔ **两处地址口径**（2173 Energy Dr vs 2148 Hwy 258 S）—— 首封不碰地址。
+   - ⛔ **交期 / 价格 / 附件 / 链接** —— 红线。
+6. **待确认 / 存疑**：
+   - ⚠️ **官网域 ≠ 邮箱域**：客户看官网是 `cphaseservices.com`，邮件走 `c-phase.com` → 正文自然引用官网内容，**收件地址必须 `c-phase.com`**。
+   - ⚠️ **SMTP 未复核**（本环境不可用）→ 已按「官网一手明文 + 政府登记」口径处理，**不谎称已验证到人**。
+   - ⚠️ **采购的具体 kV/kVA/认证要求、是否直接采购变压器（或甲方供料）、是否已固定中国/海外供应商** —— 均未获取，正文只作提问。
+   - ⚠️ **Gary Whaley 个人 LinkedIn / 确切任职起始** 未获取 → 正文不指称任职年限。
+7. **发送时段**：**北京 21:00–22:00**（= NC 东部时间当地 09:00–10:00，夏令时 EDT）。换算依据：ET 夏令 UTC−4，北京 UTC+8，09:00 → 13:00 UTC → 21:00 北京。🔴 **冬令时起（2026-11-01）改为 22:00–23:00**。
+8. **避开发送日**：**周六 / 周日**（美国周末）；建议**周二–周四**投递。⚠️ 送达：MX = Google Workspace，用正规 ESP 投递，首封密切监控退信；并行电话 (252) 643-2321。
